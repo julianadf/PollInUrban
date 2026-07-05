@@ -1,0 +1,884 @@
+Date;City;Site;Triplet;Category;Visit;Start.time;Weather;Taxon;Abund;Comment;...11;...12;Swedish.name;Taxon.category;Order;Family;Genus;Pollinator.type;Specialisation;Specialist;honeybee.abund
+2025-05-13 00:00;Uppsala;7D;7;DPC;1;11:00;17?, lätt molnigt;Pieris rapae;1;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;3
+2025-05-13 00:00;Uppsala;7D;7;DPC;1;11:00;17?, lätt molnigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-05-13 00:00;Uppsala;7D;7;DPC;1;11:00;17?, lätt molnigt;Nomada fulvicornis;1;;NA;NA;gullgökbi;Art;Hymenoptera;Apidae;Nomada;Bee;;;3
+2025-05-13 00:00;Uppsala;7D;7;DPC;1;11:00;17?, lätt molnigt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;3
+2025-05-13 00:00;Uppsala;7D;7;DPC;1;11:00;17?, lätt molnigt;Andrena fucata;1;;NA;NA;hallonsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;3
+2025-05-13 00:00;Uppsala;7D;7;DPC;1;11:00;17?, lätt molnigt;Anthophora retusa;4;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;3
+2025-05-13 00:00;Uppsala;7D;7;DPC;1;11:00;17?, lätt molnigt;Osmia bicolor;2;;NA;NA;snäckmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;3
+2025-05-13 00:00;Uppsala;7I;7;Planted meadow;1;15:15;18?, molnigt, lite blåsigt;Osmia bicolor;1;;NA;NA;snäckmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;7
+2025-05-13 00:00;Uppsala;7I;7;Planted meadow;1;15:15;18?, molnigt, lite blåsigt;Lasioglossum albipes;1;;NA;NA;ängssmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;7
+2025-05-15 00:00;Uppsala;7S;7;Spontaneous vegetation;1;14:45;14?, soligt, blåsigt;Andrena haemorrhoa;1;;NA;NA;trädgårdssandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;22
+2025-05-15 00:00;Uppsala;7S;7;Spontaneous vegetation;1;14:45;14?, soligt, blåsigt;Andrena nigroaenea;1;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;22
+2025-05-15 00:00;Uppsala;7S;7;Spontaneous vegetation;1;14:45;14?, soligt, blåsigt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;22
+2025-05-15 00:00;Uppsala;8D;8;DPC;1;16:35;15?, soligt, blåsigt;Anthophora retusa;3;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;16
+2025-05-15 00:00;Uppsala;8D;8;DPC;1;16:35;15?, soligt, blåsigt;Osmia bicolor;2;;NA;NA;snäckmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;16
+2025-05-15 00:00;Uppsala;8D;8;DPC;1;16:35;15?, soligt, blåsigt;Andrena nigroaenea;1;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;16
+2025-05-15 00:00;Uppsala;8D;8;DPC;1;16:35;15?, soligt, blåsigt;Nomada;1;;NA;NA;gökbin;Släkte;Hymenoptera;Apidae;Nomada;Bee;NA;;16
+2025-05-15 00:00;Uppsala;8D;8;DPC;1;16:35;15?, soligt, blåsigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-05-15 00:00;Uppsala;8D;8;DPC;1;16:35;15?, soligt, blåsigt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-05-16 00:00;Stockholm;2D;2;DPC;1;11:40;15?, soligt, blåsigt;Andrena semilaevis;1;;NA;NA;veronikasandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;19
+2025-05-16 00:00;Stockholm;2D;2;DPC;1;11:40;15?, soligt, blåsigt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;19
+2025-05-16 00:00;Stockholm;2D;2;DPC;1;11:40;15?, soligt, blåsigt;Wild bee;5;små;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;19
+2025-05-16 00:00;Stockholm;2D;2;DPC;1;11:40;15?, soligt, blåsigt;Nomada goodeniana;1;;NA;NA;gyllengökbi;Art;Hymenoptera;Apidae;Nomada;Bee;;;19
+2025-05-16 00:00;Stockholm;2D;2;DPC;1;11:40;15?, soligt, blåsigt;Nomada fulvicornis;1;;NA;NA;gullgökbi;Art;Hymenoptera;Apidae;Nomada;Bee;;;19
+2025-05-16 00:00;Stockholm;2D;2;DPC;1;11:40;15?, soligt, blåsigt;Osmia bicornis;3;;NA;NA;rödmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;19
+2025-05-16 00:00;Stockholm;2D;2;DPC;1;11:40;15?, soligt, blåsigt;Andrena tibialis;1;;NA;NA;lönnsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;19
+2025-05-16 00:00;Stockholm;2D;2;DPC;1;11:40;15?, soligt, blåsigt;Anthophora;1;;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;19
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Anthophora retusa;13;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;4
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Pieris rapae;1;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;4
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Nomada;1;;NA;NA;gökbin;Släkte;Hymenoptera;Apidae;Nomada;Bee;NA;;4
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Issoria lathonia;1;;NA;NA;storfläckig pärlemorfjäril;Art;Lepidoptera;Nymphalidae;Issoria;Butterfly;Oligophagous;Yes;4
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;4
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;4
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Andrena helvola;1;;NA;NA;äppelsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;4
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Andrena nigroaenea;1;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;4
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;4
+2025-05-16 00:00;Stockholm;2S;2;Spontaneous vegetation;1;14:30;17?, soligt, blåsigt;Andrena;3;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;4
+2025-05-16 00:00;Stockholm;2I;2;Planted meadow;1;16:15;17?, soligt, blåsigt;Andrena;1;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;54
+2025-05-16 00:00;Stockholm;2I;2;Planted meadow;1;16:15;17?, soligt, blåsigt;Halictinae;6;;NA;NA;;Underfamilj;Hymenoptera;Halictidae;;Bee;NA;;54
+2025-05-16 00:00;Stockholm;2I;2;Planted meadow;1;16:15;17?, soligt, blåsigt;Andrena nigroaenea;2;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;54
+2025-05-16 00:00;Stockholm;2I;2;Planted meadow;1;16:15;17?, soligt, blåsigt;Andrena haemorrhoa;1;;NA;NA;trädgårdssandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;54
+2025-05-16 00:00;Stockholm;2I;2;Planted meadow;1;16:15;17?, soligt, blåsigt;Anthophora retusa;3;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;54
+2025-05-19 00:00;Stockholm;1D;1;DPC;1;16:55;23?, soligt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;25
+2025-05-19 00:00;Stockholm;1D;1;DPC;1;16:55;23?, soligt;Gonepteryx rhamni;1;;NA;NA;citronfjäril;Art;Lepidoptera;Pieridae;Gonepteryx;Butterfly;Polyphagous;No;25
+2025-05-19 00:00;Stockholm;1D;1;DPC;1;16:55;23?, soligt;Andrena nigroaenea;1;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;25
+2025-05-19 00:00;Stockholm;1D;1;DPC;1;16:55;23?, soligt;Nomada fulvicornis;1;;NA;NA;gullgökbi;Art;Hymenoptera;Apidae;Nomada;Bee;;;25
+2025-05-19 00:00;Stockholm;1D;1;DPC;1;16:55;23?, soligt;Halictidae;1;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;25
+2025-05-19 00:00;Stockholm;3I;3;Planted meadow;1;09:50;15?, soligt, lite blåsigt;Anthophora retusa;2;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;64
+2025-05-19 00:00;Stockholm;3I;3;Planted meadow;1;09:50;15?, soligt, lite blåsigt;Pieris rapae;5;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-05-19 00:00;Stockholm;3I;3;Planted meadow;1;09:50;15?, soligt, lite blåsigt;Halictus rubicundus;2;;NA;NA;skogsbandbi;Art;Hymenoptera;Halictidae;Halictus;Bee;Polylectic;No;64
+2025-05-19 00:00;Stockholm;3D;3;DPC;1;12:20;19?, soligt;Bombus;2;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;157
+2025-05-19 00:00;Stockholm;3D;3;DPC;1;12:20;19?, soligt;Anthophora retusa;6;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;157
+2025-05-19 00:00;Stockholm;3D;3;DPC;1;12:20;19?, soligt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-05-19 00:00;Stockholm;3D;3;DPC;1;12:20;19?, soligt;Ceratina cyanea;1;;NA;NA;cyanmärgbi;Art;Hymenoptera;Apidae;Ceratina;Bee;Polylectic;No;157
+2025-05-19 00:00;Stockholm;3D;3;DPC;1;12:20;19?, soligt;Pieridae;1;;NA;NA;vitfjärilar;Familj;Lepidoptera;Pieridae;;Butterfly;NA;;157
+2025-05-19 00:00;Stockholm;3S;3;Spontaneous vegetation;1;13:20;22?, soligt;Leptidea;1;;NA;NA;;Släkte;Lepidoptera;Pieridae;Leptidea;Butterfly;NA;;1
+2025-05-19 00:00;Stockholm;3S;3;Spontaneous vegetation;1;13:20;22?, soligt;Lycaena phlaeas;2;;NA;NA;mindre guldvinge;Art;Lepidoptera;Lycaenidae;Lycaena;Butterfly;Oligophagous;Yes;1
+2025-05-19 00:00;Stockholm;3S;3;Spontaneous vegetation;1;13:20;22?, soligt;Anthophora retusa;1;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;1
+2025-05-19 00:00;Stockholm;3S;3;Spontaneous vegetation;1;13:20;22?, soligt;Sphecodes;1;;NA;NA;blodbin;Släkte;Hymenoptera;Halictidae;Sphecodes;Bee;NA;;1
+2025-05-19 00:00;Stockholm;3S;3;Spontaneous vegetation;1;13:20;22?, soligt;Halictidae;1;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;1
+2025-05-19 00:00;Stockholm;3S;3;Spontaneous vegetation;1;13:20;22?, soligt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;1
+2025-05-20 00:00;Sigtuna;4I;4;Planted meadow;1;14:40;20?, soligt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;10
+2025-05-20 00:00;Sigtuna;4I;4;Planted meadow;1;14:40;20?, soligt;Nomada goodeniana;1;;NA;NA;gyllengökbi;Art;Hymenoptera;Apidae;Nomada;Bee;;;10
+2025-05-20 00:00;Sigtuna;4I;4;Planted meadow;1;14:40;20?, soligt;Lasioglossum fulvicorne;1;;NA;NA;brunsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;10
+2025-05-20 00:00;Sigtuna;4I;4;Planted meadow;1;14:40;20?, soligt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;10
+2025-05-20 00:00;Sigtuna;4I;4;Planted meadow;1;14:40;20?, soligt;Lasioglossum;1;;NA;NA;smalbin;Släkte;Hymenoptera;Halictidae;Lasioglossum;Bee;NA;;10
+2025-05-20 00:00;Sigtuna;4S;4;Spontaneous vegetation;1;16:25;19?, soligt, lite blåsigt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;20
+2025-05-20 00:00;Sigtuna;4S;4;Spontaneous vegetation;1;16:25;19?, soligt, lite blåsigt;Pieris;1;;NA;NA;;Släkte;Lepidoptera;Pieridae;Pieris;Butterfly;NA;;20
+2025-05-20 00:00;Sigtuna;4S;4;Spontaneous vegetation;1;16:25;19?, soligt, lite blåsigt;Nomada goodeniana;2;;NA;NA;gyllengökbi;Art;Hymenoptera;Apidae;Nomada;Bee;;;20
+2025-05-20 00:00;Sigtuna;4S;4;Spontaneous vegetation;1;16:25;19?, soligt, lite blåsigt;Nomada ruficornis;1;;NA;NA;trädgårdsgökbi;Art;Hymenoptera;Apidae;Nomada;Bee;;;20
+2025-05-20 00:00;Sigtuna;4S;4;Spontaneous vegetation;1;16:25;19?, soligt, lite blåsigt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;20
+2025-05-20 00:00;Sigtuna;4S;4;Spontaneous vegetation;1;16:25;19?, soligt, lite blåsigt;Callophrys rubi;1;;NA;NA;grönsnabbvinge;Art;Lepidoptera;Lycaenidae;Callophrys;Butterfly;Oligophagous;Yes;20
+2025-05-20 00:00;Sigtuna;4S;4;Spontaneous vegetation;1;16:25;19?, soligt, lite blåsigt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;20
+2025-05-20 00:00;Uppsala;8S;8;Spontaneous vegetation;1;10:35;15?, soligt, lite blåsigt;Anthophora retusa;3;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;5
+2025-05-20 00:00;Uppsala;8S;8;Spontaneous vegetation;1;10:35;15?, soligt, lite blåsigt;Leptidea;1;;NA;NA;;Släkte;Lepidoptera;Pieridae;Leptidea;Butterfly;NA;;5
+2025-05-20 00:00;Uppsala;8S;8;Spontaneous vegetation;1;10:35;15?, soligt, lite blåsigt;Andrena haemorrhoa;3;;NA;NA;trädgårdssandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;5
+2025-05-20 00:00;Uppsala;8S;8;Spontaneous vegetation;1;10:35;15?, soligt, lite blåsigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-05-20 00:00;Uppsala;8I;8;Planted meadow;1;12:20;16?, soligt, blåsigt;Anthocharis cardamines;1;;NA;NA;aurorafjäril;Art;Lepidoptera;Pieridae;Anthocharis;Butterfly;Polyphagous;No;5
+2025-05-20 00:00;Uppsala;8I;8;Planted meadow;1;12:20;16?, soligt, blåsigt;Erynnis tages;1;;NA;NA;skogsvisslare;Art;Lepidoptera;Hesperiidae;Erynnis;Butterfly;Oligophagous;Yes;5
+2025-05-24 00:00;Stockholm;1S;1;Spontaneous vegetation;1;14:55;15?, soligt, blåsigt;Anthophora retusa;1;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;12
+2025-05-24 00:00;Stockholm;1S;1;Spontaneous vegetation;1;14:55;15?, soligt, blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;12
+2025-05-24 00:00;Stockholm;1S;1;Spontaneous vegetation;1;14:55;15?, soligt, blåsigt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;12
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Bombus soroeensis;1;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Pieris napi;2;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Osmia bicolor;8;;NA;NA;snäckmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Anthocharis cardamines;1;;NA;NA;aurorafjäril;Art;Lepidoptera;Pieridae;Anthocharis;Butterfly;Polyphagous;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Bombus;3;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Andrena labiata;1;;NA;NA;blodsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Andrena helvola;1;;NA;NA;äppelsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Anthophora;2;;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Anthophora retusa;3;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Andrena subopaca;1;;NA;NA;lundsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Lasioglossum morio;2;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;64
+2025-05-25 00:00;Åkersberga;5I;5;Planted meadow;1;13:00;14?, soligt;Andrena minutula;1;;NA;NA;småsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;64
+2025-05-25 00:00;Åkersberga;5S;5;Spontaneous vegetation;1;14:45;13?, mellan molnigt, blåsigt;Anthophora retusa;1;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;5
+2025-05-25 00:00;Åkersberga;5S;5;Spontaneous vegetation;1;14:45;13?, mellan molnigt, blåsigt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-05-25 00:00;Åkersberga;5S;5;Spontaneous vegetation;1;14:45;13?, mellan molnigt, blåsigt;Andrena tibialis;1;;NA;NA;lönnsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;5
+2025-05-26 00:00;Kumla;6S;6;Spontaneous vegetation;1;11:55;15?, soligt, lite molnigt, blåsigt;Bombus ruderarius;2;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-05-26 00:00;Kumla;6S;6;Spontaneous vegetation;1;11:55;15?, soligt, lite molnigt, blåsigt;Bombus lapidarius;4;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-05-26 00:00;Kumla;6D;6;DPC;1;12:50;15?, molnigt, lite regn;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-05-26 00:00;Kumla;6D;6;DPC;1;12:50;15?, molnigt, lite regn;Bombus ruderarius;1;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-05-26 00:00;Kumla;6D;6;DPC;1;12:50;15?, molnigt, lite regn;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-05-26 00:00;Kumla;6I;6;Planted meadow;1;14:50;16?, soligt, lite blåsigt;Cupido minimus;1;;NA;NA;mindre blåvinge;Art;Lepidoptera;Lycaenidae;Cupido;Butterfly;Oligophagous;Yes;1
+2025-05-26 00:00;Örebro;11D;11;DPC;1;16:30;16?, soligt;Polygonia c-album;1;;NA;NA;vinbärsfuks;Art;Lepidoptera;Nymphalidae;Polygonia;Butterfly;Polyphagous;No;15
+2025-05-26 00:00;Örebro;11D;11;DPC;1;16:30;16?, soligt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;15
+2025-05-27 00:00;Örebro;11S;11;Spontaneous vegetation;1;09:30;13?, lite molnigt, lite blåsigt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-05-27 00:00;Örebro;11S;11;Spontaneous vegetation;1;09:30;13?, lite molnigt, lite blåsigt;Hylaeus confusus;1;;NA;NA;ängscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;1
+2025-05-27 00:00;Örebro;10I;10;Planted meadow;1;12:20;15?, soligt/molnigt, ganska blåsigt;Osmia bicornis;1;;NA;NA;rödmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;5
+2025-05-27 00:00;Örebro;10I;10;Planted meadow;1;12:20;15?, soligt/molnigt, ganska blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;5
+2025-05-27 00:00;Örebro;10I;10;Planted meadow;1;12:20;15?, soligt/molnigt, ganska blåsigt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-05-29 00:00;Enköping;9S;9;Spontaneous vegetation;1;10:30;18?, soligt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-05-29 00:00;Enköping;9S;9;Spontaneous vegetation;1;10:30;18?, soligt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-05-29 00:00;Enköping;9S;9;Spontaneous vegetation;1;10:30;18?, soligt;Bombus lucorum coll.;3;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-05-29 00:00;Enköping;9S;9;Spontaneous vegetation;1;10:30;18?, soligt;Anthophora;8;svart;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;0
+2025-05-29 00:00;Enköping;9S;9;Spontaneous vegetation;1;10:30;18?, soligt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;0
+2025-05-29 00:00;Enköping;9S;9;Spontaneous vegetation;1;10:30;18?, soligt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-05-29 00:00;Enköping;9S;9;Spontaneous vegetation;1;10:30;18?, soligt;Nomada goodeniana;1;;NA;NA;gyllengökbi;Art;Hymenoptera;Apidae;Nomada;Bee;;;0
+2025-05-29 00:00;Enköping;9S;9;Spontaneous vegetation;1;10:30;18?, soligt;Lasioglossum calceatum;1;;NA;NA;mysksmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;0
+2025-05-29 00:00;Enköping;9S;9;Spontaneous vegetation;1;10:30;18?, soligt;Halictus rubicundus;1;;NA;NA;skogsbandbi;Art;Hymenoptera;Halictidae;Halictus;Bee;Polylectic;No;0
+2025-05-29 00:00;Enköping;9D;9;DPC;1;12:30;20?, lite molnigt;Anthophora quadrimaculata;1;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;95
+2025-05-29 00:00;Enköping;9D;9;DPC;1;12:30;20?, lite molnigt;Anthophora;2;;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;95
+2025-05-29 00:00;Enköping;9D;9;DPC;1;12:30;20?, lite molnigt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-05-29 00:00;Enköping;9D;9;DPC;1;12:30;20?, lite molnigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-05-29 00:00;Enköping;9D;9;DPC;1;12:30;20?, lite molnigt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-05-29 00:00;Enköping;9D;9;DPC;1;12:30;20?, lite molnigt;Pieris;1;;NA;NA;;Släkte;Lepidoptera;Pieridae;Pieris;Butterfly;NA;;95
+2025-05-29 00:00;Enköping;9I;9;Planted meadow;1;14:00;21?, lite molnigt;Anthophora;1;svart;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;25
+2025-05-29 00:00;Enköping;9I;9;Planted meadow;1;14:00;21?, lite molnigt;Megachile centuncularis;1;;NA;NA;rosentapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;25
+2025-05-29 00:00;Enköping;9I;9;Planted meadow;1;14:00;21?, lite molnigt;Seladonia;1;;NA;NA;;Släkte;Hymenoptera;Halictidae;Seladonia;Bee;NA;;25
+2025-06-01 00:00;Åkersberga;5D;5;DPC;1;09:30;18°, soligt;Andrena;1;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;175
+2025-06-01 00:00;Åkersberga;5D;5;DPC;1;09:30;18°, soligt;Osmia bicornis;1;;NA;NA;rödmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;175
+2025-06-01 00:00;Åkersberga;5D;5;DPC;1;09:30;18°, soligt;Lycaena phlaeas;1;;NA;NA;mindre guldvinge;Art;Lepidoptera;Lycaenidae;Lycaena;Butterfly;Oligophagous;Yes;175
+2025-06-01 00:00;Åkersberga;5D;5;DPC;1;09:30;18°, soligt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;175
+2025-06-01 00:00;Åkersberga;5D;5;DPC;1;09:30;18°, soligt;Anthophora retusa;2;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;175
+2025-06-01 00:00;Åkersberga;5D;5;DPC;1;09:30;18°, soligt;Leptidea;1;;NA;NA;;Släkte;Lepidoptera;Pieridae;Leptidea;Butterfly;NA;;175
+2025-06-02 00:00;Örebro;10S;10;Spontaneous vegetation;1;14:40;19°, soligt, blåsigt;Bombus;2;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;5
+2025-06-02 00:00;Örebro;10S;10;Spontaneous vegetation;1;14:40;19°, soligt, blåsigt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-02 00:00;Örebro;10S;10;Spontaneous vegetation;1;14:40;19°, soligt, blåsigt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;5
+2025-06-02 00:00;Örebro;10S;10;Spontaneous vegetation;1;14:40;19°, soligt, blåsigt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-02 00:00;Örebro;10S;10;Spontaneous vegetation;1;14:40;19°, soligt, blåsigt;Lasioglossum leucozonium;1;;NA;NA;fibblesmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Oligolectic;Yes;5
+2025-06-03 00:00;Örebro;12D;12;DPC;1;16:00;18°,soligt, lite blåsigt;Bombus lapidarius;5;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-06-03 00:00;Örebro;12D;12;DPC;1;16:00;18°,soligt, lite blåsigt;Andrena;1;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;64
+2025-06-03 00:00;Örebro;12D;12;DPC;1;16:00;18°,soligt, lite blåsigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Polyommatus amandus;1;;NA;NA;silverblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Polyphagous;No;36
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;36
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Hylaeus communis;1;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;36
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Andrena carantonica;1;;NA;NA;hagtornssandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;36
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Bombus;3;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;36
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-06-03 00:00;Örebro;12I;12;Planted meadow;1;11:30;16°, soligt;Osmia bicornis;1;;NA;NA;rödmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;36
+2025-06-03 00:00;Örebro;12S;12;Spontaneous vegetation;1;12:55;17°, soligt, lite blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;1
+2025-06-03 00:00;Örebro;12S;12;Spontaneous vegetation;1;12:55;17°, soligt, lite blåsigt;Ochlodes sylvanus;1;;NA;NA;ängssmygare;Art;Lepidoptera;Hesperiidae;Ochlodes;Butterfly;Polyphagous;No;1
+2025-06-03 00:00;Örebro;12S;12;Spontaneous vegetation;1;12:55;17°, soligt, lite blåsigt;Coenonympha pamphilus;1;;NA;NA;kamgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;1
+2025-06-03 00:00;Örebro;12S;12;Spontaneous vegetation;1;12:55;17°, soligt, lite blåsigt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;1
+2025-06-03 00:00;Örebro;12S;12;Spontaneous vegetation;1;12:55;17°, soligt, lite blåsigt;Andrena subopaca;1;;NA;NA;lundsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;1
+2025-06-04 00:00;Uppsala;7I;7;Planted meadow;2;10:15;18°, molnigt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;7
+2025-06-04 00:00;Uppsala;7I;7;Planted meadow;2;10:15;18°, molnigt;Lasioglossum villosulum;1;;NA;NA;hedsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;7
+2025-06-04 00:00;Uppsala;7S;7;Spontaneous vegetation;2;11:25;19°, molnigt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;22
+2025-06-04 00:00;Uppsala;7S;7;Spontaneous vegetation;2;11:25;19°, molnigt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;22
+2025-06-04 00:00;Uppsala;7S;7;Spontaneous vegetation;2;11:25;19°, molnigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;22
+2025-06-04 00:00;Uppsala;7D;7;DPC;2;13:55;20°, molngt;Polyommatus icarus;2;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;3
+2025-06-04 00:00;Uppsala;7D;7;DPC;2;13:55;20°, molngt;Osmia bicornis;1;;NA;NA;rödmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;3
+2025-06-04 00:00;Uppsala;7D;7;DPC;2;13:55;20°, molngt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-06-04 00:00;Uppsala;7D;7;DPC;2;13:55;20°, molngt;Andrena semilaevis;1;;NA;NA;veronikasandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;3
+2025-06-04 00:00;Uppsala;7D;7;DPC;2;13:55;20°, molngt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-06-04 00:00;Uppsala;7D;7;DPC;2;13:55;20°, molngt;Anthophora retusa;3;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;3
+2025-06-04 00:00;Uppsala;7D;7;DPC;2;13:55;20°, molngt;Bombus hypnorum;4;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-06-04 00:00;Uppsala;7D;7;DPC;2;13:55;20°, molngt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-06-04 00:00;Uppsala;7D;7;DPC;2;13:55;20°, molngt;Polygonia c-album;1;;NA;NA;vinbärsfuks;Art;Lepidoptera;Nymphalidae;Polygonia;Butterfly;Polyphagous;No;3
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Andrena nigroaenea;2;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Andrena cineraria;1;;NA;NA;sobersandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Osmia;1;;NA;NA;murarbin;Släkte;Hymenoptera;Megachilidae;Osmia;Bee;NA;;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Anthophora quadrimaculata;3;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Andrena haemorrhoa;3;;NA;NA;trädgårdssandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Andrena wilkella;2;;NA;NA;ärtsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Oligolectic;Yes;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Lasioglossum morio;2;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Lasioglossum leucopus;1;;NA;NA;bronssmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Lasioglossum calceatum;1;;NA;NA;mysksmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;54
+2025-06-05 00:00;Stockholm;2I;2;Planted meadow;2;11:05;17°, soligt;Colletes daviesanus;3;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;54
+2025-06-05 00:00;Stockholm;2S;2;Spontaneous vegetation;2;11:40;18°, soligt, lite blåsigt;Hylaeus communis;3;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;4
+2025-06-05 00:00;Stockholm;2S;2;Spontaneous vegetation;2;11:40;18°, soligt, lite blåsigt;Andrena wilkella;1;;NA;NA;ärtsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Oligolectic;Yes;4
+2025-06-05 00:00;Stockholm;2S;2;Spontaneous vegetation;2;11:40;18°, soligt, lite blåsigt;Ceratina cyanea;2;;NA;NA;cyanmärgbi;Art;Hymenoptera;Apidae;Ceratina;Bee;Polylectic;No;4
+2025-06-05 00:00;Stockholm;2S;2;Spontaneous vegetation;2;11:40;18°, soligt, lite blåsigt;Halictus rubicundus;1;;NA;NA;skogsbandbi;Art;Hymenoptera;Halictidae;Halictus;Bee;Polylectic;No;4
+2025-06-05 00:00;Stockholm;2D;2;DPC;2;16:10;19°, soligt;Lasioglossum leucopus;1;;NA;NA;bronssmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;19
+2025-06-05 00:00;Stockholm;2D;2;DPC;2;16:10;19°, soligt;Sphecodes monilicornis;1;;NA;NA;ängsblodbi;Art;Hymenoptera;Halictidae;Sphecodes;Bee;;;19
+2025-06-05 00:00;Stockholm;2D;2;DPC;2;16:10;19°, soligt;Andrena semilaevis;1;;NA;NA;veronikasandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;19
+2025-06-10 00:00;Stockholm;1D;1;DPC;2;16:15;19°, molnigt/soligt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-06-10 00:00;Stockholm;3D;3;DPC;2;10:45;17°, soligt;Bombus terrestris;4;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-06-10 00:00;Stockholm;3D;3;DPC;2;10:45;17°, soligt;Bombus lucorum coll.;4;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-06-10 00:00;Stockholm;3D;3;DPC;2;10:45;17°, soligt;Osmia bicornis;5;;NA;NA;rödmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;157
+2025-06-10 00:00;Stockholm;3D;3;DPC;2;10:45;17°, soligt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;157
+2025-06-10 00:00;Stockholm;3D;3;DPC;2;10:45;17°, soligt;Andrena labiata;1;;NA;NA;blodsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;157
+2025-06-10 00:00;Stockholm;3S;3;Spontaneous vegetation;2;12:30;18°, lite molnigt, lite blåsigt;Coenonympha arcania;1;;NA;NA;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;1
+2025-06-10 00:00;Stockholm;3S;3;Spontaneous vegetation;2;12:30;18°, lite molnigt, lite blåsigt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;1
+2025-06-10 00:00;Stockholm;3S;3;Spontaneous vegetation;2;12:30;18°, lite molnigt, lite blåsigt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;1
+2025-06-10 00:00;Stockholm;3S;3;Spontaneous vegetation;2;12:30;18°, lite molnigt, lite blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;1
+2025-06-10 00:00;Stockholm;3S;3;Spontaneous vegetation;2;12:30;18°, lite molnigt, lite blåsigt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-06-10 00:00;Stockholm;3S;3;Spontaneous vegetation;2;12:30;18°, lite molnigt, lite blåsigt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;1
+2025-06-10 00:00;Stockholm;3S;3;Spontaneous vegetation;2;12:30;18°, lite molnigt, lite blåsigt;Lasioglossum leucopus;1;;NA;NA;bronssmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;1
+2025-06-10 00:00;Stockholm;3S;3;Spontaneous vegetation;2;12:30;18°, lite molnigt, lite blåsigt;Seladonia tumulorum;1;;NA;NA;ängsbandbi;Art;Hymenoptera;Halictidae;Seladonia;Bee;Polylectic;No;1
+2025-06-10 00:00;Stockholm;3I;3;Planted meadow;2;13:55;19°, lite molnigt, lite blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;64
+2025-06-10 00:00;Stockholm;3I;3;Planted meadow;2;13:55;19°, lite molnigt, lite blåsigt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-06-10 00:00;Stockholm;3I;3;Planted meadow;2;13:55;19°, lite molnigt, lite blåsigt;Megachile circumcincta;1;;NA;NA;ärttapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;64
+2025-06-10 00:00;Stockholm;3I;3;Planted meadow;2;13:55;19°, lite molnigt, lite blåsigt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;64
+2025-06-10 00:00;Stockholm;3I;3;Planted meadow;2;13:55;19°, lite molnigt, lite blåsigt;Polyommatus icarus;2;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;64
+2025-06-10 00:00;Stockholm;3I;3;Planted meadow;2;13:55;19°, lite molnigt, lite blåsigt;Lycaenidae;2;;NA;NA;juvelvingar;Familj;Lepidoptera;Lycaenidae;;Butterfly;NA;;64
+2025-06-10 00:00;Stockholm;3I;3;Planted meadow;2;13:55;19°, lite molnigt, lite blåsigt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-06-12 00:00;Uppsala;8I;8;Planted meadow;2;10:50;14°, soligt, blåsigt;Polyommatus icarus;2;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;5
+2025-06-12 00:00;Uppsala;8I;8;Planted meadow;2;10:50;14°, soligt, blåsigt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-12 00:00;Uppsala;8I;8;Planted meadow;2;10:50;14°, soligt, blåsigt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-12 00:00;Uppsala;8I;8;Planted meadow;2;10:50;14°, soligt, blåsigt;Bombus sylvarum;2;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-12 00:00;Uppsala;8I;8;Planted meadow;2;10:50;14°, soligt, blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;5
+2025-06-12 00:00;Uppsala;8I;8;Planted meadow;2;10:50;14°, soligt, blåsigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-12 00:00;Uppsala;8I;8;Planted meadow;2;10:50;14°, soligt, blåsigt;Anthophora;2;;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;5
+2025-06-12 00:00;Uppsala;8I;8;Planted meadow;2;10:50;14°, soligt, blåsigt;Pieris brassicae;1;;NA;NA;kålfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;5
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Bombus lapidarius;4;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Anthophora retusa;8;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Bombus hypnorum;4;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Bombus ruderarius;1;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Andrena wilkella;1;;NA;NA;ärtsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Oligolectic;Yes;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Halictidae;1;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Nomada goodeniana;1;;NA;NA;gyllengökbi;Art;Hymenoptera;Apidae;Nomada;Bee;;;16
+2025-06-12 00:00;Uppsala;8D;8;DPC;2;15:05;16°, soligt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Bombus terrestris;3;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Bombus lucorum coll.;6;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Bombus hypnorum;8;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Polyommatus icarus;2;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Halictidae;3;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Colletes daviesanus;2;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Andrena semilaevis;2;;NA;NA;veronikasandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Osmia leaiana;2;;NA;NA;fibblemurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Oligolectic;Yes;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Hylaeus communis;4;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Andrena nigroaenea;1;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Lasioglossum;1;;NA;NA;smalbin;Släkte;Hymenoptera;Halictidae;Lasioglossum;Bee;NA;;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Lasioglossum morio;3;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Lasioglossum leucopus;1;;NA;NA;bronssmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Ceratina cyanea;1;;NA;NA;cyanmärgbi;Art;Hymenoptera;Apidae;Ceratina;Bee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Heriades truncorum;1;;NA;NA;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee;Oligolectic;Yes;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Hylaeus hyalinatus;3;;NA;NA;kölcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4S;4;Spontaneous vegetation;2;11:30;18°, soligt;Seladonia confusa;1;;NA;NA;kustbandbi;Art;Hymenoptera;Halictidae;Seladonia;Bee;Polylectic;No;20
+2025-06-13 00:00;Sigtuna;4D;4;DPC;2;12:30;20°, soligt;Bombus hypnorum;6;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;47
+2025-06-13 00:00;Sigtuna;4D;4;DPC;2;12:30;20°, soligt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;47
+2025-06-13 00:00;Sigtuna;4D;4;DPC;2;12:30;20°, soligt;Bombus lucorum coll.;12;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;47
+2025-06-13 00:00;Sigtuna;4D;4;DPC;2;12:30;20°, soligt;Andrena nigroaenea;1;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;47
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Bombus hypnorum;8;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Polyommatus icarus;2;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Andrena;1;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Chelostoma rapunculi;4;;NA;NA;storsovarbi;Art;Hymenoptera;Megachilidae;Chelostoma;Bee;Oligolectic;Yes;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Andrena fulvago;1;;NA;NA;fibblesandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Oligolectic;Yes;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Colletes daviesanus;1;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Sphecodes;1;;NA;NA;blodbin;Släkte;Hymenoptera;Halictidae;Sphecodes;Bee;NA;;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Anthophora retusa;1;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Lycaenidae;1;;NA;NA;juvelvingar;Familj;Lepidoptera;Lycaenidae;;Butterfly;NA;;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Halictidae;2;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;10
+2025-06-13 00:00;Sigtuna;4I;4;Planted meadow;2;14:15;24°, soligt;Bombus subterraneus;1;;NA;NA;vallhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-06-13 00:00;Uppsala;8S;8;Spontaneous vegetation;2;09:00;15°, soligt;Polyommatus icarus;2;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;5
+2025-06-13 00:00;Uppsala;8S;8;Spontaneous vegetation;2;09:00;15°, soligt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-13 00:00;Uppsala;8S;8;Spontaneous vegetation;2;09:00;15°, soligt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-13 00:00;Uppsala;8S;8;Spontaneous vegetation;2;09:00;15°, soligt;Bombus sylvarum;2;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-16 00:00;Kumla;6I;6;Planted meadow;2;12:10;17°, soligt/molnigt;Bombus hortorum;2;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-06-16 00:00;Kumla;6I;6;Planted meadow;2;12:10;17°, soligt/molnigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-06-16 00:00;Kumla;6I;6;Planted meadow;2;12:10;17°, soligt/molnigt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-06-16 00:00;Kumla;6I;6;Planted meadow;2;12:10;17°, soligt/molnigt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-06-16 00:00;Kumla;6I;6;Planted meadow;2;12:10;17°, soligt/molnigt;Bombus;1;brown thorax;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;1
+2025-06-16 00:00;Kumla;6I;6;Planted meadow;2;12:10;17°, soligt/molnigt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;1
+2025-06-16 00:00;Kumla;6I;6;Planted meadow;2;12:10;17°, soligt/molnigt;Cupido minimus;4;;NA;NA;mindre blåvinge;Art;Lepidoptera;Lycaenidae;Cupido;Butterfly;Oligophagous;Yes;1
+2025-06-16 00:00;Kumla;6I;6;Planted meadow;2;12:10;17°, soligt/molnigt;Anthidium punctatum;1;;NA;NA;småullbi;Art;Hymenoptera;Megachilidae;Anthidium;Bee;Polylectic;No;1
+2025-06-16 00:00;Kumla;6S;6;Spontaneous vegetation;2;14:50;21°, lätt molnigt;Bombus lucorum coll.;7;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-06-16 00:00;Kumla;6S;6;Spontaneous vegetation;2;14:50;21°, lätt molnigt;Bombus terrestris;5;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-06-16 00:00;Kumla;6S;6;Spontaneous vegetation;2;14:50;21°, lätt molnigt;Bombus subterraneus;1;;NA;NA;vallhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-06-16 00:00;Kumla;6S;6;Spontaneous vegetation;2;14:50;21°, lätt molnigt;Bombus;3;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;3
+2025-06-16 00:00;Kumla;6S;6;Spontaneous vegetation;2;14:50;21°, lätt molnigt;Eucera longicornis;1;;NA;NA;långhornsbi;Art;Hymenoptera;Apidae;Eucera;Bee;Oligolectic;Yes;3
+2025-06-16 00:00;Kumla;6S;6;Spontaneous vegetation;2;14:50;21°, lätt molnigt;Anthophora quadrimaculata;1;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;3
+2025-06-16 00:00;Kumla;6D;6;DPC;2;16:50;22°, lätt molnigt, lite blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;11
+2025-06-16 00:00;Kumla;6D;6;DPC;2;16:50;22°, lätt molnigt, lite blåsigt;Anthophora;1;;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;11
+2025-06-17 00:00;Örebro;11I;11;Planted meadow;2;09:10;17°, soligt, lite blåsigt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-06-17 00:00;Örebro;11I;11;Planted meadow;2;09:10;17°, soligt, lite blåsigt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-06-17 00:00;Örebro;11I;11;Planted meadow;2;09:10;17°, soligt, lite blåsigt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-06-17 00:00;Örebro;11I;11;Planted meadow;2;09:10;17°, soligt, lite blåsigt;Megachile willughbiella;3;;NA;NA;stocktapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;2
+2025-06-17 00:00;Örebro;11I;11;Planted meadow;2;09:10;17°, soligt, lite blåsigt;Megachile centuncularis;1;;NA;NA;rosentapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;2
+2025-06-17 00:00;Örebro;11D;11;DPC;2;10:40;20°, soligt, lite blåsigt;Bombus lucorum coll.;4;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;15
+2025-06-17 00:00;Örebro;11D;11;DPC;2;10:40;20°, soligt, lite blåsigt;Anthophora quadrimaculata;2;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;15
+2025-06-17 00:00;Örebro;11D;11;DPC;2;10:40;20°, soligt, lite blåsigt;Andrena nigroaenea;2;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;15
+2025-06-17 00:00;Örebro;11D;11;DPC;2;10:40;20°, soligt, lite blåsigt;Hylaeus communis;1;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;15
+2025-06-17 00:00;Örebro;11S;11;Spontaneous vegetation;2;12:35;20°, soligt/molnigt, lite blåsigt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-06-17 00:00;Örebro;11S;11;Spontaneous vegetation;2;12:35;20°, soligt/molnigt, lite blåsigt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-06-17 00:00;Örebro;11S;11;Spontaneous vegetation;2;12:35;20°, soligt/molnigt, lite blåsigt;Bombus lucorum coll.;5;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-06-17 00:00;Örebro;11S;11;Spontaneous vegetation;2;12:35;20°, soligt/molnigt, lite blåsigt;Halictidae;1;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;1
+2025-06-17 00:00;Örebro;11S;11;Spontaneous vegetation;2;12:35;20°, soligt/molnigt, lite blåsigt;Chelostoma rapunculi;1;;NA;NA;storsovarbi;Art;Hymenoptera;Megachilidae;Chelostoma;Bee;Oligolectic;Yes;1
+2025-06-19 00:00;Stockholm;1S;1;Spontaneous vegetation;2;11:00;17°, soligt/molnigt, blåsigt;Glaucopsyche alexis;1;;NA;NA;klöverblåvinge;Art;Lepidoptera;Lycaenidae;Glaucopsyche;Butterfly;Polyphagous;No;12
+2025-06-19 00:00;Stockholm;1S;1;Spontaneous vegetation;2;11:00;17°, soligt/molnigt, blåsigt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;12
+2025-06-19 00:00;Stockholm;1S;1;Spontaneous vegetation;2;11:00;17°, soligt/molnigt, blåsigt;Bombus lucorum coll.;10;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;12
+2025-06-19 00:00;Stockholm;1S;1;Spontaneous vegetation;2;11:00;17°, soligt/molnigt, blåsigt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;12
+2025-06-19 00:00;Stockholm;1S;1;Spontaneous vegetation;2;11:00;17°, soligt/molnigt, blåsigt;Coenonympha arcania;8;;NA;NA;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;12
+2025-06-19 00:00;Stockholm;1S;1;Spontaneous vegetation;2;11:00;17°, soligt/molnigt, blåsigt;Coenonympha pamphilus;1;;NA;NA;kamgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;12
+2025-06-19 00:00;Stockholm;1S;1;Spontaneous vegetation;2;11:00;17°, soligt/molnigt, blåsigt;Polyommatini;2;;NA;NA;blåvingar;Tribus;Lepidoptera;Lycaenidae;;Butterfly;NA;;12
+2025-06-19 00:00;Stockholm;1I;1;Planted meadow;2;13:00;19°, sol/moln, blåsigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;21
+2025-06-19 00:00;Stockholm;1I;1;Planted meadow;2;13:00;19°, sol/moln, blåsigt;Andrena;3;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;21
+2025-06-19 00:00;Stockholm;1I;1;Planted meadow;2;13:00;19°, sol/moln, blåsigt;Colletes daviesanus;3;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;21
+2025-06-19 00:00;Stockholm;1I;1;Planted meadow;2;13:00;19°, sol/moln, blåsigt;Colletes marginatus;1;;NA;NA;klöversidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;21
+2025-06-19 00:00;Stockholm;1I;1;Planted meadow;2;13:00;19°, sol/moln, blåsigt;Hylaeus communis;1;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;21
+2025-06-19 00:00;Stockholm;1I;1;Planted meadow;2;13:00;19°, sol/moln, blåsigt;Andrena wilkella;1;;NA;NA;ärtsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Oligolectic;Yes;21
+2025-06-25 00:00;Enköping;9I;9;Planted meadow;2;11:55;18°, molnigt;Bombus terrestris;12;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-06-25 00:00;Enköping;9I;9;Planted meadow;2;11:55;18°, molnigt;Bombus lapidarius;3;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-06-25 00:00;Enköping;9I;9;Planted meadow;2;11:55;18°, molnigt;Bombus;2;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;25
+2025-06-25 00:00;Enköping;9I;9;Planted meadow;2;11:55;18°, molnigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-06-25 00:00;Enköping;9I;9;Planted meadow;2;11:55;18°, molnigt;Colletes daviesanus;1;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;25
+2025-06-25 00:00;Enköping;9S;9;Spontaneous vegetation;2;13:50;19°, molnigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;0
+2025-06-25 00:00;Enköping;9S;9;Spontaneous vegetation;2;13:50;19°, molnigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-06-25 00:00;Enköping;9S;9;Spontaneous vegetation;2;13:50;19°, molnigt;Cyaniris semiargus;2;;NA;NA;ängsblåvinge;Art;Lepidoptera;Lycaenidae;Cyaniris;Butterfly;Oligophagous;Yes;0
+2025-06-25 00:00;Enköping;9S;9;Spontaneous vegetation;2;13:50;19°, molnigt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-06-25 00:00;Enköping;9S;9;Spontaneous vegetation;2;13:50;19°, molnigt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-06-25 00:00;Enköping;9S;9;Spontaneous vegetation;2;13:50;19°, molnigt;Bombus pascuorum;1;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-06-25 00:00;Enköping;9S;9;Spontaneous vegetation;2;13:50;19°, molnigt;Coenonympha arcania;2;;NA;NA;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;0
+2025-06-25 00:00;Enköping;9S;9;Spontaneous vegetation;2;13:50;19°, molnigt;Chelostoma florisomne;3;;NA;NA;smörblommebi;Art;Hymenoptera;Megachilidae;Chelostoma;Bee;Oligolectic;Yes;0
+2025-06-25 00:00;Enköping;9S;9;Spontaneous vegetation;2;13:50;19°, molnigt;Anthophora quadrimaculata;1;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;0
+2025-06-25 00:00;Enköping;9D;9;DPC;2;15:45;20°, molnigt;Andrena bicolor;1;;NA;NA;ängssandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;95
+2025-06-25 00:00;Enköping;9D;9;DPC;2;15:45;20°, molnigt;Bombus hypnorum;3;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-06-25 00:00;Enköping;9D;9;DPC;2;15:45;20°, molnigt;Bombus terrestris;5;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-06-25 00:00;Enköping;9D;9;DPC;2;15:45;20°, molnigt;Chelostoma rapunculi;1;;NA;NA;storsovarbi;Art;Hymenoptera;Megachilidae;Chelostoma;Bee;Oligolectic;Yes;95
+2025-06-25 00:00;Enköping;9D;9;DPC;2;15:45;20°, molnigt;Anthophora quadrimaculata;1;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;95
+2025-06-26 00:00;Åkersberga;5S;5;Spontaneous vegetation;2;10:05;19°, soligt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-26 00:00;Åkersberga;5S;5;Spontaneous vegetation;2;10:05;19°, soligt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;5
+2025-06-26 00:00;Åkersberga;5S;5;Spontaneous vegetation;2;10:05;19°, soligt;Coenonympha arcania;1;;NA;NA;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;5
+2025-06-26 00:00;Åkersberga;5S;5;Spontaneous vegetation;2;10:05;19°, soligt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;5
+2025-06-26 00:00;Åkersberga;5S;5;Spontaneous vegetation;2;10:05;19°, soligt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-26 00:00;Åkersberga;5S;5;Spontaneous vegetation;2;10:05;19°, soligt;Megachile circumcincta;1;;NA;NA;ärttapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;5
+2025-06-26 00:00;Åkersberga;5I;5;Planted meadow;2;12:20;23°, soligt;Bombus lucorum coll.;5;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-06-26 00:00;Åkersberga;5I;5;Planted meadow;2;12:20;23°, soligt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-06-26 00:00;Åkersberga;5I;5;Planted meadow;2;12:20;23°, soligt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;64
+2025-06-26 00:00;Åkersberga;5I;5;Planted meadow;2;12:20;23°, soligt;Andrena;1;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;64
+2025-06-26 00:00;Åkersberga;5I;5;Planted meadow;2;12:20;23°, soligt;Andrena nigroaenea;1;;NA;NA;gyllensandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;64
+2025-06-26 00:00;Åkersberga;5I;5;Planted meadow;2;12:20;23°, soligt;Andrena bicolor;1;;NA;NA;ängssandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;64
+2025-06-26 00:00;Åkersberga;5D;5;DPC;2;14:00;23°, soligt/molnigt;Hylaeus communis;1;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;175
+2025-06-26 00:00;Åkersberga;5D;5;DPC;2;14:00;23°, soligt/molnigt;Andrena bicolor;1;;NA;NA;ängssandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;175
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Bombus terrestris;25;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Bombus lapidarius;4;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Bombus rupestris;1;;NA;NA;stensnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;;;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Bombus soroeensis;1;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Argynnis;1;;NA;NA;;Släkte;Lepidoptera;Nymphalidae;Argynnis;Butterfly;NA;;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Bombus hypnorum;3;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Wild bee;2;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Bombus pratorum;2;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Anthophora;2;;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Andrena;2;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Halictidae;1;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Colletes daviesanus;3;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Anthophora quadrimaculata;1;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;19
+2025-06-29 00:00;Stockholm;2D;2;DPC;3;14:00;21°, soligt, lite blåsigt;Hylaeus hyalinatus;1;;NA;NA;kölcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;19
+2025-06-29 00:00;Stockholm;2S;2;Spontaneous vegetation;3;16:55;22°, soligt, blåsigt;Bombus terrestris;8;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;4
+2025-06-29 00:00;Stockholm;2S;2;Spontaneous vegetation;3;16:55;22°, soligt, blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;4
+2025-06-29 00:00;Stockholm;2S;2;Spontaneous vegetation;3;16:55;22°, soligt, blåsigt;Bombus lapidarius;4;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;4
+2025-06-29 00:00;Stockholm;2S;2;Spontaneous vegetation;3;16:55;22°, soligt, blåsigt;Andrena;1;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;4
+2025-06-29 00:00;Stockholm;2S;2;Spontaneous vegetation;3;16:55;22°, soligt, blåsigt;Halictidae;1;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;4
+2025-06-30 00:00;Uppsala;7S;7;Spontaneous vegetation;3;10:55;18°, soligt, lite blåsigt;Ochlodes sylvanus;1;;NA;NA;ängssmygare;Art;Lepidoptera;Hesperiidae;Ochlodes;Butterfly;Polyphagous;No;22
+2025-06-30 00:00;Uppsala;7S;7;Spontaneous vegetation;3;10:55;18°, soligt, lite blåsigt;Cyaniris semiargus;1;;NA;NA;ängsblåvinge;Art;Lepidoptera;Lycaenidae;Cyaniris;Butterfly;Oligophagous;Yes;22
+2025-06-30 00:00;Uppsala;7S;7;Spontaneous vegetation;3;10:55;18°, soligt, lite blåsigt;Aphantopus hyperantus;2;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;22
+2025-06-30 00:00;Uppsala;7S;7;Spontaneous vegetation;3;10:55;18°, soligt, lite blåsigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;22
+2025-06-30 00:00;Uppsala;7S;7;Spontaneous vegetation;3;10:55;18°, soligt, lite blåsigt;Nymphalidae;1;;NA;NA;praktfjärilar;Familj;Lepidoptera;Nymphalidae;;Butterfly;NA;;22
+2025-06-30 00:00;Uppsala;7S;7;Spontaneous vegetation;3;10:55;18°, soligt, lite blåsigt;Coenonympha;1;;NA;NA;;Släkte;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;NA;;22
+2025-06-30 00:00;Uppsala;7I;7;Planted meadow;3;14:10;21°, soligt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;7
+2025-06-30 00:00;Uppsala;7I;7;Planted meadow;3;14:10;21°, soligt;Bombus subterraneus;1;;NA;NA;vallhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;7
+2025-06-30 00:00;Uppsala;7I;7;Planted meadow;3;14:10;21°, soligt;Melitta leporina;1;;NA;NA;lusernbi;Art;Hymenoptera;Melittidae;Melitta;Bee;Oligolectic;Yes;7
+2025-06-30 00:00;Uppsala;7I;7;Planted meadow;3;14:10;21°, soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;7
+2025-06-30 00:00;Uppsala;7D;7;DPC;3;16:05;21°, soligt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-06-30 00:00;Uppsala;7D;7;DPC;3;16:05;21°, soligt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;3
+2025-06-30 00:00;Uppsala;7D;7;DPC;3;16:05;21°, soligt;Melitta haemorrhoidalis;1;;NA;NA;blåklocksbi;Art;Hymenoptera;Melittidae;Melitta;Bee;Oligolectic;Yes;3
+2025-06-30 00:00;Uppsala;7D;7;DPC;3;16:05;21°, soligt;Heriades truncorum;2;;NA;NA;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee;Oligolectic;Yes;3
+2025-06-30 00:00;Uppsala;7D;7;DPC;3;16:05;21°, soligt;Hylaeus communis;1;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;3
+2025-06-30 00:00;Örebro;10I;10;Planted meadow;2;11:45;20°, soligt, lite blåsigt;Cyaniris semiargus;1;;NA;NA;ängsblåvinge;Art;Lepidoptera;Lycaenidae;Cyaniris;Butterfly;Oligophagous;Yes;5
+2025-06-30 00:00;Örebro;10I;10;Planted meadow;2;11:45;20°, soligt, lite blåsigt;Aphantopus hyperantus;1;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;5
+2025-06-30 00:00;Örebro;10I;10;Planted meadow;2;11:45;20°, soligt, lite blåsigt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-30 00:00;Örebro;10I;10;Planted meadow;2;11:45;20°, soligt, lite blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;5
+2025-06-30 00:00;Örebro;10S;10;Spontaneous vegetation;2;13:30;20°, soligt, lite blåsigt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-30 00:00;Örebro;10S;10;Spontaneous vegetation;2;13:30;20°, soligt, lite blåsigt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-06-30 00:00;Örebro;10S;10;Spontaneous vegetation;2;13:30;20°, soligt, lite blåsigt;Bombus campestris;1;;NA;NA;åkersnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;;;5
+2025-06-30 00:00;Örebro;10S;10;Spontaneous vegetation;2;13:30;20°, soligt, lite blåsigt;Anthophora retusa;2;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;5
+2025-06-30 00:00;Örebro;10S;10;Spontaneous vegetation;2;13:30;20°, soligt, lite blåsigt;Coenonympha arcania;2;;NA;NA;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;5
+2025-06-30 00:00;Örebro;10S;10;Spontaneous vegetation;2;13:30;20°, soligt, lite blåsigt;Cyaniris semiargus;2;;NA;NA;ängsblåvinge;Art;Lepidoptera;Lycaenidae;Cyaniris;Butterfly;Oligophagous;Yes;5
+2025-06-30 00:00;Örebro;10D;10;DPC;2;15:20;20°, soligt, lite blåsigt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-06-30 00:00;Örebro;10D;10;DPC;2;15:20;20°, soligt, lite blåsigt;Colletes daviesanus;5;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;2
+2025-07-01 00:00;Stockholm;3D;3;DPC;3;10:25;22°, soligt;Bombus hypnorum;2;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-01 00:00;Stockholm;3D;3;DPC;3;10:25;22°, soligt;Bombus terrestris;7;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-01 00:00;Stockholm;3D;3;DPC;3;10:25;22°, soligt;Bombus lapidarius;4;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-01 00:00;Stockholm;3D;3;DPC;3;10:25;22°, soligt;Bombus soroeensis;3;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-01 00:00;Stockholm;3D;3;DPC;3;10:25;22°, soligt;Bombus lucorum coll.;4;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-01 00:00;Stockholm;3D;3;DPC;3;10:25;22°, soligt;Bombus pascuorum;1;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-01 00:00;Stockholm;3D;3;DPC;3;10:25;22°, soligt;Halictidae;1;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;157
+2025-07-01 00:00;Stockholm;3D;3;DPC;3;10:25;22°, soligt;Hylaeus communis;1;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;157
+2025-07-01 00:00;Stockholm;3D;3;DPC;3;10:25;22°, soligt;Anthophora furcata;1;;NA;NA;dånpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;157
+2025-07-01 00:00;Stockholm;3S;3;Spontaneous vegetation;3;12:05;23, soligt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-01 00:00;Stockholm;3S;3;Spontaneous vegetation;3;12:05;23, soligt;Coenonympha arcania;1;;NA;NA;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;1
+2025-07-01 00:00;Stockholm;3S;3;Spontaneous vegetation;3;12:05;23, soligt;Aphantopus hyperantus;1;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;1
+2025-07-01 00:00;Stockholm;3S;3;Spontaneous vegetation;3;12:05;23, soligt;Coenonympha;1;;NA;NA;;Släkte;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;NA;;1
+2025-07-01 00:00;Stockholm;3S;3;Spontaneous vegetation;3;12:05;23, soligt;Halictidae;1;;NA;NA;vägbin;Familj;Hymenoptera;Halictidae;;Bee;NA;;1
+2025-07-01 00:00;Stockholm;3S;3;Spontaneous vegetation;3;12:05;23, soligt;Anthidium punctatum;1;;NA;NA;småullbi;Art;Hymenoptera;Megachilidae;Anthidium;Bee;Polylectic;No;1
+2025-07-01 00:00;Stockholm;3S;3;Spontaneous vegetation;3;12:05;23, soligt;Andrena subopaca;1;;NA;NA;lundsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;1
+2025-07-01 00:00;Stockholm;3S;3;Spontaneous vegetation;3;12:05;23, soligt;Seladonia tumulorum;5;;NA;NA;ängsbandbi;Art;Hymenoptera;Halictidae;Seladonia;Bee;Polylectic;No;1
+2025-07-01 00:00;Stockholm;3I;3;Planted meadow;3;14:50;28°, soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-01 00:00;Stockholm;3I;3;Planted meadow;3;14:50;28°, soligt;Bombus lapidarius;3;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-01 00:00;Stockholm;3I;3;Planted meadow;3;14:50;28°, soligt;Colletes daviesanus;2;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;64
+2025-07-01 00:00;Stockholm;3I;3;Planted meadow;3;14:50;28°, soligt;Megachile centuncularis;1;;NA;NA;rosentapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;64
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Bombus;2;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Bombus ruderarius;1;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Coenonympha arcania;10;;NA;NA;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Aphantopus hyperantus;2;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Polyommatus amandus;1;;NA;NA;silverblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Polyphagous;No;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Andrena;2;red andrena;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Megachile willughbiella;1;;NA;NA;stocktapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;36
+2025-07-01 00:00;Örebro;12I;12;Planted meadow;2;09:55;22°, soligt;Colletes daviesanus;2;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;36
+2025-07-01 00:00;Örebro;12S;12;Spontaneous vegetation;2;11:25;23°, soligt, lite blåsigt;Polyommatus amandus;1;;NA;NA;silverblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Polyphagous;No;1
+2025-07-01 00:00;Örebro;12S;12;Spontaneous vegetation;2;11:25;23°, soligt, lite blåsigt;Aphantopus hyperantus;7;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;1
+2025-07-01 00:00;Örebro;12S;12;Spontaneous vegetation;2;11:25;23°, soligt, lite blåsigt;Bombus ruderarius;2;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-01 00:00;Örebro;12D;12;DPC;2;12:55;24°, soligt, lite blåsigt;Bombus lucorum coll.;4;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-01 00:00;Örebro;12D;12;DPC;2;12:55;24°, soligt, lite blåsigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-01 00:00;Örebro;12D;12;DPC;2;12:55;24°, soligt, lite blåsigt;Bombus hypnorum;3;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-01 00:00;Örebro;12D;12;DPC;2;12:55;24°, soligt, lite blåsigt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-01 00:00;Örebro;12D;12;DPC;2;12:55;24°, soligt, lite blåsigt;Wild bee;3;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;64
+2025-07-01 00:00;Örebro;12D;12;DPC;2;12:55;24°, soligt, lite blåsigt;Lasioglossum morio;2;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;64
+2025-07-01 00:00;Örebro;12D;12;DPC;2;12:55;24°, soligt, lite blåsigt;Hylaeus hyalinatus;3;;NA;NA;kölcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;64
+2025-07-01 00:00;Örebro;12D;12;DPC;2;12:55;24°, soligt, lite blåsigt;Hylaeus communis;3;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;64
+2025-07-01 00:00;Örebro;12D;12;DPC;2;12:55;24°, soligt, lite blåsigt;Lasioglossum leucopus;1;;NA;NA;bronssmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;64
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Bombus lapidarius;8;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Bombus terrestris;3;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Bombus;6;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;54
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Wild bee;3;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;54
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Anthophora;2;;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;54
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Colletes daviesanus;7;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;54
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Anthophora quadrimaculata;1;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;54
+2025-07-02 00:00;Stockholm;2I;2;Planted meadow;3;13:30;24°, soligt;Hoplitis claviventris;1;;NA;NA;märggnagbi;Art;Hymenoptera;Megachilidae;Hoplitis;Bee;Polylectic;No;54
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Bombus sylvarum;2;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Bombus lucorum coll.;10;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Anthophora retusa;5;;NA;NA;svartpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Polylectic;No;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Bombus;4;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Bombus hypnorum;2;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Bombus bohemicus;1;;NA;NA;jordsnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;;;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Osmia bicolor;1;;NA;NA;snäckmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Colletes similis;1;;NA;NA;korgsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Anthophora quadrimaculata;1;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Bombus pascuorum;1;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-07-04 00:00;Uppsala;8D;8;DPC;3;10:45;17, soligt;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-07-04 00:00;Uppsala;8I;8;Planted meadow;3;14:05;19, lite molnigt, lite blåsigt;Aphantopus hyperantus;1;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;5
+2025-07-04 00:00;Uppsala;8I;8;Planted meadow;3;14:05;19, lite molnigt, lite blåsigt;Coenonympha arcania;4;;NA;NA;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;5
+2025-07-04 00:00;Uppsala;8I;8;Planted meadow;3;14:05;19, lite molnigt, lite blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;5
+2025-07-04 00:00;Uppsala;8I;8;Planted meadow;3;14:05;19, lite molnigt, lite blåsigt;Polyommatini;4;;NA;NA;blåvingar;Tribus;Lepidoptera;Lycaenidae;;Butterfly;NA;;5
+2025-07-04 00:00;Uppsala;8I;8;Planted meadow;3;14:05;19, lite molnigt, lite blåsigt;Bombus soroeensis;1;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8I;8;Planted meadow;3;14:05;19, lite molnigt, lite blåsigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8I;8;Planted meadow;3;14:05;19, lite molnigt, lite blåsigt;Ochlodes sylvanus;1;;NA;NA;ängssmygare;Art;Lepidoptera;Hesperiidae;Ochlodes;Butterfly;Polyphagous;No;5
+2025-07-04 00:00;Uppsala;8I;8;Planted meadow;3;14:05;19, lite molnigt, lite blåsigt;Bombus pascuorum;1;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8S;8;Spontaneous vegetation;3;14:05;19, molnigt, blåsigt;Bombus lucorum coll.;3;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8S;8;Spontaneous vegetation;3;14:05;19, molnigt, blåsigt;Bombus;4;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;5
+2025-07-04 00:00;Uppsala;8S;8;Spontaneous vegetation;3;14:05;19, molnigt, blåsigt;Bombus pascuorum;1;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8S;8;Spontaneous vegetation;3;14:05;19, molnigt, blåsigt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8S;8;Spontaneous vegetation;3;14:05;19, molnigt, blåsigt;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8S;8;Spontaneous vegetation;3;14:05;19, molnigt, blåsigt;Bombus sylvarum;5;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8S;8;Spontaneous vegetation;3;14:05;19, molnigt, blåsigt;Bombus lapidarius;5;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8S;8;Spontaneous vegetation;3;14:05;19, molnigt, blåsigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-04 00:00;Uppsala;8S;8;Spontaneous vegetation;3;14:05;19, molnigt, blåsigt;Coenonympha pamphilus;1;;NA;NA;kamgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;5
+2025-07-09 00:00;Örebro;11S;11;Spontaneous vegetation;3;12:00;23°, soligt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-09 00:00;Örebro;11S;11;Spontaneous vegetation;3;12:00;23°, soligt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-09 00:00;Örebro;11S;11;Spontaneous vegetation;3;12:00;23°, soligt;Hylaeus;1;amount missing;NA;NA;citronbin;Släkte;Hymenoptera;Colletidae;Hylaeus;Bee;NA;;1
+2025-07-09 00:00;Örebro;11S;11;Spontaneous vegetation;3;12:00;23°, soligt;Colletes daviesanus;2;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;1
+2025-07-09 00:00;Örebro;11S;11;Spontaneous vegetation;3;12:00;23°, soligt;Colletes floralis;1;;NA;NA;florsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Polylectic;No;1
+2025-07-09 00:00;Örebro;11S;11;Spontaneous vegetation;3;12:00;23°, soligt;Macropis europaea;1;;NA;NA;lysingbi;Art;Hymenoptera;Melittidae;Macropis;Bee;Oligolectic;Yes;1
+2025-07-09 00:00;Örebro;11I;11;Planted meadow;3;13:30;24°, soligt;Bombus terrestris;3;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-07-09 00:00;Örebro;11I;11;Planted meadow;3;13:30;24°, soligt;Bombus lapidarius;10;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-07-09 00:00;Örebro;11I;11;Planted meadow;3;13:30;24°, soligt;Bombus rupestris;1;;NA;NA;stensnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;;;2
+2025-07-09 00:00;Örebro;11I;11;Planted meadow;3;13:30;24°, soligt;Anthophora;1;amount missing;NA;NA;pälsbin;Släkte;Hymenoptera;Apidae;Anthophora;Bee;NA;;2
+2025-07-09 00:00;Örebro;11I;11;Planted meadow;3;13:30;24°, soligt;Colletes daviesanus;2;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;2
+2025-07-09 00:00;Örebro;11D;11;DPC;3;09:15;19°, soligt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;15
+2025-07-09 00:00;Örebro;11D;11;DPC;3;09:15;19°, soligt;Bombus lucorum coll.;3;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;15
+2025-07-09 00:00;Örebro;11D;11;DPC;3;09:15;19°, soligt;Bombus;3;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;15
+2025-07-09 00:00;Örebro;11D;11;DPC;3;09:15;19°, soligt;Hylaeus hyalinatus;1;;NA;NA;kölcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;15
+2025-07-09 00:00;Kumla;6D;6;DPC;3;11:05;22, soligt;Bombus lucorum coll.;6;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-07-09 00:00;Kumla;6D;6;DPC;3;11:05;22, soligt;Bombus terrestris;17;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-07-09 00:00;Kumla;6S;6;Spontaneous vegetation;3;12:05;24°, soligt;Bombus lucorum coll.;7;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-09 00:00;Kumla;6S;6;Spontaneous vegetation;3;12:05;24°, soligt;Bombus ruderarius;1;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-09 00:00;Kumla;6S;6;Spontaneous vegetation;3;12:05;24°, soligt;Bombus;2;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;3
+2025-07-09 00:00;Kumla;6S;6;Spontaneous vegetation;3;12:05;24°, soligt;Bombus lapidarius;4;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-09 00:00;Kumla;6S;6;Spontaneous vegetation;3;12:05;24°, soligt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-09 00:00;Kumla;6S;6;Spontaneous vegetation;3;12:05;24°, soligt;Aglais urticae;2;;NA;NA;nässelfjäril;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;3
+2025-07-09 00:00;Kumla;6S;6;Spontaneous vegetation;3;12:05;24°, soligt;Aphantopus hyperantus;1;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;3
+2025-07-09 00:00;Kumla;6S;6;Spontaneous vegetation;3;12:05;24°, soligt;Bombus soroeensis;2;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-09 00:00;Kumla;6S;6;Spontaneous vegetation;3;12:05;24°, soligt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-09 00:00;Kumla;6I;6;Planted meadow;3;13:45;24°, soligt;Osmia leaiana;1;;NA;NA;fibblemurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Oligolectic;Yes;1
+2025-07-09 00:00;Kumla;6I;6;Planted meadow;3;13:45;24°, soligt;Colletes daviesanus;2;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;1
+2025-07-09 00:00;Kumla;6I;6;Planted meadow;3;13:45;24°, soligt;Osmia bicolor;1;amount missing;NA;NA;snäckmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Polylectic;No;1
+2025-07-09 00:00;Kumla;6I;6;Planted meadow;3;13:45;24°, soligt;Bombus pascuorum;3;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-09 00:00;Kumla;6I;6;Planted meadow;3;13:45;24°, soligt;Bombus lapidarius;5;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-09 00:00;Kumla;6I;6;Planted meadow;3;13:45;24°, soligt;Bombus lucorum coll.;5;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-10 00:00;Stockholm;1S;1;Spontaneous vegetation;3;10:00;21°, soligt;Bombus terrestris;6;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;12
+2025-07-10 00:00;Stockholm;1S;1;Spontaneous vegetation;3;10:00;21°, soligt;Bombus;2;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;12
+2025-07-10 00:00;Stockholm;1S;1;Spontaneous vegetation;3;10:00;21°, soligt;Thymelicus lineola;2;;NA;NA;mindre tåtelsmygare;Art;Lepidoptera;Hesperiidae;Thymelicus;Butterfly;Oligophagous;Yes;12
+2025-07-10 00:00;Stockholm;1S;1;Spontaneous vegetation;3;10:00;21°, soligt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;12
+2025-07-10 00:00;Stockholm;1S;1;Spontaneous vegetation;3;10:00;21°, soligt;Lasioglossum morio;2;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;12
+2025-07-10 00:00;Stockholm;1S;1;Spontaneous vegetation;3;10:00;21°, soligt;Colletes daviesanus;1;amount missing;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;12
+2025-07-10 00:00;Stockholm;1D;1;DPC;3;12:20;23°, soligt;Ochlodes sylvanus;1;;NA;NA;ängssmygare;Art;Lepidoptera;Hesperiidae;Ochlodes;Butterfly;Polyphagous;No;25
+2025-07-10 00:00;Stockholm;1I;1;Planted meadow;3;15:15;24°, soligt;Bombus lapidarius;5;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;21
+2025-07-10 00:00;Stockholm;1I;1;Planted meadow;3;15:15;24°, soligt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;21
+2025-07-10 00:00;Stockholm;1I;1;Planted meadow;3;15:15;24°, soligt;Bombus pascuorum;2;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;21
+2025-07-10 00:00;Stockholm;1I;1;Planted meadow;3;15:15;24°, soligt;Colletes daviesanus;1;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;21
+2025-07-10 00:00;Stockholm;1I;1;Planted meadow;3;15:15;24°, soligt;Colletes floralis;4;;NA;NA;florsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Polylectic;No;21
+2025-07-10 00:00;Stockholm;1I;1;Planted meadow;3;15:15;24°, soligt;Heriades truncorum;2;;NA;NA;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee;Oligolectic;Yes;21
+2025-07-10 00:00;Stockholm;1I;1;Planted meadow;3;15:15;24°, soligt;Colletes similis;4;;NA;NA;korgsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;21
+2025-07-11 00:00;Sigtuna;4D;4;DPC;3;10:50;21°, lite molnigt, blåsigt;Bombus terrestris;3;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;47
+2025-07-11 00:00;Sigtuna;4D;4;DPC;3;10:50;21°, lite molnigt, blåsigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;47
+2025-07-11 00:00;Sigtuna;4D;4;DPC;3;10:50;21°, lite molnigt, blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;47
+2025-07-11 00:00;Sigtuna;4D;4;DPC;3;10:50;21°, lite molnigt, blåsigt;Megachilidae;1;;NA;NA;buksamlarbin;Familj;Hymenoptera;Megachilidae;;Bee;NA;;47
+2025-07-11 00:00;Sigtuna;4I;4;Planted meadow;3;11:25;21°, lite molnigt, blåsigt;Bombus soroeensis;1;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-07-11 00:00;Sigtuna;4I;4;Planted meadow;3;11:25;21°, lite molnigt, blåsigt;Bombus lucorum coll.;5;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-07-11 00:00;Sigtuna;4I;4;Planted meadow;3;11:25;21°, lite molnigt, blåsigt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;10
+2025-07-11 00:00;Sigtuna;4I;4;Planted meadow;3;11:25;21°, lite molnigt, blåsigt;Heriades truncorum;33;6 fångad. 27 ej fångade;NA;NA;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee;Oligolectic;Yes;10
+2025-07-11 00:00;Sigtuna;4I;4;Planted meadow;3;11:25;21°, lite molnigt, blåsigt;Colletes daviesanus;20;7 fångade, 13 ej fångade;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;10
+2025-07-11 00:00;Sigtuna;4I;4;Planted meadow;3;11:25;21°, lite molnigt, blåsigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-07-11 00:00;Sigtuna;4I;4;Planted meadow;3;11:25;21°, lite molnigt, blåsigt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-07-11 00:00;Sigtuna;4S;4;Spontaneous vegetation;3;12:05;22°, lite molnigt, blåsigt;Aphantopus hyperantus;5;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;20
+2025-07-11 00:00;Sigtuna;4S;4;Spontaneous vegetation;3;12:05;22°, lite molnigt, blåsigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;20
+2025-07-11 00:00;Sigtuna;4S;4;Spontaneous vegetation;3;12:05;22°, lite molnigt, blåsigt;Bombus soroeensis;1;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;20
+2025-07-11 00:00;Sigtuna;4S;4;Spontaneous vegetation;3;12:05;22°, lite molnigt, blåsigt;Maniola jurtina;4;;NA;NA;slåttergräsfjäril;Art;Lepidoptera;Nymphalidae;Maniola;Butterfly;Polyphagous;No;20
+2025-07-11 00:00;Sigtuna;4S;4;Spontaneous vegetation;3;12:05;22°, lite molnigt, blåsigt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;20
+2025-07-11 00:00;Sigtuna;4S;4;Spontaneous vegetation;3;12:05;22°, lite molnigt, blåsigt;Chelostoma rapunculi;1;;NA;NA;storsovarbi;Art;Hymenoptera;Megachilidae;Chelostoma;Bee;Oligolectic;Yes;20
+2025-07-11 00:00;Sigtuna;4S;4;Spontaneous vegetation;3;12:05;22°, lite molnigt, blåsigt;Colletes daviesanus;1;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;20
+2025-07-11 00:00;Sigtuna;4S;4;Spontaneous vegetation;3;12:05;22°, lite molnigt, blåsigt;Macropis europaea;2;;NA;NA;lysingbi;Art;Hymenoptera;Melittidae;Macropis;Bee;Oligolectic;Yes;20
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Melitta haemorrhoidalis;1;amount missing;NA;NA;blåklocksbi;Art;Hymenoptera;Melittidae;Melitta;Bee;Oligolectic;Yes;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Anthophora furcata;1;;NA;NA;dånpälsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Bombus lucorum coll.;6;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Bombus terrestris;3;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Bombus pascuorum;5;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Bombus hypnorum;3;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Heriades truncorum;3;;NA;NA;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee;Oligolectic;Yes;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-07-21 00:00;Enköping;9D;9;DPC;3;10:30;24, soligt;Aglais urticae;1;;NA;NA;nässelfjäril;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;95
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Colletes daviesanus;3;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Bombus;2;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Andrena;1;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Bombus lapidarius;15;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Thymelicus lineola;1;;NA;NA;mindre tåtelsmygare;Art;Lepidoptera;Hesperiidae;Thymelicus;Butterfly;Oligophagous;Yes;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Pieris rapae;1;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Osmia leaiana;3;;NA;NA;fibblemurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee;Oligolectic;Yes;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Megachile versicolor;1;;NA;NA;ängstapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Bombus soroeensis;1;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-07-21 00:00;Enköping;9I;9;Planted meadow;3;12:40;25, soligt;Aphantopus hyperantus;1;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;25
+2025-07-21 00:00;Enköping;9S;9;Spontaneous vegetation;3;14:30;26, soligt;Bombus pascuorum;6;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-07-21 00:00;Enköping;9S;9;Spontaneous vegetation;3;14:30;26, soligt;Aphantopus hyperantus;2;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;0
+2025-07-21 00:00;Enköping;9S;9;Spontaneous vegetation;3;14:30;26, soligt;Andrena wilkella;2;;NA;NA;ärtsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Oligolectic;Yes;0
+2025-07-21 00:00;Enköping;9S;9;Spontaneous vegetation;3;14:30;26, soligt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-07-21 00:00;Enköping;9S;9;Spontaneous vegetation;3;14:30;26, soligt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;0
+2025-07-21 00:00;Enköping;9S;9;Spontaneous vegetation;3;14:30;26, soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-07-21 00:00;Enköping;9S;9;Spontaneous vegetation;3;14:30;26, soligt;Ochlodes sylvanus;1;;NA;NA;ängssmygare;Art;Lepidoptera;Hesperiidae;Ochlodes;Butterfly;Polyphagous;No;0
+2025-07-21 00:00;Enköping;9S;9;Spontaneous vegetation;3;14:30;26, soligt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;0
+2025-07-22 00:00;Åkersberga;5I;5;Planted meadow;3;09:55;24, soligt, lite blåsigt;Bombus lapidarius;3;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-22 00:00;Åkersberga;5I;5;Planted meadow;3;09:55;24, soligt, lite blåsigt;Pieris rapae;3;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-07-22 00:00;Åkersberga;5I;5;Planted meadow;3;09:55;24, soligt, lite blåsigt;Colletes daviesanus;1;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;64
+2025-07-22 00:00;Åkersberga;5S;5;Spontaneous vegetation;3;11:25;27, lite molnigt, lite blåsigt;Maniola jurtina;4;;NA;NA;slåttergräsfjäril;Art;Lepidoptera;Nymphalidae;Maniola;Butterfly;Polyphagous;No;5
+2025-07-22 00:00;Åkersberga;5S;5;Spontaneous vegetation;3;11:25;27, lite molnigt, lite blåsigt;Aphantopus hyperantus;3;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;5
+2025-07-22 00:00;Åkersberga;5S;5;Spontaneous vegetation;3;11:25;27, lite molnigt, lite blåsigt;Thymelicus lineola;1;;NA;NA;mindre tåtelsmygare;Art;Lepidoptera;Hesperiidae;Thymelicus;Butterfly;Oligophagous;Yes;5
+2025-07-22 00:00;Åkersberga;5S;5;Spontaneous vegetation;3;11:25;27, lite molnigt, lite blåsigt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-22 00:00;Åkersberga;5S;5;Spontaneous vegetation;3;11:25;27, lite molnigt, lite blåsigt;Bombus lucorum coll.;3;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-22 00:00;Åkersberga;5S;5;Spontaneous vegetation;3;11:25;27, lite molnigt, lite blåsigt;Bombus terrestris;5;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-22 00:00;Åkersberga;5S;5;Spontaneous vegetation;3;11:25;27, lite molnigt, lite blåsigt;Pieris rapae;1;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;5
+2025-07-22 00:00;Åkersberga;5S;5;Spontaneous vegetation;3;11:25;27, lite molnigt, lite blåsigt;Hylaeus angustatus;1;;NA;NA;smalcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;5
+2025-07-22 00:00;Åkersberga;5D;5;DPC;3;14:35;26, molnigt, lite blåsigt;Pieris;5;;NA;NA;;Släkte;Lepidoptera;Pieridae;Pieris;Butterfly;NA;;175
+2025-07-22 00:00;Åkersberga;5D;5;DPC;3;14:35;26, molnigt, lite blåsigt;Bombus lucorum coll.;44;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;175
+2025-07-22 00:00;Åkersberga;5D;5;DPC;3;14:35;26, molnigt, lite blåsigt;Bombus lapidarius;61;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;175
+2025-07-22 00:00;Åkersberga;5D;5;DPC;3;14:35;26, molnigt, lite blåsigt;Bombus hortorum;2;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;175
+2025-07-22 00:00;Åkersberga;5D;5;DPC;3;14:35;26, molnigt, lite blåsigt;Bombus terrestris;38;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;175
+2025-07-22 00:00;Åkersberga;5D;5;DPC;3;14:35;26, molnigt, lite blåsigt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;175
+2025-07-22 00:00;Åkersberga;5D;5;DPC;3;14:35;26, molnigt, lite blåsigt;Anthophora quadrimaculata;1;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;175
+2025-07-22 00:00;Åkersberga;5D;5;DPC;3;14:35;26, molnigt, lite blåsigt;Hylaeus communis;2;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;175
+2025-07-22 00:00;Åkersberga;5D;5;DPC;3;14:35;26, molnigt, lite blåsigt;Hylaeus incongruus;1;;NA;NA;hedcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;175
+2025-07-24 00:00;Stockholm;3S;3;Spontaneous vegetation;4;10:30;24, molnigt, lite blåsigt;Thymelicus lineola;3;;NA;NA;mindre tåtelsmygare;Art;Lepidoptera;Hesperiidae;Thymelicus;Butterfly;Oligophagous;Yes;1
+2025-07-24 00:00;Stockholm;3S;3;Spontaneous vegetation;4;10:30;24, molnigt, lite blåsigt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-24 00:00;Stockholm;3S;3;Spontaneous vegetation;4;10:30;24, molnigt, lite blåsigt;Bombus pascuorum;1;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-24 00:00;Stockholm;3S;3;Spontaneous vegetation;4;10:30;24, molnigt, lite blåsigt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-24 00:00;Stockholm;3S;3;Spontaneous vegetation;4;10:30;24, molnigt, lite blåsigt;Bombus rupestris;1;;NA;NA;stensnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;;;1
+2025-07-24 00:00;Stockholm;3S;3;Spontaneous vegetation;4;10:30;24, molnigt, lite blåsigt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-24 00:00;Stockholm;3S;3;Spontaneous vegetation;4;10:30;24, molnigt, lite blåsigt;Zygaena filipendulae;1;;NA;NA;sexfläckig bastardsvärmare;Art;Lepidoptera;Zygaenidae;Zygaena;Butterfly;Oligophagous;Yes;1
+2025-07-24 00:00;Stockholm;3S;3;Spontaneous vegetation;4;10:30;24, molnigt, lite blåsigt;Megachile versicolor;1;;NA;NA;ängstapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;1
+2025-07-24 00:00;Stockholm;3D;3;DPC;4;11:55;26, molnigt;Bombus terrestris;127;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-24 00:00;Stockholm;3D;3;DPC;4;11:55;26, molnigt;Bombus lucorum coll.;58;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-24 00:00;Stockholm;3D;3;DPC;4;11:55;26, molnigt;Bombus lapidarius;23;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-24 00:00;Stockholm;3D;3;DPC;4;11:55;26, molnigt;Bombus ruderarius;1;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-24 00:00;Stockholm;3D;3;DPC;4;11:55;26, molnigt;Bombus soroeensis;2;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;157
+2025-07-24 00:00;Stockholm;3D;3;DPC;4;11:55;26, molnigt;Gonepteryx rhamni;1;;NA;NA;citronfjäril;Art;Lepidoptera;Pieridae;Gonepteryx;Butterfly;Polyphagous;No;157
+2025-07-24 00:00;Stockholm;3I;3;Planted meadow;4;13:25;26, molnigt;Bombus terrestris;95;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-24 00:00;Stockholm;3I;3;Planted meadow;4;13:25;26, molnigt;Bombus lapidarius;16;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-24 00:00;Stockholm;3I;3;Planted meadow;4;13:25;26, molnigt;Hylaeus communis;3;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;64
+2025-07-24 00:00;Stockholm;3I;3;Planted meadow;4;13:25;26, molnigt;Pieris brassicae;1;;NA;NA;kålfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-07-24 00:00;Stockholm;3I;3;Planted meadow;4;13:25;26, molnigt;Pieris rapae;1;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-07-24 00:00;Stockholm;3I;3;Planted meadow;4;13:25;26, molnigt;Bombus lucorum coll.;3;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-24 00:00;Stockholm;3I;3;Planted meadow;4;13:25;26, molnigt;Bombus soroeensis;2;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-24 00:00;Stockholm;3I;3;Planted meadow;4;13:25;26, molnigt;Bombus pratorum;3;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-25 00:00;Stockholm;2D;2;DPC;4;10:15;23,molnigt;Bombus lapidarius;7;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-07-25 00:00;Stockholm;2D;2;DPC;4;10:15;23,molnigt;Bombus lucorum coll.;27;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-07-25 00:00;Stockholm;2D;2;DPC;4;10:15;23,molnigt;Bombus terrestris;7;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-07-25 00:00;Stockholm;2D;2;DPC;4;10:15;23,molnigt;Bombus hypnorum;1;;NA;NA;hushumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-07-25 00:00;Stockholm;2D;2;DPC;4;10:15;23,molnigt;Hylaeus hyalinatus;2;;NA;NA;kölcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;19
+2025-07-25 00:00;Stockholm;2D;2;DPC;4;10:15;23,molnigt;Anthophora quadrimaculata;2;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;19
+2025-07-25 00:00;Stockholm;2D;2;DPC;4;10:15;23,molnigt;Bombus soroeensis;2;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-07-25 00:00;Stockholm;2D;2;DPC;4;10:15;23,molnigt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-07-25 00:00;Stockholm;2D;2;DPC;4;10:15;23,molnigt;Bombus pascuorum;1;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;19
+2025-07-25 00:00;Stockholm;2S;2;Spontaneous vegetation;4;11:50;25, lite molnigt;Bombus lapidarius;3;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;4
+2025-07-25 00:00;Stockholm;2S;2;Spontaneous vegetation;4;11:50;25, lite molnigt;Pieris rapae;1;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;4
+2025-07-25 00:00;Stockholm;2S;2;Spontaneous vegetation;4;11:50;25, lite molnigt;Colletes daviesanus;1;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;4
+2025-07-25 00:00;Stockholm;2S;2;Spontaneous vegetation;4;11:50;25, lite molnigt;Lasioglossum morio;2;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;4
+2025-07-25 00:00;Stockholm;2S;2;Spontaneous vegetation;4;11:50;25, lite molnigt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;4
+2025-07-25 00:00;Stockholm;2S;2;Spontaneous vegetation;4;11:50;25, lite molnigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;4
+2025-07-25 00:00;Stockholm;2S;2;Spontaneous vegetation;4;11:50;25, lite molnigt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;4
+2025-07-25 00:00;Stockholm;2I;2;Planted meadow;4;14:20;28, lite molnigt;Bombus terrestris;31;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-07-25 00:00;Stockholm;2I;2;Planted meadow;4;14:20;28, lite molnigt;Bombus lapidarius;19;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-07-25 00:00;Stockholm;2I;2;Planted meadow;4;14:20;28, lite molnigt;Bombus lucorum coll.;21;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-07-25 00:00;Stockholm;2I;2;Planted meadow;4;14:20;28, lite molnigt;Bombus;5;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;54
+2025-07-25 00:00;Stockholm;2I;2;Planted meadow;4;14:20;28, lite molnigt;Bombus pratorum;4;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-07-25 00:00;Stockholm;2I;2;Planted meadow;4;14:20;28, lite molnigt;Bombus soroeensis;1;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;54
+2025-07-25 00:00;Stockholm;2I;2;Planted meadow;4;14:20;28, lite molnigt;Megachile ligniseca;1;;NA;NA;trätapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;54
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Bombus lucorum coll.;39;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Bombus pratorum;6;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Bombus terrestris;19;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Sphecodes;1;;NA;NA;blodbin;Släkte;Hymenoptera;Halictidae;Sphecodes;Bee;NA;;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Bombus lapidarius;23;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Bombus ruderarius;1;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Colletes similis;1;;NA;NA;korgsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Andrena fuscipes;1;;NA;NA;ljungsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Monolectic;Yes;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Hylaeus hyalinatus;2;;NA;NA;kölcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;2
+2025-07-27 00:00;Örebro;10D;10;DPC;3;12:40;25, soligt;Colletes daviesanus;2;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;2
+2025-07-27 00:00;Örebro;10S;10;Spontaneous vegetation;3;12:55;25, soligt;Bombus terrestris;15;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-27 00:00;Örebro;10S;10;Spontaneous vegetation;3;12:55;25, soligt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;5
+2025-07-27 00:00;Örebro;10S;10;Spontaneous vegetation;3;12:55;25, soligt;Bombus lucorum coll.;4;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-27 00:00;Örebro;10S;10;Spontaneous vegetation;3;12:55;25, soligt;Bombus lapidarius;3;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-27 00:00;Örebro;10S;10;Spontaneous vegetation;3;12:55;25, soligt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Bombus;5;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Bombus soroeensis;1;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Bombus lucorum coll.;5;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Bombus sylvarum;2;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Bombus pratorum;13;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Bombus pascuorum;2;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Speyeria aglaja;1;;NA;NA;ängspärlemorfjäril;Art;Lepidoptera;Nymphalidae;Speyeria;Butterfly;Oligophagous;Yes;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Coenonympha pamphilus;2;;NA;NA;kamgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;5
+2025-07-27 00:00;Örebro;10I;10;Planted meadow;3;15:45;26, soligt/molnigt;Zygaena filipendulae;1;;NA;NA;sexfläckig bastardsvärmare;Art;Lepidoptera;Zygaenidae;Zygaena;Butterfly;Oligophagous;Yes;5
+2025-07-27 00:00;Örebro;12D;12;DPC;3;14:25;25, soligt;Bombus lucorum coll.;81;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-27 00:00;Örebro;12D;12;DPC;3;14:25;25, soligt;Bombus terrestris;18;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-27 00:00;Örebro;12D;12;DPC;3;14:25;25, soligt;Bombus lapidarius;8;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-27 00:00;Örebro;12D;12;DPC;3;14:25;25, soligt;Bombus pratorum;12;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-07-27 00:00;Örebro;12D;12;DPC;3;14:25;25, soligt;Pieris rapae;3;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-07-27 00:00;Örebro;12D;12;DPC;3;14:25;25, soligt;Pieris napi;2;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-07-28 00:00;Örebro;12I;12;Planted meadow;3;10:35;21, soligt;Aglais io;1;meadow completely mown (only a few small patchs of flowers left);NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;36
+2025-07-28 00:00;Örebro;12I;12;Planted meadow;3;10:35;21, soligt;Pieris brassicae;1;;NA;NA;kålfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;36
+2025-07-28 00:00;Örebro;12I;12;Planted meadow;3;10:35;21, soligt;Bombus humilis;2;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-07-28 00:00;Örebro;12I;12;Planted meadow;3;10:35;21, soligt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-07-28 00:00;Örebro;12I;12;Planted meadow;3;10:35;21, soligt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-07-28 00:00;Örebro;12I;12;Planted meadow;3;10:35;21, soligt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-07-28 00:00;Örebro;12I;12;Planted meadow;3;10:35;21, soligt;Zygaena filipendulae;4;;NA;NA;sexfläckig bastardsvärmare;Art;Lepidoptera;Zygaenidae;Zygaena;Butterfly;Oligophagous;Yes;36
+2025-07-28 00:00;Örebro;12S;12;Spontaneous vegetation;3;10:40;21, soligt;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-28 00:00;Örebro;12S;12;Spontaneous vegetation;3;10:40;21, soligt;Thymelicus lineola;1;;NA;NA;mindre tåtelsmygare;Art;Lepidoptera;Hesperiidae;Thymelicus;Butterfly;Oligophagous;Yes;1
+2025-07-28 00:00;Örebro;12S;12;Spontaneous vegetation;3;10:40;21, soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Bombus hortorum;1;;NA;NA;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Bombus lapidarius;12;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Speyeria aglaja;4;;NA;NA;ängspärlemorfjäril;Art;Lepidoptera;Nymphalidae;Speyeria;Butterfly;Oligophagous;Yes;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Bombus humilis;3;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Bombus soroeensis;2;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Bombus pascuorum;7;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Pieris napi;7;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Gonepteryx rhamni;1;;NA;NA;citronfjäril;Art;Lepidoptera;Pieridae;Gonepteryx;Butterfly;Polyphagous;No;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Lycaena phlaeas;1;;NA;NA;mindre guldvinge;Art;Lepidoptera;Lycaenidae;Lycaena;Butterfly;Oligophagous;Yes;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Pieris rapae;27;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Hylaeus;2;;NA;NA;citronbin;Släkte;Hymenoptera;Colletidae;Hylaeus;Bee;NA;;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;3
+2025-07-30 00:00;Uppsala;7D;7;DPC;4;09:55;21, soligt;Andrena nigriceps;1;;NA;NA;sommarsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee;Polylectic;No;3
+2025-07-30 00:00;Uppsala;7S;7;Spontaneous vegetation;4;11:50;22, lite molnigt;Bombus lucorum coll.;11;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;22
+2025-07-30 00:00;Uppsala;7S;7;Spontaneous vegetation;4;11:50;22, lite molnigt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;22
+2025-07-30 00:00;Uppsala;7S;7;Spontaneous vegetation;4;11:50;22, lite molnigt;Colletes daviesanus;1;;NA;NA;väggsidenbi;Art;Hymenoptera;Colletidae;Colletes;Bee;Oligolectic;Yes;22
+2025-07-30 00:00;Uppsala;7S;7;Spontaneous vegetation;4;11:50;22, lite molnigt;Bombus terrestris;5;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;22
+2025-07-30 00:00;Uppsala;7S;7;Spontaneous vegetation;4;11:50;22, lite molnigt;Aphantopus hyperantus;1;;NA;NA;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly;Polyphagous;No;22
+2025-07-30 00:00;Uppsala;7S;7;Spontaneous vegetation;4;11:50;22, lite molnigt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;22
+2025-07-30 00:00;Uppsala;7S;7;Spontaneous vegetation;4;11:50;22, lite molnigt;Aglais io;1;;NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;22
+2025-07-30 00:00;Uppsala;7S;7;Spontaneous vegetation;4;11:50;22, lite molnigt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;22
+2025-07-30 00:00;Uppsala;7S;7;Spontaneous vegetation;4;11:50;22, lite molnigt;Seladonia tumulorum;1;;NA;NA;ängsbandbi;Art;Hymenoptera;Halictidae;Seladonia;Bee;Polylectic;No;22
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Bombus lapidarius;11;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;7
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Bombus lucorum coll.;7;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;7
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Pieris;1;;NA;NA;;Släkte;Lepidoptera;Pieridae;Pieris;Butterfly;NA;;7
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Pieris brassicae;6;;NA;NA;kålfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;7
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Pieris rapae;3;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;7
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Zygaena filipendulae;2;;NA;NA;sexfläckig bastardsvärmare;Art;Lepidoptera;Zygaenidae;Zygaena;Butterfly;Oligophagous;Yes;7
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Plebejus argus;2;;NA;NA;ljungblåvinge;Art;Lepidoptera;Lycaenidae;Plebejus;Butterfly;Polyphagous;No;7
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Aglais io;1;;NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;7
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;7
+2520-07-30 00:00;Uppsala;7I;7;Planted meadow;4;12:45;25, soligt;Melitta leporina;1;;NA;NA;lusernbi;Art;Hymenoptera;Melittidae;Melitta;Bee;Oligolectic;Yes;7
+2025-08-04 00:00;Stockholm;1D;1;DPC;4;10:55;21, molnigt soligt;Bombus terrestris;10;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-08-04 00:00;Stockholm;1D;1;DPC;4;10:55;21, molnigt soligt;Bombus soroeensis;2;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-08-04 00:00;Stockholm;1D;1;DPC;4;10:55;21, molnigt soligt;Bombus lucorum coll.;1;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-08-04 00:00;Stockholm;1I;1;Planted meadow;4;12:35;22°, lite molnigt;Bombus lucorum coll.;3;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;21
+2025-08-04 00:00;Stockholm;1I;1;Planted meadow;4;12:35;22°, lite molnigt;Bombus lapidarius;4;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;21
+2025-08-04 00:00;Stockholm;1I;1;Planted meadow;4;12:35;22°, lite molnigt;Megachilidae;1;;NA;NA;buksamlarbin;Familj;Hymenoptera;Megachilidae;;Bee;NA;;21
+2025-08-04 00:00;Stockholm;1I;1;Planted meadow;4;12:35;22°, lite molnigt;Heriades truncorum;2;;NA;NA;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee;Oligolectic;Yes;21
+2025-08-04 00:00;Stockholm;1I;1;Planted meadow;4;12:35;22°, lite molnigt;Bombus terrestris;3;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;21
+2025-08-04 00:00;Stockholm;1S;1;Spontaneous vegetation;4;14:30;22°, soligt/lite molnigt;Coenonympha pamphilus;2;;NA;NA;kamgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly;Polyphagous;No;12
+2025-08-04 00:00;Stockholm;1S;1;Spontaneous vegetation;4;14:30;22°, soligt/lite molnigt;Polyommatus icarus;6;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;12
+2025-08-04 00:00;Stockholm;1S;1;Spontaneous vegetation;4;14:30;22°, soligt/lite molnigt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;12
+2025-08-04 00:00;Stockholm;1S;1;Spontaneous vegetation;4;14:30;22°, soligt/lite molnigt;Bombus ruderarius;7;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;12
+2025-08-04 00:00;Stockholm;1S;1;Spontaneous vegetation;4;14:30;22°, soligt/lite molnigt;Lycaenidae;1;;NA;NA;juvelvingar;Familj;Lepidoptera;Lycaenidae;;Butterfly;NA;;12
+2025-08-04 00:00;Stockholm;1S;1;Spontaneous vegetation;4;14:30;22°, soligt/lite molnigt;Seladonia tumulorum;2;;NA;NA;ängsbandbi;Art;Hymenoptera;Halictidae;Seladonia;Bee;Polylectic;No;12
+2025-08-04 00:00;Stockholm;1S;1;Spontaneous vegetation;4;14:30;22°, soligt/lite molnigt;Lasioglossum leucopus;1;;NA;NA;bronssmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;12
+2025-08-04 00:00;Uppsala;8I;8;Planted meadow;4;13:30;21, lite molnigt;Sphecodes monilicornis;1;;NA;NA;ängsblodbi;Art;Hymenoptera;Halictidae;Sphecodes;Bee;;;5
+2025-08-04 00:00;Uppsala;8I;8;Planted meadow;4;13:30;21, lite molnigt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;5
+2025-08-04 00:00;Uppsala;8I;8;Planted meadow;4;13:30;21, lite molnigt;Bombus lucorum coll.;11;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-04 00:00;Uppsala;8I;8;Planted meadow;4;13:30;21, lite molnigt;Bombus lapidarius;5;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-04 00:00;Uppsala;8I;8;Planted meadow;4;13:30;21, lite molnigt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Bombus lucorum coll.;120;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Bombus terrestris;13;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Pieris napi;9;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;16
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Pieris rapae;8;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;16
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Bombus lapidarius;10;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Aglais io;1;;NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;16
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Pieris brassicae;1;;NA;NA;kålfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;16
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Bombus humilis;4;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;16
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Bombus campestris;1;;NA;NA;åkersnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;;;16
+2025-08-04 00:00;Uppsala;8D;8;DPC;4;15:30;23, lite molnigt;Bombus;3;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;16
+2025-08-04 00:00;Uppsala;8S;8;Spontaneous vegetation;4;16:55;23, soligt, blåsigt;Bombus sylvarum;2;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-04 00:00;Uppsala;8S;8;Spontaneous vegetation;4;16:55;23, soligt, blåsigt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-04 00:00;Uppsala;8S;8;Spontaneous vegetation;4;16:55;23, soligt, blåsigt;Bombus pratorum;1;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-04 00:00;Uppsala;8S;8;Spontaneous vegetation;4;16:55;23, soligt, blåsigt;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-06 00:00;Örebro;11S;11;Spontaneous vegetation;4;09:10;17, molnigt, blåsigt;Bombus lapidarius;6;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-08-06 00:00;Örebro;11S;11;Spontaneous vegetation;4;09:10;17, molnigt, blåsigt;Bombus terrestris;4;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-08-06 00:00;Örebro;11S;11;Spontaneous vegetation;4;09:10;17, molnigt, blåsigt;Bombus lucorum coll.;5;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-08-06 00:00;Örebro;11S;11;Spontaneous vegetation;4;09:10;17, molnigt, blåsigt;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-08-06 00:00;Örebro;11D;11;DPC;4;10:05;17, molnigt, lite blåsigt;Bombus lucorum coll.;18;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;15
+2025-08-06 00:00;Örebro;11D;11;DPC;4;10:05;17, molnigt, lite blåsigt;Bombus lapidarius;7;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;15
+2025-08-06 00:00;Örebro;11D;11;DPC;4;10:05;17, molnigt, lite blåsigt;Bombus terrestris;8;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;15
+2025-08-06 00:00;Örebro;11D;11;DPC;4;10:05;17, molnigt, lite blåsigt;Bombus rupestris;1;;NA;NA;stensnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;;;15
+2025-08-06 00:00;Örebro;11I;11;Planted meadow;4;10:45;17, molnigt/soligt, lite blåsigt;Bombus lapidarius;17;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-08-06 00:00;Örebro;11I;11;Planted meadow;4;10:45;17, molnigt/soligt, lite blåsigt;Bombus terrestris;6;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-08-06 00:00;Örebro;11I;11;Planted meadow;4;10:45;17, molnigt/soligt, lite blåsigt;Bombus lucorum coll.;6;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-08-06 00:00;Örebro;11I;11;Planted meadow;4;10:45;17, molnigt/soligt, lite blåsigt;Bombus ruderarius;2;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-08-06 00:00;Örebro;11I;11;Planted meadow;4;10:45;17, molnigt/soligt, lite blåsigt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-08-06 00:00;Örebro;11I;11;Planted meadow;4;10:45;17, molnigt/soligt, lite blåsigt;Pieris brassicae;1;;NA;NA;kålfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;2
+2025-08-06 00:00;Kumla;6I;6;Planted meadow;4;12:20;18, lite molnigt, blåsigt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-08-06 00:00;Kumla;6I;6;Planted meadow;4;12:20;18, lite molnigt, blåsigt;Polyommatus icarus;2;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;1
+2025-08-06 00:00;Kumla;6I;6;Planted meadow;4;12:20;18, lite molnigt, blåsigt;Bombus lucorum coll.;5;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-08-06 00:00;Kumla;6I;6;Planted meadow;4;12:20;18, lite molnigt, blåsigt;Thymelicus lineola;1;;NA;NA;mindre tåtelsmygare;Art;Lepidoptera;Hesperiidae;Thymelicus;Butterfly;Oligophagous;Yes;1
+2025-08-06 00:00;Kumla;6I;6;Planted meadow;4;12:20;18, lite molnigt, blåsigt;Bombus lapidarius;6;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-08-06 00:00;Kumla;6I;6;Planted meadow;4;12:20;18, lite molnigt, blåsigt;Bombus terrestris;3;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-08-06 00:00;Kumla;6I;6;Planted meadow;4;12:20;18, lite molnigt, blåsigt;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;1
+2025-08-06 00:00;Kumla;6I;6;Planted meadow;4;12:20;18, lite molnigt, blåsigt;Bombus;3;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;1
+2025-08-06 00:00;Kumla;6D;6;DPC;4;13:25;18, lite molnigt, blåsigt;Bombus lucorum coll.;56;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-08-06 00:00;Kumla;6D;6;DPC;4;13:25;18, lite molnigt, blåsigt;Bombus pratorum;12;;NA;NA;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-08-06 00:00;Kumla;6D;6;DPC;4;13:25;18, lite molnigt, blåsigt;Bombus terrestris;24;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-08-06 00:00;Kumla;6D;6;DPC;4;13:25;18, lite molnigt, blåsigt;Bombus lapidarius;4;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-08-06 00:00;Kumla;6D;6;DPC;4;13:25;18, lite molnigt, blåsigt;Bombus ruderarius;1;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;11
+2025-08-06 00:00;Kumla;6S;6;Spontaneous vegetation;4;13:30;18, lite molnigt, blåsigt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;3
+2025-08-06 00:00;Kumla;6S;6;Spontaneous vegetation;4;13:30;18, lite molnigt, blåsigt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;3
+2025-08-12 00:00;Sigtuna;4I;4;Planted meadow;4;10:05;18, lite molnigt, blåsigt;Bombus lucorum coll.;2;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-08-12 00:00;Sigtuna;4I;4;Planted meadow;4;10:05;18, lite molnigt, blåsigt;Bombus lapidarius;3;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-08-12 00:00;Sigtuna;4I;4;Planted meadow;4;10:05;18, lite molnigt, blåsigt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;10
+2025-08-12 00:00;Sigtuna;4I;4;Planted meadow;4;10:05;18, lite molnigt, blåsigt;Bombus campestris;1;All black with orange hair on torax and few yellow hair on abdomen side;NA;NA;åkersnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;;;10
+2025-08-12 00:00;Sigtuna;4I;4;Planted meadow;4;10:05;18, lite molnigt, blåsigt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-08-12 00:00;Sigtuna;4I;4;Planted meadow;4;10:05;18, lite molnigt, blåsigt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;10
+2025-08-12 00:00;Sigtuna;4I;4;Planted meadow;4;10:05;18, lite molnigt, blåsigt;Bombus ruderarius;1;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;10
+2025-08-12 00:00;Sigtuna;4S;4;Spontaneous vegetation;4;11:10;20, soligt;Pieris brassicae;2;;NA;NA;kålfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;20
+2025-08-12 00:00;Sigtuna;4S;4;Spontaneous vegetation;4;11:10;20, soligt;Heriades truncorum;2;;NA;NA;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee;Oligolectic;Yes;20
+2025-08-12 00:00;Sigtuna;4S;4;Spontaneous vegetation;4;11:10;20, soligt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;20
+2025-08-12 00:00;Sigtuna;4S;4;Spontaneous vegetation;4;11:10;20, soligt;Seladonia tumulorum;2;;NA;NA;ängsbandbi;Art;Hymenoptera;Halictidae;Seladonia;Bee;Polylectic;No;20
+2025-08-12 00:00;Sigtuna;4S;4;Spontaneous vegetation;4;11:10;20, soligt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;20
+2025-08-12 00:00;Sigtuna;4S;4;Spontaneous vegetation;4;11:10;20, soligt;Lasioglossum leucopus;1;;NA;NA;bronssmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;20
+2025-08-12 00:00;Sigtuna;4S;4;Spontaneous vegetation;4;11:10;20, soligt;Hylaeus hyalinatus;1;;NA;NA;kölcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;20
+2025-08-12 00:00;Sigtuna;4D;4;DPC;4;12:45;23, molnigt;Bombus terrestris;24;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;47
+2025-08-12 00:00;Sigtuna;4D;4;DPC;4;12:45;23, molnigt;Bombus lucorum coll.;5;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;47
+2025-08-12 00:00;Sigtuna;4D;4;DPC;4;12:45;23, molnigt;Aglais io;2;;NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;47
+2025-08-12 00:00;Sigtuna;4D;4;DPC;4;12:45;23, molnigt;Pieris rapae;1;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;47
+2025-08-12 00:00;Sigtuna;4D;4;DPC;4;12:45;23, molnigt;Pieris napi;2;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;47
+2025-08-12 00:00;Sigtuna;4D;4;DPC;4;12:45;23, molnigt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;47
+2025-08-12 00:00;Sigtuna;4D;4;DPC;4;12:45;23, molnigt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;47
+2025-08-12 00:00;Sigtuna;4D;4;DPC;4;12:45;23, molnigt;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;47
+2025-08-12 00:00;Sigtuna;4D;4;DPC;4;12:45;23, molnigt;Hylaeus rinki;1;;NA;NA;backcitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;47
+2025-08-13 00:00;Enköping;9S;9;Spontaneous vegetation;4;11:25;20, molnigt;Bombus pascuorum;3;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-08-13 00:00;Enköping;9S;9;Spontaneous vegetation;4;11:25;20, molnigt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;0
+2025-08-13 00:00;Enköping;9S;9;Spontaneous vegetation;4;11:25;20, molnigt;Pieris napi;2;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;0
+2025-08-13 00:00;Enköping;9S;9;Spontaneous vegetation;4;11:25;20, molnigt;Pieris rapae;1;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;0
+2025-08-13 00:00;Enköping;9S;9;Spontaneous vegetation;4;11:25;20, molnigt;Seladonia tumulorum;2;;NA;NA;ängsbandbi;Art;Hymenoptera;Halictidae;Seladonia;Bee;Polylectic;No;0
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Bombus lucorum coll.;29;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Bombus terrestris;61;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Pieris napi;9;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Pieris rapae;5;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Aglais io;1;;NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Gonepteryx rhamni;1;;NA;NA;citronfjäril;Art;Lepidoptera;Pieridae;Gonepteryx;Butterfly;Polyphagous;No;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Bombus lapidarius;6;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Bombus humilis;1;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Polyommatus icarus;2;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Megachile ligniseca;1;;NA;NA;trätapetserarbi;Art;Hymenoptera;Megachilidae;Megachile;Bee;Polylectic;No;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Bombus;1;;NA;NA;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee;NA;;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Heriades truncorum;1;;NA;NA;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee;Oligolectic;Yes;95
+2025-08-13 00:00;Enköping;9D;9;DPC;4;13:35;23, soligt;Anthophora quadrimaculata;1;;NA;NA;örtagårdsbi;Art;Hymenoptera;Apidae;Anthophora;Bee;Oligolectic;Yes;95
+2025-08-13 00:00;Enköping;9I;9;Planted meadow;4;15:35;24, soligt;Bombus terrestris;9;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-08-13 00:00;Enköping;9I;9;Planted meadow;4;15:35;24, soligt;Bombus lapidarius;5;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-08-13 00:00;Enköping;9I;9;Planted meadow;4;15:35;24, soligt;Bombus lucorum coll.;4;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-08-13 00:00;Enköping;9I;9;Planted meadow;4;15:35;24, soligt;Pieris rapae;4;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;25
+2025-08-13 00:00;Enköping;9I;9;Planted meadow;4;15:35;24, soligt;Bombus humilis;3;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-08-13 00:00;Enköping;9I;9;Planted meadow;4;15:35;24, soligt;Polyommatus icarus;3;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;25
+2025-08-13 00:00;Enköping;9I;9;Planted meadow;4;15:35;24, soligt;Pieris napi;5;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;25
+2025-08-13 00:00;Enköping;9I;9;Planted meadow;4;15:35;24, soligt;Bombus pascuorum;1;;NA;NA;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;25
+2025-08-14 00:00;Åkersberga;5D;5;DPC;4;10:50;24, soligt;Bombus soroeensis;23;;NA;NA;blåklockshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;175
+2025-08-14 00:00;Åkersberga;5D;5;DPC;4;10:50;24, soligt;Bombus terrestris;7;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;175
+2025-08-14 00:00;Åkersberga;5D;5;DPC;4;10:50;24, soligt;Gonepteryx rhamni;1;;NA;NA;citronfjäril;Art;Lepidoptera;Pieridae;Gonepteryx;Butterfly;Polyphagous;No;175
+2025-08-14 00:00;Åkersberga;5D;5;DPC;4;10:50;24, soligt;Pieris rapae;3;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;175
+2025-08-14 00:00;Åkersberga;5D;5;DPC;4;10:50;24, soligt;Polyommatus icarus;5;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;175
+2025-08-14 00:00;Åkersberga;5D;5;DPC;4;10:50;24, soligt;Bombus lapidarius;4;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;175
+2025-08-14 00:00;Åkersberga;5D;5;DPC;4;10:50;24, soligt;Bombus lucorum coll.;19;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;175
+2025-08-14 00:00;Åkersberga;5D;5;DPC;4;10:50;24, soligt;Aglais io;1;;NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;175
+2025-08-14 00:00;Åkersberga;5D;5;DPC;4;10:50;24, soligt;Pieris brassicae;1;;NA;NA;kålfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;175
+2025-08-14 00:00;Åkersberga;5S;5;Spontaneous vegetation;4;12:30;25, soligt;Polygonia c-album;1;;NA;NA;vinbärsfuks;Art;Lepidoptera;Nymphalidae;Polygonia;Butterfly;Polyphagous;No;5
+2025-08-14 00:00;Åkersberga;5S;5;Spontaneous vegetation;4;12:30;25, soligt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;5
+2025-08-14 00:00;Åkersberga;5S;5;Spontaneous vegetation;4;12:30;25, soligt;Hylaeus communis;2;;NA;NA;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee;Polylectic;No;5
+2025-08-14 00:00;Åkersberga;5S;5;Spontaneous vegetation;4;12:30;25, soligt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;5
+2025-08-14 00:00;Åkersberga;5S;5;Spontaneous vegetation;4;12:30;25, soligt;Polyommatus icarus;2;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;5
+2025-08-14 00:00;Åkersberga;5S;5;Spontaneous vegetation;4;12:30;25, soligt;Pieris brassicae;1;;NA;NA;kålfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;5
+2025-08-14 00:00;Åkersberga;5I;5;Planted meadow;4;15:30;28, soligt;Pieris rapae;3;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-08-14 00:00;Åkersberga;5I;5;Planted meadow;4;15:30;28, soligt;Pieris napi;4;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-08-14 00:00;Åkersberga;5I;5;Planted meadow;4;15:30;28, soligt;Polyommatus icarus;4;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;64
+2025-08-14 00:00;Åkersberga;5I;5;Planted meadow;4;15:30;28, soligt;Sphecodes monilicornis;1;;NA;NA;ängsblodbi;Art;Hymenoptera;Halictidae;Sphecodes;Bee;;;64
+2025-08-14 00:00;Åkersberga;5I;5;Planted meadow;4;15:30;28, soligt;Gonepteryx rhamni;2;;NA;NA;citronfjäril;Art;Lepidoptera;Pieridae;Gonepteryx;Butterfly;Polyphagous;No;64
+2025-08-14 00:00;Åkersberga;5I;5;Planted meadow;4;15:30;28, soligt;Hoplitis claviventris;1;;NA;NA;märggnagbi;Art;Hymenoptera;Megachilidae;Hoplitis;Bee;Polylectic;No;64
+2025-08-14 00:00;Åkersberga;5I;5;Planted meadow;4;15:30;28, soligt;Aglais io;1;;NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;64
+2025-08-14 00:00;Åkersberga;5I;5;Planted meadow;4;15:30;28, soligt;Wild bee;2;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;64
+2025-08-17 00:00;Örebro;10D;10;DPC;4;11:00;17, soligt;Bombus sylvarum;1;;NA;NA;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-08-17 00:00;Örebro;10D;10;DPC;4;11:00;17, soligt;Bombus lapidarius;1;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;2
+2025-08-17 00:00;Örebro;10S;10;Spontaneous vegetation;4;12:25;19, soligt;Pieris napi;2;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;5
+2025-08-17 00:00;Örebro;10S;10;Spontaneous vegetation;4;12:25;19, soligt;Pieris rapae;1;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;5
+2025-08-17 00:00;Örebro;10S;10;Spontaneous vegetation;4;12:25;19, soligt;Bombus terrestris;1;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-17 00:00;Örebro;10S;10;Spontaneous vegetation;4;12:25;19, soligt;Aglais io;1;;NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;5
+2025-08-17 00:00;Örebro;10S;10;Spontaneous vegetation;4;12:25;19, soligt;Wild bee;2;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;5
+2025-08-17 00:00;Örebro;10I;10;Planted meadow;4;13:45;20,soligt, lite blåsigt;Bombus humilis;2;;NA;NA;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-17 00:00;Örebro;10I;10;Planted meadow;4;13:45;20,soligt, lite blåsigt;Seladonia tumulorum;1;;NA;NA;ängsbandbi;Art;Hymenoptera;Halictidae;Seladonia;Bee;Polylectic;No;5
+2025-08-17 00:00;Örebro;10I;10;Planted meadow;4;13:45;20,soligt, lite blåsigt;Andrena;1;;NA;NA;sandbin;Släkte;Hymenoptera;Andrenidae;Andrena;Bee;NA;;5
+2025-08-17 00:00;Örebro;10I;10;Planted meadow;4;13:45;20,soligt, lite blåsigt;Bombus rupestris;1;;NA;NA;stensnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;;;5
+2025-08-17 00:00;Örebro;10I;10;Planted meadow;4;13:45;20,soligt, lite blåsigt;Bombus lapidarius;2;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-17 00:00;Örebro;10I;10;Planted meadow;4;13:45;20,soligt, lite blåsigt;Bombus ruderarius;2;;NA;NA;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;5
+2025-08-17 00:00;Örebro;10I;10;Planted meadow;4;13:45;20,soligt, lite blåsigt;Polyommatus icarus;1;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;5
+2025-08-18 00:00;Örebro;12D;12;DPC;4;10:45;21, soligt;Bombus lucorum coll.;45;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-08-18 00:00;Örebro;12D;12;DPC;4;10:45;21, soligt;Bombus terrestris;7;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-08-18 00:00;Örebro;12D;12;DPC;4;10:45;21, soligt;Lasioglossum morio;1;;NA;NA;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee;Polylectic;No;64
+2025-08-18 00:00;Örebro;12D;12;DPC;4;10:45;21, soligt;Aglais io;1;;NA;NA;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly;Oligophagous;Yes;64
+2025-08-18 00:00;Örebro;12D;12;DPC;4;10:45;21, soligt;Pieris rapae;2;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-08-18 00:00;Örebro;12D;12;DPC;4;10:45;21, soligt;Pieris napi;1;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;64
+2025-08-18 00:00;Örebro;12D;12;DPC;4;10:45;21, soligt;Vanessa atalanta;4;;NA;NA;amiral;Art;Lepidoptera;Nymphalidae;Vanessa;Butterfly;Oligophagous;Yes;64
+2025-08-18 00:00;Örebro;12D;12;DPC;4;10:45;21, soligt;Bombus lapidarius;3;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;64
+2025-08-18 00:00;Örebro;12D;12;DPC;4;10:45;21, soligt;Wild bee;5;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;64
+2025-08-18 00:00;Örebro;12I;12;Planted meadow;4;13:20;24, soligt;Polyommatus icarus;5;;NA;NA;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly;Oligophagous;Yes;36
+2025-08-18 00:00;Örebro;12I;12;Planted meadow;4;13:20;24, soligt;Pieris rapae;4;;NA;NA;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;36
+2025-08-18 00:00;Örebro;12I;12;Planted meadow;4;13:20;24, soligt;Pieris napi;6;;NA;NA;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly;Polyphagous;No;36
+2025-08-18 00:00;Örebro;12I;12;Planted meadow;4;13:20;24, soligt;Bombus lucorum coll.;3;;NA;NA;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-08-18 00:00;Örebro;12I;12;Planted meadow;4;13:20;24, soligt;Bombus lapidarius;6;;NA;NA;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36
+2025-08-18 00:00;Örebro;12I;12;Planted meadow;4;13:20;24, soligt;Wild bee;1;;NA;NA;;Egen;Hymenoptera;;;Bee;NA;;36
+2025-08-18 00:00;Örebro;12I;12;Planted meadow;4;13:20;24, soligt;Bombus terrestris;2;;NA;NA;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee;Polylectic;No;36

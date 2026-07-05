@@ -1,0 +1,208 @@
+Date;City;Visit;Start.time;Weather;Insect.species;Nr.obs;Comment;Swedish.name;Taxon.category;Order;Family;Genus;Pollinator.type
+2025-06-12 00:00:00;Uppsala;1;13:15;16°, soligt, blåsigt;Polyommatus icarus;4;Done on the side of the site (north, on the limit of the natural reserve);puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly
+2025-06-12 00:00:00;Uppsala;1;13:15;16°, soligt, blåsigt;Sphaerophoria;3;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-06-12 00:00:00;Uppsala;1;13:15;16°, soligt, blåsigt;Vanessa cardui;1;;tistelfjäril;Art;Lepidoptera;Nymphalidae;Vanessa;Butterfly
+2025-06-12 00:00:00;Uppsala;1;13:15;16°, soligt, blåsigt;Pyrgus malvae;1;;smultronvisslare;Art;Lepidoptera;Hesperiidae;Pyrgus;Butterfly
+2025-06-12 00:00:00;Uppsala;1;13:15;16°, soligt, blåsigt;Helophilus trivittatus;2;;ljus kärrblomfluga;Art;Diptera;Syrphidae;Helophilus;Hoverfly
+2025-06-12 00:00:00;Uppsala;1;13:15;16°, soligt, blåsigt;Syrphini;1;;;Tribus;Diptera;Syrphidae;;Hoverfly
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Osmia bicornis;2;Done close to housing;rödmurarbi;Art;Hymenoptera;Megachilidae;Osmia;Bee
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Polyommatus icarus;1;;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Heriades truncorum;11;;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Chelostoma florisomne;5;;smörblommebi;Art;Hymenoptera;Megachilidae;Chelostoma;Bee
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Neoascia;3;;dvärgblomflugor;Släkte;Diptera;Syrphidae;Neoascia;Hoverfly
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Neoascia meticulosa;1;;svart dvärgblomfluga;Art;Diptera;Syrphidae;Neoascia;Hoverfly
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Sphaerophoria scripta;1;;taggsländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Lasioglossum;1;;smalbin;Släkte;Hymenoptera;Halictidae;Lasioglossum;Bee
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Sphecodes ephippius;1;;mellanblodbi;Art;Hymenoptera;Halictidae;Sphecodes;Bee
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Ceratina cyanea;1;;cyanmärgbi;Art;Hymenoptera;Apidae;Ceratina;Bee
+2025-06-13 00:00:00;Sigtuna;1;16:45;22°, soligt;Heriades truncorum;17;;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Bombus hortorum;1;;trädgårdshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Bombus lucorum coll.;1;;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Helophilus pendulus;3;;pendelblomfluga;Art;Diptera;Syrphidae;Helophilus;Hoverfly
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Helophilus;6;;kärrblomflugor;Släkte;Diptera;Syrphidae;Helophilus;Hoverfly
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Syrphus ribesii;2;;gul solblomfluga;Art;Diptera;Syrphidae;Syrphus;Hoverfly
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Chrysotoxum festivum;2;;ängsgetingfluga;Art;Diptera;Syrphidae;Chrysotoxum;Hoverfly
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Sericomyia silentis;1;;ljungtorvblomfluga;Art;Diptera;Syrphidae;Sericomyia;Hoverfly
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Syrphidae;1;;blomflugor;Familj;Diptera;Syrphidae;;Hoverfly
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Sphaerophoria;1;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Andrena semilaevis;3;;veronikasandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Seladonia tumulorum;1;;ängsbandbi;Art;Hymenoptera;Halictidae;Seladonia;Bee
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Eristalis obscura;1;;sommarslamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Eristalis obscura;1;;sommarslamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-06-18 00:00:00;Enköping;1;13:10;21°, soligt/molnigt, lite blåsigt;Eristalis;8;;;Släkte;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-06-19 00:00:00;Stockholm;1;16:05;17°, molnigt;Coenonympha arcania;3;;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly
+2025-06-19 00:00:00;Stockholm;1;16:05;17°, molnigt;Episyrphus balteatus;1;;flyttblomfluga;Art;Diptera;Syrphidae;Episyrphus;Hoverfly
+2025-06-19 00:00:00;Stockholm;1;16:05;17°, molnigt;Dasysyrphus pinastri;2;;större skogsblomfluga;Art;Diptera;Syrphidae;Dasysyrphus;Hoverfly
+2025-06-19 00:00:00;Stockholm;1;16:05;17°, molnigt;Scaeva selenitica;1;;gul glasvingefluga;Art;Diptera;Syrphidae;Scaeva;Hoverfly
+2025-06-19 00:00:00;Stockholm;1;16:05;17°, molnigt;Coenonympha pamphilus;2;;kamgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly
+2025-06-19 00:00:00;Stockholm;1;16:05;17°, molnigt;Polyommatus icarus;1;;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly
+2025-06-19 00:00:00;Stockholm;1;16:05;17°, molnigt;Bombus ruderarius;1;;gräshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-06-19 00:00:00;Stockholm;1;16:05;17°, molnigt;Bombus terrestris;1;;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-06-19 00:00:00;Stockholm;1;16:05;17°, molnigt;Dasysyrphus hilaris;1;;gul skogsblomfluga;Art;Diptera;Syrphidae;Dasysyrphus;Hoverfly
+2025-06-26 00:00:00;Åkersberga;1;15:00;24°, soligt;Coenonympha arcania;11;;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly
+2025-06-26 00:00:00;Åkersberga;1;15:00;24°, soligt;Lycaenidae;1;;juvelvingar;Familj;Lepidoptera;Lycaenidae;;Butterfly
+2025-06-26 00:00:00;Åkersberga;1;15:00;24°, soligt;Bombus lucorum coll.;2;;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-06-26 00:00:00;Åkersberga;1;15:00;24°, soligt;Hesperiinae;1;;smygare;Underfamilj;Lepidoptera;Hesperiidae;;Butterfly
+2025-06-26 00:00:00;Åkersberga;1;15:00;24°, soligt;Andrena lathyri;1;;vialsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee
+2025-06-26 00:00:00;Åkersberga;1;15:00;24°, soligt;Xylota jakutorum;1;;barrvedblomfluga;Art;Diptera;Syrphidae;Xylota;Hoverfly
+2025-07-01 00:00:00;Örebro;1;14:45;26°, soligt;Coenonympha arcania;1;;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly
+2025-07-01 00:00:00;Örebro;1;14:45;26°, soligt;Cyaniris semiargus;1;;ängsblåvinge;Art;Lepidoptera;Lycaenidae;Cyaniris;Butterfly
+2025-07-01 00:00:00;Örebro;1;14:45;26°, soligt;Aphantopus hyperantus;1;;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly
+2025-07-01 00:00:00;Kumla;1;16:25;26°, soligt, blåsigt;Coenonympha arcania;8;;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly
+2025-07-01 00:00:00;Kumla;1;16:25;26°, soligt, blåsigt;Aphantopus hyperantus;2;;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly
+2025-07-01 00:00:00;Kumla;1;16:25;26°, soligt, blåsigt;Polyommatus amandus;1;;silverblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly
+2025-07-01 00:00:00;Kumla;1;16:25;26°, soligt, blåsigt;Syrphus ribesii;1;;gul solblomfluga;Art;Diptera;Syrphidae;Syrphus;Hoverfly
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Bombus lucorum coll.;6;;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Bombus;3;;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Apis mellifera;1;;honungsbi;Art;Hymenoptera;Apidae;Apis;Honey bee
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Syrphidae;1;;blomflugor;Familj;Diptera;Syrphidae;;Hoverfly
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Aphantopus hyperantus;3;;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Polyommatini;1;;blåvingar;Tribus;Lepidoptera;Lycaenidae;;Butterfly
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Coenonympha arcania;1;;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Bombus pascuorum;5;;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Neoascia meticulosa;1;;svart dvärgblomfluga;Art;Diptera;Syrphidae;Neoascia;Hoverfly
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Sericomyia silentis;1;;ljungtorvblomfluga;Art;Diptera;Syrphidae;Sericomyia;Hoverfly
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Anthidium punctatum;1;;småullbi;Art;Hymenoptera;Megachilidae;Anthidium;Bee
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Chrysotoxum arcuatum;1;;välvd getingfluga;Art;Diptera;Syrphidae;Chrysotoxum;Hoverfly
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Chrysotoxum bicinctum;1;;tvåbandad getingfluga;Art;Diptera;Syrphidae;Chrysotoxum;Hoverfly
+2025-07-04 00:00:00;Uppsala;2;12:00;19°, soligt;Andrena subopaca;1;;lundsandbi;Art;Hymenoptera;Andrenidae;Andrena;Bee
+2025-07-11 00:00:00;Sigtuna;2;13:30;23°, molnigt,lite blåsigt;Episyrphus balteatus;6;;flyttblomfluga;Art;Diptera;Syrphidae;Episyrphus;Hoverfly
+2025-07-11 00:00:00;Sigtuna;2;13:30;23°, molnigt,lite blåsigt;Heriades truncorum;22;;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee
+2025-07-11 00:00:00;Sigtuna;2;13:30;23°, molnigt,lite blåsigt;Maniola jurtina;4;;slåttergräsfjäril;Art;Lepidoptera;Nymphalidae;Maniola;Butterfly
+2025-07-11 00:00:00;Sigtuna;2;13:30;23°, molnigt,lite blåsigt;Syrphinae;1;;;Underfamilj;Diptera;Syrphidae;;Hoverfly
+2025-07-11 00:00:00;Sigtuna;2;13:30;23°, molnigt,lite blåsigt;Xylota;1;;;Släkte;Diptera;Syrphidae;Xylota;Hoverfly
+2025-07-11 00:00:00;Sigtuna;2;13:30;23°, molnigt,lite blåsigt;Hylaeus communis;1;;gårdscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee
+2025-07-11 00:00:00;Sigtuna;2;13:30;23°, molnigt,lite blåsigt;Macropis europaea;2;;lysingbi;Art;Hymenoptera;Melittidae;Macropis;Bee
+2025-07-11 00:00:00;Sigtuna;2;13:30;23°, molnigt,lite blåsigt;Syrphus ribesii;1;;gul solblomfluga;Art;Diptera;Syrphidae;Syrphus;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Speyeria aglaja;1;;ängspärlemorfjäril;Art;Lepidoptera;Nymphalidae;Speyeria;Butterfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Zygaena filipendulae;2;;sexfläckig bastardsvärmare;Art;Lepidoptera;Zygaenidae;Zygaena;Burnet moth
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Zygaena viciae;1;;mindre bastardsvärmare;Art;Lepidoptera;Zygaenidae;Zygaena;Burnet moth
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Thymelicus lineola;4;;mindre tåtelsmygare;Art;Lepidoptera;Hesperiidae;Thymelicus;Butterfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Aphantopus hyperantus;5;;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Coenonympha arcania;3;;pärlgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Coenonympha pamphilus;1;;kamgräsfjäril;Art;Lepidoptera;Nymphalidae;Coenonympha;Butterfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Syrphus;1;;solblomflugor;Släkte;Diptera;Syrphidae;Syrphus;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Syrphinae;5;;;Underfamilj;Diptera;Syrphidae;;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Wild bee;2;;;Egen;Hymenoptera;;;Bee
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Syrphidae;1;stekellik;blomflugor;Familj;Diptera;Syrphidae;;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Episyrphus balteatus;3;;flyttblomfluga;Art;Diptera;Syrphidae;Episyrphus;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Xylota meigeniana;1;;aspvedblomfluga;Art;Diptera;Syrphidae;Xylota;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Didea alneti;1;;grön vinkelblomfluga;Art;Diptera;Syrphidae;Didea;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Syrphus ribesii;14;;gul solblomfluga;Art;Diptera;Syrphidae;Syrphus;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Syrphus torvus;6;;hårig solblomfluga;Art;Diptera;Syrphidae;Syrphus;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Lasioglossum morio;2;;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Parasyrphus annulatus;2;;ljus buskblomfluga;Art;Diptera;Syrphidae;Parasyrphus;Hoverfly
+2025-07-16 00:00:00;Stockholm;2;11:10;25°, lite molnigt;Parasyrphus lineolus;2;;mörk buskblomfluga;Art;Diptera;Syrphidae;Parasyrphus;Hoverfly
+2025-07-16 00:00:00;Enköping;2;13:50;28°, soligt, lite blåsigt;Bombus sylvarum;2;;haghumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-16 00:00:00;Enköping;2;13:50;28°, soligt, lite blåsigt;Aphantopus hyperantus;4;;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly
+2025-07-16 00:00:00;Enköping;2;13:50;28°, soligt, lite blåsigt;Bombus pascuorum;3;;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-16 00:00:00;Enköping;2;13:50;28°, soligt, lite blåsigt;Bombus;1;;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-16 00:00:00;Enköping;2;13:50;28°, soligt, lite blåsigt;Zygaena filipendulae;1;;sexfläckig bastardsvärmare;Art;Lepidoptera;Zygaenidae;Zygaena;Burnet moth
+2025-07-16 00:00:00;Enköping;2;13:50;28°, soligt, lite blåsigt;Melitaea athalia;2;;skogsnätfjäril;Art;Lepidoptera;Nymphalidae;Melitaea;Butterfly
+2025-07-16 00:00:00;Enköping;2;13:50;28°, soligt, lite blåsigt;Cheilosia scutellata;1;;trubbnosig soppblomfluga;Art;Diptera;Syrphidae;Cheilosia;Hoverfly
+2025-07-16 00:00:00;Enköping;2;13:50;28°, soligt, lite blåsigt;Sphaerophoria taeniata;1;;ängssländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-16 00:00:00;Enköping;2;13:50;28°, soligt, lite blåsigt;Neocnemodon latitarsis;1;;bredfotad gallblomfluga;Art;Diptera;Syrphidae;Neocnemodon;Hoverfly
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Sphaerophoria;1;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Hylaeus confusus;1;;ängscitronbi;Art;Hymenoptera;Colletidae;Hylaeus;Bee
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Polyommatus icarus;3;;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Speyeria aglaja;3;;ängspärlemorfjäril;Art;Lepidoptera;Nymphalidae;Speyeria;Butterfly
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Vespidae;1;;getingar;Familj;Hymenoptera;Vespidae;;Other
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Bombus lucorum coll.;1;;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Plebejus argus;2;;ljungblåvinge;Art;Lepidoptera;Lycaenidae;Plebejus;Butterfly
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Boloria selene;1;;brunfläckig pärlemorfjäril;Art;Lepidoptera;Nymphalidae;Boloria;Butterfly
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Zygaena viciae;4;;mindre bastardsvärmare;Art;Lepidoptera;Zygaenidae;Zygaena;Burnet moth
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Aphantopus hyperantus;3;;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly
+2025-07-22 00:00:00;Åkersberga;2;13:00;26, lite molnigt, lite blåsigt;Lasioglossum morio;1;;metallsmalbi;Art;Hymenoptera;Halictidae;Lasioglossum;Bee
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Sphaerophoria scripta;2;;taggsländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Pieris napi;3;;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Eristalis lineata;1;;hagslamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Melanostoma;1;;gräsblomflugor;Släkte;Diptera;Syrphidae;Melanostoma;Hoverfly
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Syrphus ribesii;1;;gul solblomfluga;Art;Diptera;Syrphidae;Syrphus;Hoverfly
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Helophilus pendulus;1;;pendelblomfluga;Art;Diptera;Syrphidae;Helophilus;Hoverfly
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Sphaerophoria taeniata;1;;ängssländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Sphaerophoria;1;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Bombus lucorum coll.;1;;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Episyrphus balteatus;1;;flyttblomfluga;Art;Diptera;Syrphidae;Episyrphus;Hoverfly
+2025-07-27 00:00:00;Örebro;2;17:05;23, lite molnigt;Eristalis;1;;;Släkte;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Bombus pascuorum;1;;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Sphaerophoria;12;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Sphaerophoria scripta;1;;taggsländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Sphaerophoria taeniata;1;;ängssländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Melanostoma;1;;gräsblomflugor;Släkte;Diptera;Syrphidae;Melanostoma;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Melanostoma mellinum s.lat.;1;;kort gräsblomfluga;Kollektivtaxon;Diptera;Syrphidae;Melanostoma;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Sphaerophoria scripta;1;;taggsländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Chrysotoxum bicinctum;1;;tvåbandad getingfluga;Art;Diptera;Syrphidae;Chrysotoxum;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Sphaerophoria taeniata;8;;ängssländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Sphaerophoria virgata;2;;mörk sländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-28 00:00:00;Kumla;2;11:55;23, soligt;Melanostoma mellinum s.lat.;3;;kort gräsblomfluga;Kollektivtaxon;Diptera;Syrphidae;Melanostoma;Hoverfly
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Thymelicus lineola;2;;mindre tåtelsmygare;Art;Lepidoptera;Hesperiidae;Thymelicus;Butterfly
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Bombus pascuorum;1;;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Argynnis;1;;;Släkte;Lepidoptera;Nymphalidae;Argynnis;Butterfly
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Halictinae;1;;;Underfamilj;Hymenoptera;Halictidae;;Bee
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Sphaerophoria scripta;1;;taggsländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Bombus pratorum;1;;ängshumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Bombus lucorum coll.;1;;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Wild bee;1;;;Egen;Hymenoptera;;;Bee
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Bombus;1;;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Aphantopus hyperantus;1;;luktgräsfjäril;Art;Lepidoptera;Nymphalidae;Aphantopus;Butterfly
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Tropidia scita;1;;mörk eldblomfluga;Art;Diptera;Syrphidae;Tropidia;Hoverfly
+2025-07-30 00:00:00;Uppsala;3;14:45;25, soligt;Sphaerophoria taeniata;2;;ängssländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Bombus pascuorum;3;;åkerhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Pieris rapae;2;;rovfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Bombus humilis;1;;backhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Lasioglossum;2;;smalbin;Släkte;Hymenoptera;Halictidae;Lasioglossum;Bee
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Pieris napi;1;;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Aglais io;1;;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Bombus lucorum coll.;2;;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Wild bee;1;;;Egen;Hymenoptera;;;Bee
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Heriades truncorum;1;;väggbi;Art;Hymenoptera;Megachilidae;Heriades;Bee
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Stelis breviuscula;2;;väggpansarbi;Art;Hymenoptera;Megachilidae;Stelis;Bee
+2025-08-12 00:00:00;Sigtuna;3;14:15;24, soligt;Episyrphus balteatus;1;;flyttblomfluga;Art;Diptera;Syrphidae;Episyrphus;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Sphaerophoria;2;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Sphaerophoria scripta;2;;taggsländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Sphaerophoria taeniata;1;;ängssländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Eristalis tenax;1;;storslamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Eristalis lineata;1;;hagslamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Eristalis intricaria;1;;mörk slamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Melanostoma mellinum s.lat.;1;;kort gräsblomfluga;Kollektivtaxon;Diptera;Syrphidae;Melanostoma;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Bombus lapidarius;8;;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Pieris;1;;;Släkte;Lepidoptera;Pieridae;Pieris;Butterfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Bombus;1;;humlor;Släkte;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Bombus rupestris;1;;stensnylthumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Eristalis;1;;;Släkte;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Eristalinae;1;;;Underfamilj;Diptera;Syrphidae;;Hoverfly
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Apis mellifera;2;;honungsbi;Art;Hymenoptera;Apidae;Apis;Honey bee
+2025-08-12 00:00:00;Stockholm;3;15:40;23, lite molnigt;Gonepteryx rhamni;1;;citronfjäril;Art;Lepidoptera;Pieridae;Gonepteryx;Butterfly
+2025-08-13 00:00:00;Enköping;3;16:40;24, soligt;Sphaerophoria;1;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-13 00:00:00;Enköping;3;16:40;24, soligt;Episyrphus balteatus;3;;flyttblomfluga;Art;Diptera;Syrphidae;Episyrphus;Hoverfly
+2025-08-13 00:00:00;Enköping;3;16:40;24, soligt;Bombus lapidarius;1;;stenhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-08-13 00:00:00;Enköping;3;16:40;24, soligt;Pieris napi;1;;rapsfjäril;Art;Lepidoptera;Pieridae;Pieris;Butterfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Aglais io;1;;påfågelöga;Art;Lepidoptera;Nymphalidae;Aglais;Butterfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Polyommatus icarus;3;;puktörneblåvinge;Art;Lepidoptera;Lycaenidae;Polyommatus;Butterfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Gonepteryx rhamni;2;;citronfjäril;Art;Lepidoptera;Pieridae;Gonepteryx;Butterfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Sphaerophoria scripta;1;;taggsländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Sphaerophoria;1;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Syrphinae;3;;;Underfamilj;Diptera;Syrphidae;;Hoverfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Thymelicus lineola;1;;mindre tåtelsmygare;Art;Lepidoptera;Hesperiidae;Thymelicus;Butterfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Eristalinae;1;;;Underfamilj;Diptera;Syrphidae;;Hoverfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Eristalis interrupta;1;;fältslamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-14 00:00:00;Åkersberga;3;14:00;26, lite molnigt;Sphaerophoria scripta;1;;taggsländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Eristalis obscura;1;;sommarslamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Sericomyia silentis;1;;ljungtorvblomfluga;Art;Diptera;Syrphidae;Sericomyia;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Sphaerophoria scripta;1;;taggsländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Helophilus pendulus;1;;pendelblomfluga;Art;Diptera;Syrphidae;Helophilus;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Eristalis obscura;1;;sommarslamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Eristalis intricaria;2;;mörk slamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Eristalis interrupta;2;;fältslamfluga;Art;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Helophilus;5;;kärrblomflugor;Släkte;Diptera;Syrphidae;Helophilus;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Eristalis;2;;;Släkte;Diptera;Syrphidae;Eristalis;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Eristalinae;2;;;Underfamilj;Diptera;Syrphidae;;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Bombus lucorum coll.;1;;jordhumlor;Artkomplex;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Sphaerophoria;1;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-17 00:00:00;Örebro;3;15:55;21, soligt, lite blåsigt;Bombus terrestris;1;;mörk jordhumla;Art;Hymenoptera;Apidae;Bombus;Bumblebee
+2025-08-17 00:00:00;Kumla;3;17:30;21, soligt, lite blåsigt;Syrphinae;2;;;Underfamilj;Diptera;Syrphidae;;Hoverfly
+2025-08-17 00:00:00;Kumla;3;17:30;21, soligt, lite blåsigt;Melanostoma;3;;gräsblomflugor;Släkte;Diptera;Syrphidae;Melanostoma;Hoverfly
+2025-08-17 00:00:00;Kumla;3;17:30;21, soligt, lite blåsigt;Sphaerophoria;2;;sländblomflugor;Släkte;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-17 00:00:00;Kumla;3;17:30;21, soligt, lite blåsigt;Wild bee;1;;;Egen;Hymenoptera;;;Bee
+2025-08-17 00:00:00;Kumla;3;17:30;21, soligt, lite blåsigt;Sphaerophoria taeniata;1;;ängssländfluga;Art;Diptera;Syrphidae;Sphaerophoria;Hoverfly
+2025-08-17 00:00:00;Kumla;3;17:30;21, soligt, lite blåsigt;Platycheirus albimanus;1;;silverfotblomfluga;Art;Diptera;Syrphidae;Platycheirus;Hoverfly

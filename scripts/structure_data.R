@@ -101,7 +101,7 @@ transects <- transects.raw %>%
   mutate(Visit = as.factor(Visit)) %>% 
   rename(Abund = Nr.obs) %>% 
   mutate(Order = as.factor(Order)) %>% 
-  mutate(Pollinator.type = as.factor(Pollinator.type)) %>% 
+  mutate(Pollinator.type = as.factor(Pollinator.type))  %>%
   mutate(Insect.species = trimws(Insect.species)) %>% 
   rename(Taxon = Insect.species)
 str(transects)

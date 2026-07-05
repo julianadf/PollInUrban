@@ -1,0 +1,37 @@
+"";"City";"Site";"Triplet";"Category";"richness";"abundance_total"
+"1";"Enköping";"9D";"9";"DPC";38;324
+"2";"Enköping";"9I";"9";"Planted meadow";37;162
+"3";"Enköping";"9S";"9";"Spontaneous vegetation";29;79
+"4";"Kumla";"6D";"6";"DPC";19;179
+"5";"Kumla";"6I";"6";"Planted meadow";28;67
+"6";"Kumla";"6S";"6";"Spontaneous vegetation";17;60
+"7";"Sigtuna";"4D";"4";"DPC";21;124
+"8";"Sigtuna";"4I";"4";"Planted meadow";35;128
+"9";"Sigtuna";"4S";"4";"Spontaneous vegetation";42;114
+"10";"Stockholm";"1D";"1";"DPC";14;53
+"11";"Stockholm";"1I";"1";"Planted meadow";19;73
+"12";"Stockholm";"1S";"1";"Spontaneous vegetation";24;80
+"13";"Stockholm";"2D";"2";"DPC";29;141
+"14";"Stockholm";"2I";"2";"Planted meadow";33;215
+"15";"Stockholm";"2S";"2";"Spontaneous vegetation";25;73
+"16";"Stockholm";"3D";"3";"DPC";30;441
+"17";"Stockholm";"3I";"3";"Planted meadow";32;237
+"18";"Stockholm";"3S";"3";"Spontaneous vegetation";33;49
+"19";"Uppsala";"7D";"7";"DPC";41;152
+"20";"Uppsala";"7I";"7";"Planted meadow";22;76
+"21";"Uppsala";"7S";"7";"Spontaneous vegetation";25;80
+"22";"Uppsala";"8D";"8";"DPC";42;295
+"23";"Uppsala";"8I";"8";"Planted meadow";36;123
+"24";"Uppsala";"8S";"8";"Spontaneous vegetation";23;56
+"25";"Åkersberga";"5D";"5";"DPC";34;425
+"26";"Åkersberga";"5I";"5";"Planted meadow";44;169
+"27";"Åkersberga";"5S";"5";"Spontaneous vegetation";36;68
+"28";"Örebro";"10D";"10";"DPC";23;124
+"29";"Örebro";"10I";"10";"Planted meadow";32;77
+"30";"Örebro";"10S";"10";"Spontaneous vegetation";30;89
+"31";"Örebro";"11D";"11";"DPC";20;87
+"32";"Örebro";"11I";"11";"Planted meadow";28;83
+"33";"Örebro";"11S";"11";"Spontaneous vegetation";25;57
+"34";"Örebro";"12D";"12";"DPC";26;311
+"35";"Örebro";"12I";"12";"Planted meadow";36;133
+"36";"Örebro";"12S";"12";"Spontaneous vegetation";23;48

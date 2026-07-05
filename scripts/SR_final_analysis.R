@@ -112,6 +112,28 @@ testSpatialAutocorrelation(
 # Final analysis ----
 
 # 100 m: test intractions one by one ----
+# base model
+mod.base <- glmmTMB(richness ~ Category + scale(Hab_Area) + scale(Urban) + scale(Vegetated.open.land) + scale(Forest) +
+                          (1 | City/Triplet),
+                        family = poisson,
+                        data = sr.100)
+
+summary(mod.base)
+mod_dharma1 <- mod.base %>% simulateResiduals(n=1000)
+plot(mod_dharma1)
+check_collinearity(mod.base) 
+AICc(mod.base) 
+plot(allEffects(mod.base))
+visreg(mod.base, scale = "response")
+
+res.100 <- simulateResiduals(mod.base)
+
+testSpatialAutocorrelation(
+  res.100,
+  x = tapply(sr.100$X, sr.100$Site, mean),
+  y = tapply(sr.100$Y, sr.100$Site, mean))
+
+
 # Category*area
 mod.area.cat <- glmmTMB(richness ~ Category * scale(Hab_Area) + scale(Urban) + scale(Vegetated.open.land) + scale(Forest) +
                         (1 | City/Triplet),
@@ -266,7 +288,7 @@ testSpatialAutocorrelation(
 # Collect AICc values
 
 mods <- list(
-  base = mod.nested.100,
+  base = mod.base,
   urban = mod.urban,
   open = mod.vol,
   forest = mod.forest,
@@ -282,19 +304,42 @@ map_dfr(mods, AICc, .id = "model")
 
 aic_table <- map_dfr(
   mods,
-  ~ data.frame(AIC = AIC(.x)),
+  ~ data.frame(AICc = AICc(.x)),
   .id = "model"
 )
 
 aic_table <- aic_table %>%
-  arrange(AIC) %>%
-  mutate(delta_AIC = AIC - min(AIC))
+  arrange(AICc) %>%
+  mutate(delta_AICc = AICc - min(AICc))
 
 aic_table
 
 
 
 # 1 km: test intractions one by one ----
+# base
+mod.base.1 <- glmmTMB(richness ~ Category + scale(Hab_Area) + scale(Urban) + scale(Vegetated.open.land) + scale(Forest) +
+                          (1 | City/Triplet),
+                        family = poisson,
+                        data = sr.1)
+
+summary(mod.base.1)
+mod_dharma1 <- mod.base.1 %>% simulateResiduals(n=1000)
+plot(mod_dharma1)
+check_collinearity(mod.base.1) 
+AICc(mod.base.1) 
+plot(allEffects(mod.base.1))
+visreg(mod.base.1, scale = "response")
+
+res.1 <- simulateResiduals(mod.base.1)
+
+testSpatialAutocorrelation(
+  res.1,
+  x = tapply(sr.1$X, sr.1$Site, mean),
+  y = tapply(sr.1$Y, sr.1$Site, mean))
+
+anova(mod.nested.1, mod.area.cat)
+
 # Category*area
 mod.area.cat <- glmmTMB(richness ~ Category * scale(Hab_Area) + scale(Urban) + scale(Vegetated.open.land) + scale(Forest) +
                           (1 | City/Triplet),
@@ -449,7 +494,7 @@ testSpatialAutocorrelation(
 # Collect AICc values
 
 mods <- list(
-  base = mod.nested.1,
+  base = mod.base.1,
   urban = mod.urban,
   open = mod.vol,
   forest = mod.forest,
@@ -465,13 +510,13 @@ map_dfr(mods, AICc, .id = "model")
 
 aic_table <- map_dfr(
   mods,
-  ~ data.frame(AIC = AICc(.x)),
+  ~ data.frame(AICc = AICc(.x)),
   .id = "model"
 )
 
 aic_table <- aic_table %>%
-  arrange(AIC) %>%
-  mutate(delta_AIC = AIC - min(AIC))
+  arrange(AICc) %>%
+  mutate(delta_AICc = AICc - min(AIC))
 
 aic_table
 
