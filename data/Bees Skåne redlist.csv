@@ -1,0 +1,203 @@
+Name_Swe;Species;RL2020;RL2025;Length (f);Parasitic;Host species;Lecticism (mono- /oligo- /poly-);Food plant(s);Food plant 2;Nesting ;ITD;Comments;Pollinator.group
+Alvarsandbi;Andrena alfkenella;NT;;6;;;Poly;;;Soil;1,32;;Bee
+Spetssandbi;Andrena apicata;;;13;;;Oligo;Salix sp.;;Soil;2,64;;Bee
+Mosandbi;Andrena barbilabris;;;11;;;Poly;;;Soil;2,34;;Bee
+Batavsandbi;Andrena batava;VU;VU;12;;;Oligo;Salix sp.;;Soil;;;Bee
+Ängssandbi;Andrena bicolor;;;9;;;Poly;;;Soil;2,1;;Bee
+Rapssandbi;Andrena bimaculata;VU;NT;13;;;Poly;;;Soil;2,72;;Bee
+Dådresandbi;Andrena bluethgeni;EN;CR;13;;;Poly;;;Soil;;;Bee
+Hagtornssandbi;Andrena carantonica;;;13;;;Poly;;;Soil;;;Bee
+Parksandbi;Andrena chrysosceles;;;9;;;Poly;;;Soil;1,97;;Bee
+Sobersandbi;Andrena cineraria;;;14;;;Poly;;;Soil;2,76;;Bee
+Videsandbi;Andrena clarkella;;;12;;;Oligo;Salix sp.;;Soil;2,97;;Bee
+Tandsandbi;Andrena denticulata;;;11;;;Oligo;Asteraceae;;Soil;2,13;;Bee
+Smultronsandbi;Andrena falsifica;;;6;;;Poly;;;Soil;1,38;;Bee
+Bandsandbi;Andrena flavipes;;;12;;;Poly;;;Soil;2,36;;Bee
+Hallonsandbi;Andrena fucata;;;11;;;Poly;;;Soil;2,3;;Bee
+Glödsandbi;Andrena fulva;;;13;;;Poly;;;Soil;2,78;;Bee
+Fibblesandbi;Andrena fulvago;;;9;;;Oligo;Asteraceae;;Soil;2,06;;Bee
+Brynsandbi;Andrena fulvida;;;10;;;Poly;;;Soil;2,25;;Bee
+Ljungsandbi;Andrena fuscipes;;;10;;;Mono;Calluna vulgaris;;Soil;2,03;;Bee
+Fruktsandbi;Andrena gravida;VU;VU;;;;Poly;;;Soil;2,59;;Bee
+Trädgårdssandbi;Andrena haemorrhoa;;;11;;;Poly;;;Soil;2,63;;Bee
+Väddsandbi;Andrena hattorfiana;;;14;;;Oligo;Knautia arvensis;Scabiosa columbaria;Soil;2,31;;Bee
+Äppelsandbi;Andrena helvola;;;11;;;Poly;;;Soil;2,09;;Bee
+Slåttersandbi;Andrena humilis;VU;VU;11;;;Oligo;Asteraceae;;Soil;2,23;;Bee
+Blodsandbi;Andrena labiata;;;11;;;Poly;;;Soil;1,8;;Bee
+Blåbärssandbi;Andrena lapponica;;;11;;;Oligo;Vaccinium sp.;;Soil;2,58;;Bee
+Vialsandbi;Andrena lathyri;;;13;;;Oligo;Lathyrus linifolius;;Soil;2,68;;Bee
+Guldsandbi;Andrena marginata;NT;;9;;;Oligo;Succisa pratensis;Knautia arvensis;Soil;1,95;;Bee
+Småsandbi;Andrena minutula;;;6;;;Poly;;;Soil;1,43;;Bee
+Morotssandbi;Andrena minutuloides;;;7;;;Poly;;;Soil;1,39;;Bee
+Sommarsandbi;Andrena nigriceps;;;12;;;Poly;;;Soil;2,54;;Bee
+Gyllensandbi;Andrena nigroaenea;;;14;;;Poly;;;Soil;2,84;;Bee
+Sotsandbi;Andrena nigrospina;VU;VU;;;;Poly;;;Soil;3,2;;Bee
+Flodsandbi;Andrena nycthemera;VU;VU;11;;;Oligo;Salix sp.;;Soil;2,9;;Bee
+Vårsandbi;Andrena praecox;;;10;;;Oligo;Salix sp.;;Soil;2,26;;Bee
+Åssandbi;Andrena ruficrus;;;9;;;Oligo;Salix sp.;;Soil;1,96;;Bee
+Ginstsandbi;Andrena russula ;EN;VU;10;;;Oligo;Fabaceae;;Soil;;;Bee
+Veronikasandbi;Andrena semilaevis;;;6;;;Poly;;;Soil;1,46;;Bee
+Lundsandbi;Andrena subopaca;;;7;;;Poly;;;Soil;1,49;;Bee
+Lönnsandbi;Andrena tibialis;;;13;;;Poly;;;Soil;2,85;;Bee
+Sälgsandbi;Andrena vaga;;;14;;;Oligo;Salix sp.;;Soil;2,76;;Bee
+Krusbärssandbi;Andrena varians;;;11;;;Poly;;;Soil;2,54;;Bee
+Ärtsandbi;Andrena wilkella;;;11;;;Oligo;Fabaceae;;Soil;2,27;;Bee
+Storullbi;Anthidium manicatum;;;11;;;Poly;;;Cavity;;;Bee
+Småullbi;Anthidium punctatum;;;8;;;Poly;;;Cavity;;;Bee
+Dånpälsbi;Anthophora furcata;;;11;;;Oligo;Lamiaceae;;Cavity;;;Bee
+Humlepälsbi;Anthophora plagiata;EN;VU;13;;;Poly;;;Cavity;;;Bee
+Vårpälsbi;Anthophora plumipes;;;15;;;Poly;;;Cavity;;;Bee
+Örtagårdsbi;Anthophora quadrimaculata;;;11;;;Oligo;Lamiaceae;;Cavity;;;Bee
+Honungsbi;Apis mellifera;;;;;;Poly;;;Soil;;;Bee
+Trädgårdssnylthumla;Bombus barbutellus;;;19;Yes;Bombus hortorum;;;;Soil;5,47;;Bumblebee
+Jordsnylthumla;Bombus bohemicus;;;20;Yes;Bombus lucorum (complex);;;;below ground;6,15;;Bumblebee
+Åkersnylthumla;Bombus campestris;;;17;Yes;Bombus pascuorum, Bombus humilis, Bombus ruderarius;;;;above ground;5,8;;Bumblebee
+Skogsjordhumla;Bombus cryptarum;;;;;;Poly;;;below ground;5,97;B. lucorum complex;Bumblebee
+Trädgårdshumla;Bombus hortorum;;;;;;Poly;;;below ground;5,83;;Bumblebee
+Backhumla;Bombus humilis;;;;;;Poly;;;above ground;4,75;;Bumblebee
+Hushumla;Bombus hypnorum;;;;;;Poly;;;above ground;6;;Bumblebee
+Ljunghumla;Bombus jonellus;;;;;;Poly;;;below ground;5,35;;Bumblebee
+Stenhumla;Bombus lapidarius;;;;;;Poly;;;below ground;6,17;;Bumblebee
+Ljus jordhumla;Bombus lucorum;;;;;;Poly;;;below ground;6,37;;Bumblebee
+Mosshumla;Bombus muscorum;NT;NT;17;;;Poly;;;above ground;5,1;;Bumblebee
+Hussnylthumla;Bombus norvegicus;;;18;Yes;Bombus hypnorum;;;;above ground;5,3;;Bumblebee
+Åkerhumla;Bombus pascuorum;;;;;;Poly;;;above ground;4,69;;Bumblebee
+Ängshumla;Bombus pratorum;;;;;;Poly;;;above ground;5,34;;Bumblebee
+Gräshumla;Bombus ruderarius;;;;;;Poly;;;above ground;5,2;;Bumblebee
+Stensnylthumla;Bombus rupestris;;;20;Yes;Bombus lapidarius, Bombus pascuorum, Bombus sylvarum;;;;below ground;6;;Bumblebee
+Blåklockshumla;Bombus soroeensis;;;;;;Poly;;;below ground;5,56;;Bumblebee
+Vallhumla;Bombus subterraneus;;;;;;Poly;;;below ground;6,1;;Bumblebee
+Haghumla;Bombus sylvarum;;;;;;Poly;;;above ground;5,47;;Bumblebee
+Ängssnylthumla;Bombus sylvestris;;;15;Yes;Bombus pratorum;;;;above ground;4,95;;Bumblebee
+Mörk jordhumla;Bombus terrestris;;;;;;Poly;;;below ground;6,61;;Bumblebee
+Sydsnylthumla;Bombus vestalis;;;21;Yes;Bombus terrestris;;;;below ground;6,1;;Bumblebee
+Cyanmärgbi;Ceratina cyanea;;;6;;;Poly;;;Cavity;1,39;;Bee
+Småsovarbi;Chelostoma campanularum;;;5;;;Oligo;Campanula sp.;;Cavity;;;Bee
+Smörblommebi;Chelostoma florisomne;;;9;;;Oligo;Ranunculus sp. ;;Cavity;;;Bee
+Storsovarbi;Chelostoma rapunculi;;;9;;;Oligo;Campanula sp.;;Cavity;;;Bee
+Konkägelbi;Coelioxys conicus;;;12;Yes;Megachile circumcincta, Trachusa byssina,;;;;Soil;;;Bee
+Långkägelbi;Coelioxys elongatus;;;12;Yes;Megachile willughbiella, Megachile circumcincta ;;;;Soil;;;Bee
+Smalkägelbi;Coelioxys inermis;;;9;Yes;Megachile spp.;;;;Soil;;;Bee
+Ängskägelbi;Coelioxys mandibularis;NT;;10;Yes;Megachile spp.;;;;Soil;;;Bee
+Rostkägelbi;Coelioxys rufescens;;;12;Yes;Anthophora spp.;;;;Soil;;;Bee
+Vårsidenbi;Colletes cunicularius;;;12;;;Oligo;Salix sp.;;Soil;3,57;;Bee
+Väggsidenbi;Colletes daviesanus;;;11;;;Oligo;Asteraceae;;Soil;2,46;;Bee
+Florsidenbi;Colletes floralis;;;11;;;Poly;;;Soil;2,63;;Bee
+Hedsidenbi;Colletes fodiens;NT;;10;;;Oligo;Helichrysum arenarium Tanacetum vulgare;;Soil;2,6;;Bee
+Finsidenbi;Colletes impunctatus;;;9;;;Poly;;;Soil;2,27;;Bee
+Klöversidenbi;Colletes marginatus;NT;;9;;;Oligo;Trifolium sp. ;Melilotus sp.;Soil;2,25;;Bee
+Korgsidenbi;Colletes similis;;;9;;;Oligo;Asteraceae;;Soil;2,37;;Bee
+Ljungsidenbi;Colletes succinctus;;;11;;;Oligo;Calluna vulgaris;;Soil;2,95;;Bee
+Praktbyxbi;Dasypoda hirtipes;;;13;;;Oligo;Asteraceae;;Soil;3,36;;Bee
+Monkesolbi;Dufourea halictula;VU;VU;4;;;Mono;Jasione montana;;Soil;0,63;;Bee
+Hedfiltbi;Epeolus cruciger;;;7;Yes;Colletes succinctus;;;;Soil;;;Bee
+Rödfiltbi;Epeolus marginatus;VU;DD;6;Yes;Colletes marginatus;;;;Soil;;;Bee
+Ängsfiltbi;Epeolus variegatus;;;7;Yes;Colletes daviesanus, Colletes similis, Colletes fodiens. ;;;;Soil;;;Bee
+Långhornsbi;Eucera longicornis;;;13;;;Oligo;Fabaceae;;Soil;;;Bee
+Skogsbandbi;Halictus rubicundus;;;10;;;Poly;;;Soil;2,18;;Bee
+Väggbi;Heriades truncorum;;;6;;;Oligo;Asteraceae;;Cavity;;;Bee
+Stengnagbi;Hoplitis anthocopoides;;EN;9;;;Mono;Echium vulgare;;Cavity;;;Bee
+Märggnagbi;Hoplitis claviventris;;;9;;;Poly;;;Cavity;;;Bee
+Smalgnagbi;Hoplitis leucomelana;;;8;;;Poly;;;Cavity;;;Bee
+Taggmurarbi;Hoplosmia spinulosa;;;7;;;Oligo;Asteraceae;;Cavity;;Nest in snail shells;Bee
+Smalcitronbi;Hylaeus angustatus;;;5;;;Poly;;;Cavity;;;Bee
+Ringcitronbi;Hylaeus annulatus;;;7;;;Poly;;;Cavity;;;Bee
+Småcitronbi;Hylaeus brevicornis;;;5;;;Poly;;;Cavity;;;Bee
+Gårdscitronbi;Hylaeus communis;;;6;;;Poly;;;Cavity;;;Bee
+Ängscitronbi;Hylaeus confusus;;;7;;;Poly;;;Cavity;;;Bee
+Pärlcitronbi;Hylaeus dilatatus;;;6;;;Poly;;;Cavity;;;Bee
+Kölcitronbi;Hylaeus hyalinatus;;;6;;;Poly;;;Cavity;;;Bee
+Hedcitronbi;Hylaeus incongruus;;;7;;;Poly;;;Cavity;;;Bee
+Vasscitronbi;Hylaeus pectoralis;;;7;;;Oligo;Apiaceae;;Cavity;;;Bee
+Väggcitronbi;Hylaeus pictipes;NT;;4;;;Oligo;Apiaceae;;Cavity;;;Bee
+Backcitronbi;Hylaeus rinki;;;6;;;Poly;;;Cavity;;;Bee
+Resedabi;Hylaeus signatus;NT;;8;;;Oligo;Reseda sp.;;Cavity;;;Bee
+Guldsmalbi;Lasioglossum aeratum;NT;;5;;;Poly;;;Soil;1,06;;Bee
+Ängssmalbi;Lasioglossum albipes;;;8;;;Poly;;;Soil;1,63;;Bee
+Stäppsmalbi;Lasioglossum brevicorne;VU;NT;6;;;Oligo;Asteraceae;;Soil;1,33;;Bee
+Mysksmalbi;Lasioglossum calceatum;;;8;;;Poly;;;Soil;1,82;;Bee
+Svartsmalbi;Lasioglossum fratellum;;;7;;;Poly;;;Soil;1,51;;Bee
+Brunsmalbi;Lasioglossum fulvicorne;;;7;;;Poly;;;Soil;1,31;;Bee
+Alvarsmalbi;Lasioglossum lativentre;;;7;;;Poly;;;Soil;1,55;;Bee
+Bronssmalbi;Lasioglossum leucopus;;;5;;;Poly;;;Soil;1,21;;Bee
+Fibblesmalbi;Lasioglossum leucozonium;;;9;;;Oligo;Asteraceae;;Soil;1,91;;Bee
+Glanssmalbi;Lasioglossum lucidulum;VU;NT;5;;;Poly;;;Soil;0,96;;Bee
+Småsmalbi;Lasioglossum minutissimum;;;4;;;Poly;;;Soil;0,83;;Bee
+Metallsmalbi;Lasioglossum morio;;;5;;;Poly;;;Soil;1,1;;Bee
+Släntsmalbi;Lasioglossum nitidiusculum;NT;;6;;;Poly;;;Soil;1,31;;Bee
+Mursmalbi;Lasioglossum nitidulum;;;6;;;Poly;;;Soil;1,24;;Bee
+Punktsmalbi;Lasioglossum punctatissimum;;;6;;;Poly;;;Soil;1,23;;Bee
+Hagsmalbi;Lasioglossum quadrinotatum;;;7;;;Poly;;;Soil;1,6;;Bee
+Skogssmalbi;Lasioglossum rufitarse;;;7;;;Poly;;;Soil;1,44;;Bee
+Sandsmalbi;Lasioglossum sabulosum;;;6;;;Oligo;Asteraceae;;Soil;1,38;;Bee
+Blanksmalbi;Lasioglossum semilucens;;;5;;;Poly;;;Soil;1,08;;Bee
+Franssmalbi;Lasioglossum sexstrigatum;;;6;;;Poly;;;Soil;1,33;;Bee
+Dynsmalbi;Lasioglossum tarsatum;;;5;;;Poly;;;Soil;;;Bee
+Hedsmalbi;Lasioglossum villosulum;;;7;;;Poly;;;Soil;1,33;;Bee
+Rostsmalbi;Lasioglossum xanthopus;EN;VU;12;;;Poly;;;Soil;2,37;;Bee
+Lysingbi;Macropis europaea;;;8;;;Oligo;Lysimachia sp.;;Soil;2,52;;Bee
+Smultrontapetserarbi;Megachile alpicola;;;9;;;Poly;;;Cavity;;;Bee
+Nävertapetserarbi;Megachile analis;;;11;;;Poly;;;Cavity;;;Bee
+Rosentapetserarbi;Megachile centuncularis;;;11;;;Poly;;;Cavity;;;Bee
+Ärttapetserarbi;Megachile circumcincta;;;12;;;Poly;;;Cavity;;;Bee
+Stortapetserarbi;Megachile lagopoda;NT;;12;;;Oligo;Asteraceae;;Cavity;;;Bee
+Rallarbi;Megachile lapponica;;;11;;;Poly;;;Cavity;;;Bee
+Havstapetserarbi;Megachile leachella;;;8;;;Poly;;;Cavity;;;Bee
+Trätapetserarbi;Megachile ligniseca;;;14;;;Poly;;;Cavity;;;Bee
+Ängstapetserarbi;Megachile versicolor;;;11;;;Poly;;;Cavity;;;Bee
+Stocktapetserarbi;Megachile willughbiella;;;13;;;Poly;;;Cavity;;;Bee
+Blåklocksbi;Melitta haemorrhoidalis;;;12;;;Oligo;Campanula sp.;;Soil;2,73;;Bee
+Lusernbi;Melitta leporina;;;11;;;Oligo;Fabaceae;;Soil;2,39;;Bee
+Rödtoppebi;Melitta tricincta;NT;;11;;;Oligo;Odontites sp. ;;Soil;2,73;;Bee
+Mogökbi;Nomada alboguttata;;;8;Yes;Andrena barbilabris;;;;Soil;;;Bee
+Väddgökbi;Nomada armata;VU;NT;11;Yes;Andrena hattorfiana;;;;Soil;;;Bee
+Ängsgökbi;Nomada fabriciana;;;8;Yes;Andrena bicolor;;;;Soil;;;Bee
+Vårgökbi;Nomada ferruginata;;;9;Yes;Andrena praecox ;;;;Soil;;;Bee
+Smågökbi;Nomada flavoguttata;;;6;Yes;Andrena minutula, Andrena minutuloides, Andrena falsifica, Andrena semilaevis, Andrena subopaca;;;;Soil;;;Bee
+Prickgökbi;Nomada flavopicta;;;9;Yes;Melitta spp.;;;;Soil;;;Bee
+Praktgökbi;Nomada fucata;;;8;Yes;Andrena flavipes;;;;Soil;;;Bee
+Gullgökbi;Nomada fulvicornis;;;11;Yes;Andrena tibialis;;;;Soil;;;Bee
+Mörkgökbi;Nomada fuscicornis;VU;NT;6;Yes;Panurgus calcaratus;;;;Soil;;;Bee
+Gyllengökbi;Nomada goodeniana;;;11;Yes;Andrena tibialis, Andrena nigroaenea;;;;Soil;;;Bee
+Droppgökbi;Nomada guttulata;NT;;8;Yes;Andrena labiata;;;;Soil;;;Bee
+Sälggökbi;Nomada lathburiana;;;11;Yes;Andrena vaga, Andrena cineraria;;;;Soil;;;Bee
+Videgökbi;Nomada leucophthalma;;;10;Yes;Andrena clarkella, Andrena apicata, Andrena nycthemera,;;;;Soil;;;Bee
+Majgökbi;Nomada marshamella;;;11;Yes;Andrena carantonica, Andrena nigroaenea;;;;Soil;;;Bee
+Skogsgökbi;Nomada panzeri;;;10;Yes;Andrena helvola, Andrena varians;;;;Soil;;;Bee
+Trädgårdsgökbi;Nomada ruficornis;;;10;Yes;Andrena haemorrhoa;;;;Soil;;;Bee
+Ljunggökbi;Nomada rufipes;;;8;Yes;Andrena fuscipes ;;;;Soil;;;Bee
+;Nomada signata;;;12;Yes;Andrena fulva;;;;Soil;;;Bee
+Ölandsgökbi;Nomada similis;VU;VU;9;Yes;Panurgus banksianus;;;;Soil;;;Bee
+Strimgökbi;Nomada striata;;;10;Yes;Andrena wilkella, Andrena intermedia, Andrena similis, Andrena gelriae;;;;Soil;;;Bee
+Fältgökbi;Nomada subcornuta;VU;VU;11;Yes;Andrena nigrospina ;;;;Soil;;;Bee
+Guldmurarbi;Osmia aurulenta;;;11;;;Poly;;;Cavity;;Nest in snail shells;Bee
+Rödmurarbi;Osmia bicornis;;;11;;;Poly;;;Cavity;;;Bee
+Blåmurarbi;Osmia caerulescens;;;9;;;Poly;;;Cavity;;;Bee
+Fruktmurarbi;Osmia cornuta;;;13;;;Poly;;;Cavity;;;Bee
+Fibblemurarbi;Osmia leaiana;;;9;;;Oligo;Asteraceae;;Cavity;;;Bee
+Havsmurarbi;Osmia maritima;EN;EN;11;;;Poly;;;Cavity;;;Bee
+Backmurarbi;Osmia parietina;;;8;;;Poly;;;Cavity;;;Bee
+Lundmurarbi;Osmia pilicornis;;;10;;;Poly;;;Cavity;;;Bee
+Storfibblebi;Panurgus banksianus;VU;NT;11;;;Oligo;Asteraceae;;Soil;2,4;;Bee
+Småfibblebi;Panurgus calcaratus;;;8;;;Oligo;Asteraceae;;Soil;1,73;;Bee
+Kustbandbi;Seladonia confusa;;;7;;;Poly;;;Soil;;;Bee
+Stäppbandbi;Seladonia leucahenea;EN;VU;8;;;Poly;;;Soil;;;Bee
+Ängsbandbi;Seladonia tumulorum;;;7;;;Poly;;;Soil;;;Bee
+Storblodbi;Sphecodes albilabris;;;13;Yes;Colletes cunicularius;;;;Soil;;;Bee
+Släntblodbi;Sphecodes crassus;;;6;Yes;unknown;;;;Soil;;;Bee
+Mellanblodbi;Sphecodes ephippius;;;7;Yes;Lasioglossum leucozonium, Hallictus tumulorum;;;;Soil;;;Bee
+Småblodbi;Sphecodes geoffrellus;;;5;Yes;Lasioglassum spp.;;;;Soil;;;Bee
+Skogsblodbi;Sphecodes gibbus;;;9;Yes;Halictus rubicundus;;;;Soil;;;Bee
+Glasblodbi;Sphecodes hyalinatus;;;5;Yes;Lasioglossum fulvicorne, Lasioglossum fratellum ;;;;Soil;;;Bee
+Dvärgblodbi;Sphecodes longulus;NT;NT;4;Yes;unknown;;;;Soil;;;Bee
+Pannblodbi;Sphecodes miniatus;;;5;Yes;Lasioglassum spp.;;;;Soil;;;Bee
+Ängsblodbi;Sphecodes monilicornis;;;8;Yes;Lasioglossum calceatum, Lasiogloassum albipes.;;;;Soil;;;Bee
+Svartblodbi;Sphecodes niger;VU;;5;Yes;Lasioglossum morio;;;;Soil;;;Bee
+Sandblodbi;Sphecodes pellucidus;;;9;Yes;Andrena barbilabris;;;;Soil;;;Bee
+Punktblodbi;Sphecodes puncticeps;;;6;Yes;Lasioglossum villosulum, Lasioglossum brevicorne;;;;Soil;;;Bee
+Nätblodbi;Sphecodes reticulatus;;;8;Yes;Andrena barbilabris;;;;Soil;;;Bee
+Väggpansarbi;Stelis breviuscula;;;5;Yes;Heriades truncorum;;;;Cavity;;;Bee
+Prickpansarbi;Stelis ornatula;;;6;Yes;Hoplitis claviventris, Hoplitis leucomelana, Osmia caerulescens;;;;Cavity;;;Bee
+Stampansarbi;Stelis phaeoptera;VU;NT;8;Yes;Osmia leaiana, Osmia niveata ;;;;Cavity;;;Bee
+Bandpansarbi;Stelis punctulatissima;;;9;Yes;Anthidium manicatum ;;;;Cavity;;;Bee
+Svartsnickarbi;Xylocopa violacea;;;22;;;Poly;;;Cavity;6,54;;Bee

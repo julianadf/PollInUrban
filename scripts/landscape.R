@@ -21,6 +21,7 @@ library(mgcv)
 library(mgcViz)
 library(corrplot)
 library(Hmisc)
+library(ggcorrplot)
 
 # Load data
 landscape.raw <- read.csv2(here("data", "Landscape.csv" ), fileEncoding = "latin1")
@@ -415,4 +416,97 @@ tot.richness.1km <- tot.richness.db %>%
 #write.csv2(tot.richness.1km, "tot.richness.1km.csv", fileEncoding = "latin1")
 
 # abundance - without honeybees (honeybee abundance as a separate variable) ----
+
+
+# Summarizing table for publication
+landscape_summary <- landscape %>%
+  group_by(Cover_group) %>%
+  summarise(
+    Mean_100m = mean(Proportion_100m, na.rm = TRUE),
+    SD_100m   = sd(Proportion_100m, na.rm = TRUE),
+    Mean_1km  = mean(Proportion_1km, na.rm = TRUE),
+    SD_1km    = sd(Proportion_1km, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  arrange(desc(Mean_1km))
+
+landscape_summary
+
+landscape.habitatType <- landscape %>%
+  group_by(Category, Cover_group) %>%
+  summarise(
+    Mean_100m = mean(Proportion_100m)*100,
+    Mean_1km = mean(Proportion_1km)*100,
+    .groups = "drop")
+landscape.habitatType
+
+
+landscape %>%
+  group_by(Cover_group) %>%
+  summarise(
+    p100 = mean(Proportion_100m),
+    p1km = mean(Proportion_1km)
+  ) %>%
+  pivot_longer(
+    c(p100, p1km),
+    names_to = "Scale",
+    values_to = "Proportion"
+  ) %>%
+  ggplot(aes(Cover_group, Proportion*100, fill = Scale)) +
+  geom_col(position = "dodge") +
+  coord_flip() +
+  theme_bw()
+
+# Boxplot
+landscape_long <- landscape %>%
+  dplyr::select(Cover_group,
+         Proportion_100m,
+         Proportion_1km) %>%
+  pivot_longer(
+    c(Proportion_100m, Proportion_1km),
+    names_to = "Scale",
+    values_to = "Proportion"
+  )
+
+ggplot(landscape_long,
+       aes(x = Cover_group,
+           y = Proportion * 100,
+           fill = Scale)) +
+  geom_boxplot(position = position_dodge(width = 0.8)) +
+  #coord_flip() +
+  theme_bw() +
+  labs(
+    x = "Land-cover type",
+    y = "Cover (%)"
+  )
+
+# See if landscape composition differs among site types (it doesnt)
+
+landscape_summary <- landscape %>%
+  group_by(Category, Cover_group) %>%
+  summarise(
+    mean1 = mean(Proportion_1km),
+    se1 = sd(Proportion_1km)/sqrt(n()),
+    .groups = "drop"
+  )
+
+ggplot(landscape_summary,
+       aes(Cover_group,
+           mean1 * 100,
+           fill = Category)) +
+  geom_col(position = "dodge") +
+  geom_errorbar(
+    aes(
+      ymin = (mean1 - se1) * 100,
+      ymax = (mean1 + se1) * 100
+    ),
+    width = 0.2,
+    position = position_dodge(0.9)
+  ) +
+  #coord_flip() +
+  theme_bw() +
+  labs(
+    x = "Land-cover type",
+    y = "Mean cover (%)"
+  )
 

@@ -265,6 +265,12 @@ testSpatialAutocorrelation(
   x = tapply(bfs.db.100$X, bfs.db.100$Site, mean),
   y = tapply(bfs.db.100$Y, bfs.db.100$Site, mean))
 
+# 10. Null model
+null.bfs.100 <- glmmTMB(abundance.bf ~ 1 + 
+                          (1 | City/Triplet),
+                        family = nbinom2,
+                        data = bfs.db.100)
+
 # Collect AICc values
 
 mods <- list(
@@ -276,7 +282,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.bfs.100
 )
 
 map_dfr(mods, AIC, .id = "model")
@@ -523,6 +530,12 @@ testSpatialAutocorrelation(
   x = tapply(bfs.db.1$X, bfs.db.1$Site, mean),
   y = tapply(bfs.db.1$Y, bfs.db.1$Site, mean))
 
+# 10. Null model
+null.bfs.1 <- glmmTMB(abundance.bf ~ 1 + 
+                        (1 | City/Triplet),
+                      family = nbinom2,
+                      data = bfs.db.1)
+
 # Collect AICc values
 
 mods <- list(
@@ -534,7 +547,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.bfs.1
 )
 
 map_dfr(mods, AIC, .id = "model")

@@ -21,7 +21,7 @@ library(mgcv)
 library(mgcViz)
 library(performance)
 
-# Abundance: all pollinators
+# Abundance: hoverflies
 # Load data
 abund.100.raw <- read.csv2(here("data/databases", "abund.db.100m.csv" ), fileEncoding = "latin1")
 abund.1.raw <- read.csv2(here("data/databases", "abund.db.1km.csv" ), fileEncoding = "latin1")
@@ -153,7 +153,7 @@ testSpatialAutocorrelation(
   x = tapply(hfs.db.100$X, hfs.db.100$Site, mean),
   y = tapply(hfs.db.100$Y, hfs.db.100$Site, mean)) #negative autocorrelation!
 
-# 5. Test interaction category * vegetated open land
+# 5. Best model: Test interaction category * vegetated open land ----
 cat.vol <- glmmTMB(abundance.hf ~ Category * scale(Vegetated.open.land) +
                      scale(Urban) + scale(Hab_Area) + scale(honeybee) + scale(Forest) + 
                      (1 | City/Triplet),
@@ -161,6 +161,7 @@ cat.vol <- glmmTMB(abundance.hf ~ Category * scale(Vegetated.open.land) +
                    data = hfs.db.100)
 
 summary(cat.vol)
+car::Anova(cat.vol, type = 3)
 mod_dharma1 <- cat.vol %>% simulateResiduals(n=1000)
 plot(mod_dharma1)
 check_collinearity(cat.vol) 
@@ -173,7 +174,75 @@ testSpatialAutocorrelation(
   x = tapply(hfs.db.100$X, hfs.db.100$Site, mean),
   y = tapply(hfs.db.100$Y, hfs.db.100$Site, mean)) #negative autocorrelation!
 
-# 6. Test interaction category * forest
+
+# Plot the interaction:
+vol.em <- emmeans(cat.vol, ~ Category * Vegetated.open.land, at 
+                  = list(Vegetated.open.land = seq(min(hfs.db.100$Vegetated.open.land),max(hfs.db.100$Vegetated.open.land),length.out = 100)),
+                  type = "response")
+
+vol.em <- as.data.frame(vol.em)
+
+gg.vol <- ggplot(vol.em, aes(Vegetated.open.land, response, colour = Category, fill = Category)) +
+  facet_wrap("Category", scales = "free_y", 
+             labeller = labeller(Category = c("DPC" = "Designed", 
+                                              "Semi-natural grassland" = "Semi-natural", 
+                                              "Sown meadow" = "Sown"))) +
+  #geom_point(data = hfs.db.100, aes(Vegetated.open.land,abundance.hf, colour = Category, fill = Category), alpha = 0.5, size = 2) +
+  geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL), alpha = 0.15, colour = NA) +
+  geom_line(linewidth = 1) +
+  scale_colour_manual(values = c("DPC" = "#440154", "Semi-natural grassland" = "#21908C", "Sown meadow" = "#f46d43")) +
+  scale_fill_manual(values = c("DPC" = "#440154", "Semi-natural grassland" = "#21908C","Sown meadow" = "#f46d43")) +
+  ylab("Hoverfly abundance") +
+  xlab("Vegetated open land cover (100 m)") +
+  theme_bw() +
+  theme(panel.grid = element_blank(),
+        axis.text = element_text(size = 13, face = "bold"), 
+        axis.title = element_text(size = 16), 
+        legend.position = "none",
+        strip.background = element_blank(), 
+        strip.text = element_text(size = 12))
+
+gg.vol
+
+#ggsave("Fig3.png", gg.vol, width = 20, height = 10, units = "cm",  dpi = 600)
+
+# Plot the effect or urban cover
+urban.em <- emmeans(cat.vol, ~ Urban, at 
+                  = list(Urban = seq(min(hfs.db.100$Urban),max(hfs.db.100$Urban),length.out = 100)),
+                  type = "response")
+
+urban.em <- as.data.frame(urban.em)
+
+urban.100m <- ggplot(urban.em, aes(Urban, response)) + geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+                                                                    fill = "#4C72B0", alpha = 0.2) +
+  geom_line(linewidth = 1, colour = "#4C72B0") +
+  theme_bw() +
+  theme(panel.grid = element_blank(), axis.text = element_text(size = 13, face = "bold"),
+        axis.title = element_text(size = 16)) +
+  labs(x = "Urban cover (100 m)", y = "Hoverfly abundance")
+urban.100m
+
+#ggsave("FigS4.png", urban.100m, width = 18, height = 12, units = "cm",  dpi = 600)
+
+# Plot the effect or honeybees
+honey.em <- emmeans(cat.vol, ~ honeybee, at 
+                    = list(honeybee = seq(min(hfs.db.100$honeybee),max(hfs.db.100$honeybee),length.out = 100)),
+                    type = "response")
+
+honey.em <- as.data.frame(honey.em)
+
+honey.100m <- ggplot(honey.em, aes(honeybee, response)) + geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+                                                                   fill = "#4C72B0", alpha = 0.2) +
+  geom_line(linewidth = 1, colour = "#4C72B0") +
+  theme_bw() +
+  theme(panel.grid = element_blank(), axis.text = element_text(size = 13, face = "bold"),
+        axis.title = element_text(size = 16)) +
+  labs(x = "Honeybee abundance", y = "Hoverfly abundance")
+honey.100m
+
+#ggsave("FigS4b.png", honey.100m, width = 18, height = 12, units = "cm",  dpi = 600)
+
+# 6. Test interaction categhoneybee_df# 6. Test interaction category * forest
 cat.forest <- glmmTMB(abundance.hf ~ Category * scale(Forest) +
                         scale(Vegetated.open.land) + scale(Urban) + scale(Hab_Area) + scale(honeybee) + 
                         (1 | City/Triplet),
@@ -254,6 +323,12 @@ testSpatialAutocorrelation(
   x = tapply(hfs.db.100$X, hfs.db.100$Site, mean),
   y = tapply(hfs.db.100$Y, hfs.db.100$Site, mean)) #negative autocorrelation!
 
+# 10. Null model
+null.hfs.100 <- glmmTMB(abundance.hf ~ 1 + 
+                          (1 | City/Triplet),
+                        family = nbinom2,
+                        data = hfs.db.100)
+
 # Collect AICc values
 
 mods <- list(
@@ -265,7 +340,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.hfs.100
 )
 
 map_dfr(mods, AIC, .id = "model")
@@ -510,6 +586,12 @@ testSpatialAutocorrelation(
   x = tapply(hfs.db.1$X, hfs.db.1$Site, mean),
   y = tapply(hfs.db.1$Y, hfs.db.1$Site, mean)) 
 
+# 10. Null model
+null.hfs.1 <- glmmTMB(abundance.hf ~ 1 + 
+                        (1 | City/Triplet),
+                      family = nbinom2,
+                      data = hfs.db.1)
+
 # Collect AICc values
 
 mods <- list(
@@ -521,7 +603,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.hfs.1
 )
 
 map_dfr(mods, AIC, .id = "model")

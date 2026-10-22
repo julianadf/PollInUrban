@@ -79,6 +79,7 @@ base.bbs.100 <- glmmTMB(abundance.bb ~ Category + scale(honeybee) + scale(Hab_Ar
                         data = bbs.db.100)
 
 summary(base.bbs.100)
+Anova(base.bbs.100, type = 2)
 mod_dharma1 <- base.bbs.100 %>% simulateResiduals(n=1000)
 plot(mod_dharma1)
 check_collinearity(base.bbs.100) 
@@ -91,6 +92,29 @@ testSpatialAutocorrelation(
   x = tapply(bbs.db.100$X, bbs.db.100$Site, mean),
   y = tapply(bbs.db.100$Y, bbs.db.100$Site, mean)) 
 
+# Plot the effect of honeybees
+honey100.em <- emmeans(base.bbs.100, ~ honeybee, at 
+                    = list(honeybee = seq(min(bbs.db.100$honeybee),max(bbs.db.100$honeybee),length.out = 100)),
+                    type = "response")
+
+honey100.em <- as.data.frame(honey100.em)
+
+bumble <- readPNG("silhouettes/bumblebee.png")
+
+honey.100m <- ggplot(honey100.em, aes(honeybee, response)) + 
+  geom_point(data = bbs.db.100, aes(honeybee, abundance.bb), color = "#4C72B0", alpha = 0.5, size = 2) +
+  geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL), fill = "#4C72B0", alpha = 0.2) +
+  geom_line(linewidth = 1, colour = "#4C72B0") +
+  theme_bw() +
+  theme(panel.grid = element_blank(), axis.text = element_text(size = 13, face = "bold"),
+        axis.title = element_text(size = 16)) +
+  labs(x = "Honeybee abundance", y = "Bumblebee abundance")
+honey.100m
+
+honey.bbees <- ggdraw(honey.100m) + draw_image(bumble, x = 0.23, y = 0.63, width = 0.1, height = 0.5, hjust = 1, vjust = 0)
+honey.bbees
+
+ggsave("FigS9.png", honey.bbees, width = 20, height = 15, units = "cm",  dpi = 600)
 
 # 2. Test interaction category * honeybee abundance
 cat.honey <- glmmTMB(abundance.bb ~ Category * scale(honeybee) + scale(Hab_Area) + 
@@ -254,6 +278,12 @@ testSpatialAutocorrelation(
   x = tapply(bbs.db.100$X, bbs.db.100$Site, mean),
   y = tapply(bbs.db.100$Y, bbs.db.100$Site, mean))
 
+# 10. Null model
+null.bbs.100 <- glmmTMB(abundance.bb ~ 1 + 
+                          (1 | City/Triplet),
+                        family = nbinom2,
+                        data = bbs.db.100)
+
 # Collect AICc values
 
 mods <- list(
@@ -265,7 +295,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.bbs.100
 )
 
 map_dfr(mods, AIC, .id = "model")
@@ -326,7 +357,7 @@ bbs.db.1 <- bbs.db.1 |>
   mutate(Triplet = as.factor(Triplet)) |> 
   mutate(Category = as.factor(Category)) 
 
-# Landscape analysis - 100 m: ----
+# Landscape analysis - 1 km: ----
 # 1. base model
 base.bbs.1 <- glmmTMB(abundance.bb ~ Category + scale(honeybee) + scale(Hab_Area) + 
                           scale(Urban) + scale(Vegetated.open.land) + scale(Forest) + 
@@ -335,6 +366,7 @@ base.bbs.1 <- glmmTMB(abundance.bb ~ Category + scale(honeybee) + scale(Hab_Area
                         data = bbs.db.1)
 
 summary(base.bbs.1)
+Anova(base.bbs.1, type = 2)
 mod_dharma1 <- base.bbs.1 %>% simulateResiduals(n=1000)
 plot(mod_dharma1)
 check_collinearity(base.bbs.1) 
@@ -346,6 +378,22 @@ testSpatialAutocorrelation(
   res.1,
   x = tapply(bbs.db.1$X, bbs.db.1$Site, mean),
   y = tapply(bbs.db.1$Y, bbs.db.1$Site, mean)) 
+
+# Plot the effect of honeybees
+honey.em <- emmeans(base.bbs.1, ~ honeybee, at 
+                    = list(honeybee = seq(min(bbs.db.1$honeybee),max(bbs.db.1$honeybee),length.out = 100)),
+                    type = "response")
+
+honey.em <- as.data.frame(honey.em)
+
+honey.1km <- ggplot(honey.em, aes(honeybee, response)) + geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+                                                                      fill = "#4C72B0", alpha = 0.2) +
+  geom_line(linewidth = 1, colour = "#4C72B0") +
+  theme_bw() +
+  theme(panel.grid = element_blank(), axis.text = element_text(size = 13, face = "bold"),
+        axis.title = element_text(size = 16)) +
+  labs(x = "Honeybee abundance", y = "Bumblebee abundance")
+honey.1km
 
 
 # 2. Test interaction category * honeybee abundance
@@ -510,6 +558,13 @@ testSpatialAutocorrelation(
   x = tapply(bbs.db.1$X, bbs.db.1$Site, mean),
   y = tapply(bbs.db.1$Y, bbs.db.1$Site, mean)) 
 
+# 10. Null model
+null.bbs.1 <- glmmTMB(abundance.bb ~ 1 +
+                        (1 | City/Triplet),
+                      family = nbinom2,
+                      data = bbs.db.1)
+
+
 # Collect AICc values
 
 mods <- list(
@@ -521,7 +576,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.bbs.1
 )
 
 map_dfr(mods, AIC, .id = "model")

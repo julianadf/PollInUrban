@@ -21,6 +21,9 @@ library(mgcv)
 library(mgcViz)
 library(performance)
 library(purrr)
+library(multcomp)
+library(ggeffects)
+library(ggplot2)
 
 
 # Load data
@@ -134,8 +137,51 @@ testSpatialAutocorrelation(
   y = tapply(sr.100$Y, sr.100$Site, mean))
 
 
+# Figure
+# Post-hoc: category
+sr.em <- emmeans(mod.base, ~ Category , type="response") # probabilities
+sr.emms <- emmeans(mod.base, "Category") # estimated marginal means
+# Effect size:
+print(eff_size(sr.em, sigma=sigma(mod.base), edf=df.residual(mod.base))) #
+eff_size(pairs(sr.em), sigma(mod.base), df.residual(mod.base), method = "identity") # another way of writing the above
+# 
+pairs(sr.emms)
+plot(sr.emms, comparisons=TRUE)
+
+# Adam Flöhr:
+em.sr <- as.data.frame(sr.em)
+ggplot(em.sr, aes(Category, rate)) +
+  geom_point() +
+  geom_errorbar(aes(ymin = asymp.LCL, ymax = asymp.UCL), width = 0.1) +
+  ylab("Species richness") +
+  xlab(" ") +
+  #coord_cartesian(ylim = c(0,1)) +
+  theme_bw() +
+  theme(panel.grid.major.x = element_blank(),
+        axis.text.x = element_text(size = 14),
+        axis.title.x = element_text(size = 16),
+        axis.title.y = element_text(size = 16))
+
+em <- multcomp::cld(sr.em, Letters = letters)
+em <- as.data.frame(em)
+gg.abund <- ggplot(em, aes(Category, rate)) +
+  geom_point() +
+  geom_errorbar(aes(ymin = asymp.LCL, ymax = asymp.UCL)) +#, width = 0.1) +
+  #coord_cartesian(ylim = c(0,1.1)) +
+  geom_text(aes(y = 38.5, label = .group)) +
+  xlab(" ") +
+  ylab("Species richness")+
+  theme_bw() +
+  theme(axis.text.x = element_text(size=14),
+        axis.text.y= element_text(size=14),
+        axis.title.x = element_text(size=16),
+        axis.title.y = element_text(size=16)
+  )
+gg.abund
+
+
 # Category*area
-mod.area.cat <- glmmTMB(richness ~ Category * scale(Hab_Area) + scale(Urban) + scale(Vegetated.open.land) + scale(Forest) +
+mod.area.cat <- glmmTMB(richness ~ Category * scale(Hab_Area) +  scale(Vegetated.open.land) + scale(Forest) + scale(Urban) +
                         (1 | City/Triplet),
                       family = poisson,
                       data = sr.100)
@@ -285,6 +331,53 @@ testSpatialAutocorrelation(
   x = tapply(sr.1$X, sr.1$Site, mean),
   y = tapply(sr.1$Y, sr.1$Site, mean))
 
+# Null model
+mod.null <- glmmTMB(richness ~ 1 + (1 | City/Triplet),
+                           family = poisson,
+                           data = sr.100)
+
+summary(mod.null)
+anova(mod.null, mod.base)
+mod_dharma1 <- mod.null %>% simulateResiduals(n=1000)
+plot(mod_dharma1)
+check_collinearity(mod.null) 
+AICc(mod.null) 
+plot(allEffects(mod.null))
+visreg(mod.null, scale = "response")
+
+res.100 <- simulateResiduals(mod.null)
+
+testSpatialAutocorrelation(
+  res.100,
+  x = tapply(sr.1$X, sr.1$Site, mean),
+  y = tapply(sr.1$Y, sr.1$Site, mean))
+
+# Figure for publication
+gg.rich <- ggplot(sr.100, aes(Category, richness, fill = Category)) +
+  geom_boxplot(alpha = 0.6, width = 0.7) +
+  geom_jitter(width = 0.12,
+              size = 2,
+              alpha = 0.7,
+              shape = 21,
+              colour = "black") +
+  scale_fill_manual(values = c(
+    "DPC" = "#440154",                 
+    "Sown meadow" = "#f46d43",         
+    "Semi-natural grassland" =  "#21908C")) +
+  scale_x_discrete(labels = c("DPC" = "Designed", "Semi-natural grassland" = "Semi-natural",
+                              "Sown meadow" = "Sown")) +
+  labs(
+    #x = "Habitat category",
+    y = "Species richness") +
+  #annotate("text", x = 2, y = max(sr.100$richness) + 2, label = "LRT: ??² = 1.23, p = 0.54", size = 4.5) +
+  theme_classic(base_size = 14) +
+  theme(legend.position = "none",
+        axis.title.x = element_blank(),
+        axis.text = element_text(size = 16),
+        axis.title = element_text(size = 16))
+
+ggsave("FigS6.png", gg.rich, width = 16, height = 12, units = "cm",  dpi = 600)
+
 # Collect AICc values
 
 mods <- list(
@@ -295,7 +388,8 @@ mods <- list(
   area = mod.area.cat, 
   area.urban = mod.area.urban, 
   area.vol = mod.area.vol, 
-  area.forest = mod.area.forest
+  area.forest = mod.area.forest, 
+  null = mod.null
 )
 
 map_dfr(mods, AIC, .id = "model")
@@ -362,6 +456,23 @@ testSpatialAutocorrelation(
   y = tapply(sr.1$Y, sr.1$Site, mean))
 
 anova(mod.nested.1, mod.area.cat)
+
+# Figure
+# urban
+fig.interaction <- visreg(mod.area.cat, "Hab_Area", by= "Category", scale = "response", gg = TRUE) +
+  labs(
+    x = "Habitat area ("~m^2~")",
+    y = "Species richness"
+  ) +
+  theme_bw()
+
+fig.interaction
+
+fig.interaction + theme(axis.text.x = element_text(size=14),
+                  axis.text.y= element_text(size=17),
+                  axis.title.x = element_text(size=16),
+                  axis.title.y = element_text(size=17),
+                  strip.text = element_text(size=20))
 
 # Urban
 mod.urban <- glmmTMB(richness ~ Category * scale(Urban) + scale(Hab_Area)  + scale(Vegetated.open.land) + scale(Forest) +
@@ -491,9 +602,31 @@ testSpatialAutocorrelation(
   x = tapply(sr.1$X, sr.1$Site, mean),
   y = tapply(sr.1$Y, sr.1$Site, mean))
 
+# Null model
+mod.null.1 <- glmmTMB(richness ~ 1 +
+                        (1 | City/Triplet),
+                      family = poisson,
+                      data = sr.1)
+
+summary(mod.null.1)
+mod_dharma1 <- mod.null.1 %>% simulateResiduals(n=1000)
+plot(mod_dharma1)
+check_collinearity(mod.null.1) 
+AICc(mod.null.1) 
+plot(allEffects(mod.null.1))
+visreg(mod.null.1, scale = "response")
+
+res.1 <- simulateResiduals(mod.null.1)
+
+testSpatialAutocorrelation(
+  res.1,
+  x = tapply(sr.1$X, sr.1$Site, mean),
+  y = tapply(sr.1$Y, sr.1$Site, mean))
+
 # Collect AICc values
 
 mods <- list(
+  null = mod.null.1,
   base = mod.base.1,
   urban = mod.urban,
   open = mod.vol,
@@ -516,7 +649,7 @@ aic_table <- map_dfr(
 
 aic_table <- aic_table %>%
   arrange(AICc) %>%
-  mutate(delta_AICc = AICc - min(AIC))
+  mutate(delta_AICc = AICc - min(AICc))
 
 aic_table
 

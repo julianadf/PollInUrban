@@ -1,0 +1,78 @@
+Name_Swe;Genus_Species;Genus;species;Species;RL;RL2025;Wing_length_Bink;Mobility;Wingspan_Eliasson;Phenology;Overwintering;Host_spec_genus;Hostplant_1;Hostplant_2;Hostplant_3;Additional_Hostplant_4;Additional_Hostplant_5;Additional_Hostplant_6;Comment;Pollinator.group
+Silversmygare;Hesperia_comma;Hesperia;comma;Hesperia comma;NT;NT;14;3;29;August;Larva;Oligo;Festuca_ovina;;;;;;;Butterfly
+Ängssmygare;Ochlodes_sylvanus;Ochlodes;sylvanus;Ochlodes sylvanus;;;14;4;30;June-July;Larva;Poly;Poaceae;;;;;;;Butterfly
+Mindre tåtelsmygare;Thymelicus_lineola;Thymelicus;lineola;Thymelicus lineola;;NT;13;4;25;July-August;Larva;Oligo;Poaceae;;;;;;;Butterfly
+Skogsvisslare;Erynnis_tages;Erynnis;tages;Erynnis tages;;;13;3;28;May-early June;Larva;Oligo;Lotus_corniculatus;;;;;;;Butterfly
+Backvisslare;Pyrgus_armoricanus;Pyrgus;armoricanus;Pyrgus armoricanus;VU;VU;13;3;24;May-early June + August;Larva;Poly;Filipendula_vulgaris;Helianthemum_nummularium;;;;;;Butterfly
+Smultronvisslare;Pyrgus_malvae;Pyrgus;malvae;Pyrgus malvae;;;11;3;22;May-early June;Pupa;Poly;Fragaria_vesca;Potentilla_erecta;;;;;;Butterfly
+Violettkantad guldvinge;Lycaena_hippothoe;Lycaena;hippothoe;Lycaena hippothoe;NT;VU;17;3;33;June-July;Larva;Oligo;Rumex_acetosa;;;;;;;Butterfly
+Mindre guldvinge;Lycaena_phlaeas;Lycaena;phlaeas;Lycaena phlaeas;;;13;4;26;May-early June + August;Larva;Oligo;Rumex_acetosella;Rumex_acetosa;;;;;;Butterfly
+Vitfläckig guldvinge;Lycaena_virgaureae;Lycaena;virgaureae;Lycaena virgaureae;;NT;16;4;31;June-July;Larva;Oligo;Rumex_acetosa;Rumex_acetosella;;;;;;Butterfly
+Violett blåvinge;Agriades_optilete;Agriades;optilete;Agriades optilete;;;14;3;26;July;Larva;Poly;Andromeda_polifolia;Vaccinium_oxycoccus;Vaccinium_vitis-idaea;;;;;Butterfly
+Rödfläckig blåvinge;Aricia_agestis;Aricia;agestis;Aricia agestis;;;13;4;26;May-early June + August;Larva;Poly;Geranium_molle;Geranium_pusillum;Erodium_ciculatum;;;;;Butterfly
+Tosteblåvinge;Celastrina_argiolus;Celastrina;argiolus;Celastrina argiolus;;;14;5;28;May-early June + August;Pupa;Poly;Frangula_alnus;Rhamnus_cathartica;Cornus_sanguinea;several_other_plant_from_different_families_mentioned;;;;Butterfly
+Mindre blåvinge;Cupido_minimus;Cupido;minimus;Cupido minimus;NT;VU;11;2;22;June;Larva;Oligo;Anthyllis_vulneraria;;;;;;;Butterfly
+Ängsblåvinge;Cyaniris_semiargus;Cyaniris;semiargus;Cyaniris semiargus;;VU;15;4;28;June-July;Larva;Oligo;Trifolium_pratense;;;;;;;Butterfly
+Brun blåvinge;Eumedonia_eumedon;Eumedonia;eumedon;Eumedonia eumedon;;;15;3;26;June-July;Larva;Oligo;Geranium_sanguineum;Geranium_sylvaticum;;;;;;Butterfly
+Alkonblåvinge;Phengaris_alcon;Phengaris;alcon;Phengaris alcon;EN;EN;17;2;32;July;Larva;Oligo;Gentiana_pneumoanthe;;;;;;;Butterfly
+Svartfläckig blåvinge;Phengaris_arion;Phengaris;arion;Phengaris arion;NT;VU;20;3;38;July;Larva;Oligo;Thymus_serpyllum;;;;;;;Butterfly
+Ljungblåvinge;Plebejus_argus;Plebejus;argus;Plebejus argus;;;14;3;25;July;Egg;Poly;Calluna_vulgaris;Vaccinium_uliginosum;;;;;;Butterfly
+Hedblåvinge;Plebejus_idas;Plebejus;idas;Plebejus idas;;;14;3;24;July;Egg;Poly;Calluna_vulgaris;Vaccinium_uliginosum;Cytisus_scoparius;;;;;Butterfly
+Silverblåvinge;Polyommatus_amandus;Polyommatus;amandus;Polyommatus amandus;;VU;16;4;33;June-July;Larva;Poly;Lathyrus_pratensis;Vicia_cracca;Medicago_sativa;Fabaceae;;;Various_Fabaceae;Butterfly
+Väpplingblåvinge;Polyommatus_dorylas;Polyommatus;dorylas;Polyommatus dorylas;NT;NT;15;4;32;July;Larva;Oligo;Anthyllis_vulneraria;;;;;;;Butterfly
+Puktörneblåvinge;Polyommatus_icarus;Polyommatus;icarus;Polyommatus icarus;;;15;4;25;May-August;Larva;Oligo;Lotus_corniculatus;;;;;;;Butterfly
+Grönsnabbvinge;Callophrys_rubi;Callophrys;rubi;Callophrys rubi;;;14;4;24;May;Pupa;Oligo;Vaccinium_myrtillus;Vaccinium_uliginosum;Vaccinium_vitis-idaea;;;;;Butterfly
+Krattsnabbvinge;Satyrium_ilicis;Satyrium;ilicis;Satyrium ilicis;NT;NT;16;3;31;July;Egg;Oligo;Quercus_robur;Quercus_petraea;;;;;;Butterfly
+Busksnabbvinge;Satyrium_pruni;Satyrium;pruni;Satyrium pruni;;;14;1;33;June-July;Egg;Oligo;Prunus_spinosa;;;;;;;Butterfly
+Almsnabbvinge;Satyrium_w-album;Satyrium;w-album;Satyrium w-album;NT;NT;16;1;29;July;Egg;Oligo;Ulmus_glabra;;;;;;;Butterfly
+Eksnabbvinge;Favonius_quercus;Favonius;quercus;Favonius quercus;;;16;1;31;July-August;Egg;Oligo;Quercus_robur;Quercus_petraea;;;;;;Butterfly
+Eldsnabbvinge;Thecla_betulae;Thecla;betulae;Thecla betulae;;;17;3;34;August;Egg;Oligo;Prunus_spinosa;;;Prunus_spp.;;;Probably_all_Prunus_spp.;Butterfly
+Sälgskimmerfjäril;Apatura_iris;Apatura;iris;Apatura iris;;;34;3;70;July-August;Larva;Oligo;Salix_spp.;;;;;;;Butterfly
+Silverstreckad pärlemorfjäril;Argynnis_paphia;Argynnis;paphia;Argynnis paphia;;;33;4;59;July-August;Larva;Oligo;Viola_spp.;;;;;;;Butterfly
+Myrpärlemorfjäril;Boloria_aquilonaris;Boloria;aquilonaris;Boloria aquilonaris;;;19;3;33;June-July;Larva;Poly;Vaccinium_oxycoccus;Andromeda_polifolia;;;;;;Butterfly
+Prydlig pärlemorfjäril;Boloria_euphrosyne;Boloria;euphrosyne;Boloria euphrosyne;;;21;3;38;June;Larva;Poly;Viola_spp.;Vaccinium_uliginosum;;;;;;Butterfly
+Brunfläckig pärlemorfjäril;Boloria_selene;Boloria;selene;Boloria selene;;VU;20;3;39;June + August;Larva;Oligo;Viola_palustris;Viola_riviniana;;;;;;Butterfly
+Älggräspärlemorfjäril;Brenthis_ino;Brenthis;ino;Brenthis ino;;;20;2;38;July;Larva;Oligo;Filipendula_ulmaria;;;;;;;Butterfly
+Hedpärlemorfjäril;Fabriciana_niobe;Fabriciana;niobe;Fabriciana niobe;VU;VU;26;3;48;July-August;Egg;Oligo;Viola_tricolor;;;;;;;Butterfly
+Skogspärlemorfjäril;Fabriciana_adippe;Fabriciana;adippe;Fabriciana adippe;;;28;4;55;July-August;Egg;Oligo;Viola_spp.;;;;;;;Butterfly
+Storfläckig pärlemorfjäril;Issoria_lathonia;Issoria;lathonia;Issoria lathonia;;;21;5;42;May-early June + August;Larva;Oligo;Viola_tricolor;Viola_arvensis;;;;;;Butterfly
+Ängspärlemorfjäril;Speyeria_aglaja;Speyeria;aglaja;Speyeria aglaja;;;25;3;52;July-August;Larva;Oligo;Viola_spp.;;;;;;;Butterfly
+Tryfjäril;Limenitis_camilla;Limenitis;camilla;Limenitis camilla;EN;NT;26;3;54;July;Larva;Oligo;Lonicera_periclymenum;;;;;;;Butterfly
+Aspfjäril;Limenitis_populi;Limenitis;populi;Limenitis populi;;;35;3;80;July;Larva;Oligo;Populus_tremula;;;;;;;Butterfly
+Påfågelöga;Aglais_io;Aglais;io;Aglais io;;;28;6;60;April-August;Adult;Oligo;Urtica_dioica;;;;;;;Butterfly
+Nässelfjäril;Aglais_urticae;Aglais;urticae;Aglais urticae;;;23;6;46;April-August;Adult;Oligo;Urtica_dioica;;;;;;;Butterfly
+Kartfjäril;Araschnia_levana;Araschnia;levana;Araschnia levana;;;17;5;37;May + August;Pupa;Oligo;Urtica_dioica;;;;;;;Butterfly
+Sorgmantel;Nymphalis_antiopa;Nymphalis;antiopa;Nymphalis antiopa;;;33;6;69;April-May + August;Adult;Poly;Betula_spp.;Salix_spp.;;;;;;Butterfly
+Körsbärsfuks;Nymphalis_polychloros;Nymphalis;polychloros;Nymphalis polychloros;;;30;6;61;April-May + July-August;Adult;Poly;Ulmus_glabra;Salix_spp.;Populus_tremula;Prunus_spp.;;;;Butterfly
+Videfuks;Nymphalis_xanthomelas;Nymphalis;xanthomelas;Nymphalis xanthomelas;;;;;65;April-May + July-August;Adult;Oligo;Salix_spp.;;;;;;;Butterfly
+Vinbärsfuks;Polygonia_c-album;Polygonia;c-album;Polygonia c-album;;;22;6;45;April-May + July-August;Adult;Poly;Salix_caprea;Humulus_lupulus;Urtica_dioica;Ribes_spp.;Ulmus_glabra;Corylus_avellana;;Butterfly
+Amiral;Vanessa_atalanta;Vanessa;atalanta;Vanessa atalanta;;;29;9;58;May-August;Migrant;Oligo;Urtica_dioica;;;;;;;Butterfly
+Tistelfjäril;Vanessa_cardui;Vanessa;cardui;Vanessa cardui;;;28;8;56;May-August;Migrant;Poly;Carduus_sp.;Cirsium_sp.;;;;;;Butterfly
+Skogsnätfjäril;Melitaea_athalia;Melitaea;athalia;Melitaea athalia;;;19;3;37;June-July;Larva;Poly;Melampyrum_spp.;Veronica_chamaedrys;Plantago_lanceolata;;;;;Butterfly
+Ängsnätfjäril;Melitaea_cinxia;Melitaea;cinxia;Melitaea cinxia;NT;NT;19;3;42;June;Larva;Poly;Veronica_spicata;Plantago_lanceolata;;;;;;Butterfly
+Sotnätfjäril;Melitaea_diamina;Melitaea;diamina;Melitaea diamina;NT;NT;18;1;39;June;Larva;Oligo;Valeriana_sambucifolia;Valeriana_dioica;;;;;;Butterfly
+Pärlgräsfjäril;Coenonympha_arcania;Coenonympha;arcania;Coenonympha arcania;;;18;3;28;June-July;Larva;Poly;Poaceae;;;;;;;Butterfly
+Kamgräsfjäril;Coenonympha_pamphilus;Coenonympha;pamphilus;Coenonympha pamphilus;;;15;3;31;June + August;Larva;Poly;Melica_nutans;Poaceae;;;;;;Butterfly
+Starrgräsfjäril;Coenonympha_tullia;Coenonympha;tullia;Coenonympha tullia;;VU;19;2;32;July;Larva;Poly;Carex_spp.;Poaceae;;;;;;Butterfly
+Vitgräsfjäril;Lasiommata_maera;Lasiommata;maera;Lasiommata maera;;;24;3;47;June-July;Larva;Poly;Poaceae;;;;;;;Butterfly
+Svingelgräsfjäril;Lasiommata_megera;Lasiommata;megera;Lasiommata megera;;;22;4;39;June + August;Larva;Poly;Poaceae;;;;;;;Butterfly
+Kvickgräsfjäril;Pararge_aegeria;Pararge;aegeria;Pararge aegeria;;;21;4;40;June + August;Larva;Poly;Poaceae;;;;;;;Butterfly
+Skogsgräsfjäril;Erebia_ligea;Erebia;ligea;Erebia ligea;;;24;4;42;July-August;Egg + Larva;Poly;Poaceae;;;;;;;Butterfly
+Luktgräsfjäril;Aphantopus_hyperantus;Aphantopus;hyperantus;Aphantopus hyperantus;;;21;3;35;July;Larva;Poly;Poaceae;;;;;;;Butterfly
+Slåttergräsfjäril;Maniola_jurtina;Maniola;jurtina;Maniola jurtina;;;25;4;43;July;Larva;Poly;Poaceae;;;;;;;Butterfly
+Sandgräsfjäril;Hipparchia_semele;Hipparchia;semele;Hipparchia semele;;;26;4;50;July-August;Larva;Poly;Poaceae;;;;;;;Butterfly
+Makaonfjäril;Papilio_machaon;Papilio;machaon;Papilio machaon;;;37;5;81;June;Pupa;Oligo;Peucedanum_palustre;;;;;;;Butterfly
+Svavelgul höfjäril;Colias_palaeno;Colias;palaeno;Colias palaeno;;;24;4;49;June-July;Egg;Oligo;Vaccinium_uliginosum;;;;;;;Butterfly
+Citronfjäril;Gonepteryx_rhamni;Gonepteryx;rhamni;Gonepteryx rhamni;;;28;6;57;April-August;Adult;Poly;Frangula_alnus;Rhamnus_cathartica;;;;;;Butterfly
+Ängsvitvinge;Leptidea_juvernica;Leptidea;juvernica;Leptidea juvernica;;;;;40;;Pupa;Oligo;Lathyrus_pratensis;;;;;;;Butterfly
+Skogsvitvinge;Leptidea_sinapis;Leptidea;sinapis;Leptidea sinapis;;;20;4;40;June + August;Pupa;Oligo;Lathyrus_linifolius;;;;;;;Butterfly
+Aurorafjäril;Anthocharis_cardamines;Anthocharis;cardamines;Anthocharis cardamines;;;20;4;40;May;Pupa;Poly;Cardamine_pratensis;Allaria_petiolata;Arabis_sp.;Thlaspi_arvense;;;;Butterfly
+Hagtornsfjäril;Aporia_crataegi;Aporia;crataegi;Aporia crataegi;;;31;5;68;June-July;Larva;Poly;Sorbus_aucuparia;Crataegus_spp.;Prunus_spinosa;;;;;Butterfly
+Kålfjäril;Pieris_brassicae;Pieris;brassicae;Pieris brassicae;;;30;7;58;May-August;Pupa;Poly;Brassicaceae;;;;;;;Butterfly
+Rapsfjäril;Pieris_napi;Pieris;napi;Pieris napi;;;22;5;42;May-August;Pupa;Poly;Brassicaceae;;;;;;;Butterfly
+Rovfjäril;Pieris_rapae;Pieris;rapae;Pieris rapae;;;25;6;48;May-August;Pupa;Poly;Brassica_spp;;;;;;;Butterfly
+;;Zygaena;filipendulae;Zygaena filipendulae;NT;VU;;;34;July;Larva;Oligo;Lotus_corniculatus;;;;;;Trait data from Artfakta https://artfakta.se/;Butterfly
+;;Zygaena;lonicerae;Zygaena lonicerae;NT;VU;;;36;July;Larva;Poly;Trifolium_medium;Trifolium_pratense;Lathyrus_sp.;;;;Trait data from Artfakta https://artfakta.se/;Butterfly
+;;Zygaena;viciae;Zygaena viciae;NT;VU;;;27;July;Larva;Poly;Lotus_corniculatus;Lathyrus_pratense;Vicia_sp.;Trifolium_sp.;;;Trait data from Artfakta https://artfakta.se/;Butterfly
+;;Zygaena;minos;Zygaena minos;NT;NT;;;34;June-July;Larva;Oligo;Pimpinella_saxifraga;;;;;;Trait data from Artfakta https://artfakta.se/;Butterfly
+;;Adscita;statices;Adscita statices;NT;NT;;;28;June-July;Larva;Oligo;Rumex_acetosa;Rumex_acetosella;;;;;Trait data from Artfakta https://artfakta.se/;Butterfly

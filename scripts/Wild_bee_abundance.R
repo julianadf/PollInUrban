@@ -35,7 +35,7 @@ honeybee_df <- abund.100.raw %>%
 
 
 abund.100.bees <- abund.100.raw %>%
-  filter(Pollinator.type == "Bee") |> 
+  filter(Pollinator.type == "Wild bee") |> 
   group_by(City, Site, Triplet, Category, X, Y, Hab_Area, 
            Arable, Forest, Non.vegetated.open.land, Urban, Vegetated.open.land, Water, Wetland) 
 abund.100.bees
@@ -247,8 +247,13 @@ testSpatialAutocorrelation(
   x = tapply(bees.db.100$X, bees.db.100$Site, mean),
   y = tapply(bees.db.100$Y, bees.db.100$Site, mean))
 
-# Collect AICc values
+# 10. Null model
+null.bees.100 <- glmmTMB(total_abundance ~ 1 + 
+                           (1 | City/Triplet),
+                         family = nbinom2,
+                         data = bees.db.100)
 
+# Collect AICc values
 mods <- list(
   base = base.bees.100,
   cat.honey = cat.honey, 
@@ -258,7 +263,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.bees.100
 )
 
 map_dfr(mods, AIC, .id = "model")
@@ -286,7 +292,7 @@ honeybee_df <- abund.1.raw %>%
 
 
 abund.1.bees <- abund.1.raw %>%
-  filter(Pollinator.type == "Bee") |> 
+  filter(Pollinator.type == "Wild bee") |> 
   group_by(City, Site, Triplet, Category, X, Y, Hab_Area, 
            Arable, Forest, Non.vegetated.open.land, Urban, Vegetated.open.land, Water, Wetland) 
 abund.1.bees
@@ -499,6 +505,12 @@ testSpatialAutocorrelation(
   x = tapply(bees.db.1$X, bees.db.1$Site, mean),
   y = tapply(bees.db.1$Y, bees.db.1$Site, mean))
 
+# 10. Null model
+null.bees.1 <- glmmTMB(total_abundance ~ 1 + 
+                         (1 | City/Triplet),
+                       family = nbinom2,
+                       data = bees.db.1)
+
 # Collect AICc values
 
 mods <- list(
@@ -510,7 +522,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.bees.1
 )
 
 map_dfr(mods, AIC, .id = "model")

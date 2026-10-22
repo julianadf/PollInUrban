@@ -26,7 +26,7 @@ library(performance)
 abund.100.raw <- read.csv2(here("data/databases", "abund.db.100m.csv" ), fileEncoding = "latin1")
 abund.1.raw <- read.csv2(here("data/databases", "abund.db.1km.csv" ), fileEncoding = "latin1")
 
-# Bumblebees
+# Honey bees
 # structure data
 # 100 m:-----
 # Honey bees per site
@@ -232,6 +232,12 @@ testSpatialAutocorrelation(
   x = tapply(hbs.db.100$X, hbs.db.100$Site, mean),
   y = tapply(hbs.db.100$Y, hbs.db.100$Site, mean)) 
 
+# 9. Null model
+null.hbs.100 <- glmmTMB(abundance.hb ~ 1 + 
+                          (1 | City/Triplet),
+                        family = nbinom2,
+                        data = hbs.db.100)
+
 # Collect AICc values
 
 mods <- list(
@@ -242,7 +248,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.hbs.100
 )
 
 map_dfr(mods, AIC, .id = "model")
@@ -465,6 +472,12 @@ testSpatialAutocorrelation(
   x = tapply(hbs.db.1$X, hbs.db.1$Site, mean),
   y = tapply(hbs.db.1$Y, hbs.db.1$Site, mean)) 
 
+# Null model
+null.hbs.1 <- glmmTMB(abundance.hb ~ 1 + 
+                        (1 | City/Triplet),
+                      family = nbinom2,
+                      data = hbs.db.1)
+
 # Collect AICc values
 
 mods <- list(
@@ -475,7 +488,8 @@ mods <- list(
   cat.forest = cat.forest,
   area.urban = area.urban, 
   area.vol = area.vol, 
-  area.forest = area.forest
+  area.forest = area.forest, 
+  null = null.hbs.1
 )
 
 map_dfr(mods, AIC, .id = "model")

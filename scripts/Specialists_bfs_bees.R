@@ -26,7 +26,7 @@ landscape.100 <- read.csv2(here("data", "100m.csv" ), fileEncoding = "latin1")
 landscape.1 <- read.csv2(here("data", "1km.csv" ), fileEncoding = "latin1")
 generalists.specialists.raw <- read.csv2(here("data/databases", "transects.specialists.generalists.csv" ), fileEncoding = "latin1")
 
-# Butterflies
+# Butterflies ----
 all_sites <- generalists.specialists.raw %>%
   distinct(City, Site, Triplet, Category, honeybee.abund)
 
@@ -56,7 +56,7 @@ bf.100m <- butterflies %>%
 bf.1km <- butterflies %>%
   left_join(landscape.1, by = c("City", "Site", "Triplet", "Category"))
 
-# Analyse 100 m:
+# Analyse 100 m: ----
 base.butterfly.100m <- glmmTMB(abundance.group ~ Category + Specialisation + scale(honeybee.abund) + 
                                  scale(Hab_Area) + scale(Urban) + scale(Vegetated.open.land) + scale(Forest) + 
                                  (1 | City/Triplet),
@@ -214,6 +214,12 @@ testSpatialAutocorrelation(
   x = tapply(bf.100m$X, bf.100m$Site, mean),
   y = tapply(bf.100m$Y, bf.100m$Site, mean))
 
+# Null model
+null.butterfly.100m <- glmmTMB(abundance.group ~ 1 + 
+                                 (1 | City/Triplet),
+                               family = nbinom2,
+                               data = bf.100m)
+
 # Collect AICc values
 
 mods <- list(
@@ -223,7 +229,8 @@ mods <- list(
   area = area.butterfly.100m, 
   urban = urban.butterfly.100m,
   open = vol.butterfly.100m,
-  forest = forest.butterfly.100m
+  forest = forest.butterfly.100m, 
+  null = null.butterfly.100m
 )
 
 map_dfr(mods, AIC, .id = "model")
@@ -241,7 +248,7 @@ aic_table <- aic_table %>%
   mutate(delta_AICc = AICc - min(AICc))
 aic_table
 
-# Analyse 1 km:
+# Analyse 1 km: ----
 base.butterfly.1km <- glmmTMB(abundance.group ~ Category + Specialisation + scale(honeybee.abund) + 
                                 scale(Hab_Area) + scale(Urban) + scale(Vegetated.open.land) + scale(Forest) + 
                                 (1 | City/Triplet),
@@ -399,8 +406,13 @@ testSpatialAutocorrelation(
   x = tapply(bf.1km$X, bf.1km$Site, mean),
   y = tapply(bf.1km$Y, bf.1km$Site, mean))
 
-# Collect AICc values
+# Null model
+null.butterfly.1km <- glmmTMB(abundance.group ~ 1 + 
+                                (1 | City/Triplet),
+                              family = nbinom2,
+                              data = bf.1km)
 
+# Collect AICc values
 mods <- list(
   base = base.butterfly.1km,
   category = cat.butterfly.1km,
@@ -408,7 +420,8 @@ mods <- list(
   area = area.butterfly.1km, 
   urban = urban.butterfly.1km,
   open = vol.butterfly.1km,
-  forest = forest.butterfly.1km
+  forest = forest.butterfly.1km, 
+  null = null.butterfly.1km
 )
 
 map_dfr(mods, AIC, .id = "model")
@@ -427,7 +440,7 @@ aic_table <- aic_table %>%
 aic_table
 
 
-# Wild bees
+# Wild bees ----
 all_sites <- generalists.specialists.raw %>%
   distinct(City, Site, Triplet, Category, honeybee.abund) 
 
@@ -616,6 +629,12 @@ testSpatialAutocorrelation(
   x = tapply(bees.100m$X, bees.100m$Site, mean),
   y = tapply(bees.100m$Y, bees.100m$Site, mean))
 
+# 7. Null model
+null.bees.100m <- glmmTMB(abundance.group ~ 1 + 
+                            (1 | City/Triplet),
+                          family = nbinom2,
+                          data = bees.100m)
+
 # Collect AICc values
 
 mods <- list(
@@ -625,7 +644,8 @@ mods <- list(
   area = area.bees.100m, 
   urban = urban.bees.100m,
   open = vol.bees.100m,
-  forest = forest.bees.100m
+  forest = forest.bees.100m, 
+  null = null.bees.100m
 )
 
 map_dfr(mods, AIC, .id = "model")
@@ -867,6 +887,12 @@ testSpatialAutocorrelation(
   x = tapply(bees.1km$X, bees.1km$Site, mean),
   y = tapply(bees.1km$Y, bees.1km$Site, mean))
 
+# Null model
+null.bees.1km <- glmmTMB(abundance.group ~ 1 + 
+                           (1 | City/Triplet),
+                         family = nbinom2,
+                         data = bees.1km)
+
 # Collect AICc values
 
 mods <- list(
@@ -879,7 +905,8 @@ mods <- list(
   forest = forest.bees.1km, 
   area.urban = area.urban.bees.1km, 
   area.vol = area.vol.bees.1km, 
-  area.forest = area.forest.bees.1km
+  area.forest = area.forest.bees.1km, 
+  null = null.bees.1km
   
 )
 
